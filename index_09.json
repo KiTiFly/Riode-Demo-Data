@@ -1,0 +1,562 @@
+{
+  "sections": {
+    "1636168033f185e383": {
+      "type": "kt_slideshow",
+      "blocks": {
+        "12a6d01e-2dc6-47ec-9c70-0557e4179b9b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_484f80c4-2847-42c8-a1d6-4d1a01499f57.jpg",
+            "lazypreload": false,
+            "heading": "Lifestyle Collection",
+            "font_heading": "poppins_n4",
+            "subheading": "FOR TRAVELING",
+            "font_subheading": "poppins_n7",
+            "description": "SALE UP TO <span class=\"text-primary\">30% OFF<\/span>",
+            "font_description": "poppins_n7",
+            "text_alignment_top": 50,
+            "text_alignment_left": 100,
+            "text_alignment": "",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 100,
+            "text_alignment_mb": "",
+            "style_btn_1": "btn-white",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": true,
+            "link_1": "",
+            "textBtn_1": "SHOP NOW<i class=\" d-icon-arrow-right\"><\/i>",
+            "style_btn_2": "btn-dark",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\n}\n.block_id .slideshow__subtitle{\n}"
+          }
+        },
+        "db5909b9-9eb1-4809-b29f-c9f97f33968b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_292548f9-0a3c-4a2f-9ff8-0d9d5209c14e.jpg",
+            "lazypreload": false,
+            "heading": "Get Free Shipping on all orders over 75$",
+            "font_heading": "poppins_n4",
+            "subheading": "Fashion Trends",
+            "font_subheading": "poppins_n7",
+            "description": "UP TO <span class=\"text-primary\">10$ OFF<\/span>",
+            "font_description": "poppins_n6",
+            "text_alignment_top": 50,
+            "text_alignment_left": 12,
+            "text_alignment": "",
+            "text_alignment_top_mb": 51,
+            "text_alignment_left_mb": 12,
+            "text_alignment_mb": "",
+            "style_btn_1": "btn-white",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": false,
+            "link_1": "",
+            "textBtn_1": "SHOP NOW <i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn_2": "btn-dark",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\ncolor: #aaa;\n}\n.block_id .slideshow__subtitle{\ncolor: #fff;\n}\n.block_id .slideshow__description{\ncolor: #aaa;\n}"
+          }
+        },
+        "bb9930ef-c927-40c3-b58c-6772d48e5144": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_603ae382-5fbb-4ea0-b716-27617e36f7f2.jpg",
+            "lazypreload": false,
+            "heading": "",
+            "font_heading": "poppins_n7",
+            "subheading": "LOOKBOOK 2021",
+            "font_subheading": "poppins_n7",
+            "description": "<span style=\"font-size: 16px;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/span>",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 50,
+            "text_alignment_left": 50,
+            "text_alignment": "center",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 50,
+            "text_alignment_mb": "center",
+            "style_btn_1": "btn-white btn-outline",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": false,
+            "link_1": "",
+            "textBtn_1": "GO TO SHOP",
+            "style_btn_2": "btn-dark",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__subtitle{\ncolor: #fff;\n}\n.block_id .slideshow__description{\ncolor: #eee;\nline-height: 1.1;\n}"
+          }
+        }
+      },
+      "block_order": [
+        "12a6d01e-2dc6-47ec-9c70-0557e4179b9b",
+        "db5909b9-9eb1-4809-b29f-c9f97f33968b",
+        "bb9930ef-c927-40c3-b58c-6772d48e5144"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | w-100",
+        "section_margin_top": "20px",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "no_overflow": false,
+        "fullscreen": false,
+        "autoplay": false,
+        "use_navigation": true,
+        "nav_style": "-default",
+        "nav_mode": "white",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "default",
+        "use_scrollbar": false,
+        "h_reponsive": "400",
+        "h_reponsive_768": "",
+        "h_reponsive_992": "auto",
+        "h_reponsive_1200": "",
+        "h_reponsive_1400": "",
+        "autoplay_speed": 14,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"992\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"1200\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  }\n}",
+        "width_lg": 3,
+        "width_xxl": 3,
+        "border_radius": 3,
+        "css_section": ".section_id .slideshow__title {\ncolor: #333;\nfont-size: 1.250em;\nmargin-bottom: .5rem;\n}\n.section_id .slideshow__subtitle{\ncolor: #333;\nfont-size: 3.750em;\nmargin-bottom: 1rem;\nline-height: 1.1;\nletter-spacing: 0.6px;\n}\n.section_id .slideshow__description{\ncolor:#333;\nfont-size: 1.875em;\nmargin-bottom: 1.7rem;\nletter-spacing: -0.18px;\n}\n.section_id .btn{\n}"
+      }
+    },
+    "16399306998f5bb4b0": {
+      "type": "rd_list_item_cattegories_1",
+      "blocks": {
+        "1639930699f052bd8f-0": {
+          "type": "title",
+          "settings": {
+            "title_style": "auto",
+            "title": "",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30
+          }
+        },
+        "1639930699f052bd8f-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_2ebf288a-7066-4e00-b2b5-b65400f39a2b.jpg",
+            "link": "",
+            "title": "Men's Collection"
+          }
+        },
+        "1639930699f052bd8f-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_c9cffa22-c6f8-4140-a2ef-3d2e6da85435.jpg",
+            "link": "",
+            "title": "Accessories"
+          }
+        },
+        "1639930699f052bd8f-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_9e2906e5-f06a-4252-abe3-88fcab1d8f61.jpg",
+            "link": "",
+            "title": "For Women's"
+          }
+        },
+        "1639930699f052bd8f-4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_1ed476af-6309-41db-ae87-db2ee5e7af2f.jpg",
+            "link": "",
+            "title": "Top Fashional"
+          }
+        }
+      },
+      "block_order": [
+        "1639930699f052bd8f-0",
+        "1639930699f052bd8f-1",
+        "1639930699f052bd8f-2",
+        "1639930699f052bd8f-3",
+        "1639930699f052bd8f-4"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "style": "02",
+        "items": 4
+      }
+    },
+    "16401407045b2942ae": {
+      "type": "rd_prds_sc_tab_slide",
+      "blocks": {
+        "164014070451f0020c-0": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "stitle": "",
+            "title_align": "text-center",
+            "t_tranform": "text-uppercase",
+            "fsize_name_tab": 14,
+            "margin_btitle": 30,
+            "collection_list": [
+              "featured-h91-1",
+              "best-sellers-h91-3",
+              "new-arrivals-h91-2"
+            ],
+            "limit": 8,
+            "load_btn": false,
+            "name_btn": "VIEW MORE<i class=\"d-icon-arrow-right\" aria-hidden=\"true\"><\/i>",
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "autoplay": false,
+            "use_navigation": true,
+            "nav_style": "-default",
+            "nav_mode": "default",
+            "nav_position": "nav-default",
+            "use_dots": false,
+            "dots_mode": "default",
+            "dots_position": "inside",
+            "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 10\n  },\n  \"480\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  }\n}"
+          }
+        }
+      },
+      "block_order": [
+        "164014070451f0020c-0"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "use_lazyload": false,
+        "use_nospace": false
+      }
+    },
+    "1640140084678808bf": {
+      "type": "rd_prds_sc_slide_banner",
+      "blocks": {
+        "1640140084816167f4-0": {
+          "type": "item",
+          "settings": {
+            "title": "Our Sale Offer",
+            "margin_btitle": 14,
+            "products": "3-columns-mode",
+            "limit": 8,
+            "load_btn": false,
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "autoplay": false,
+            "use_navigation": false,
+            "nav_style": "-default",
+            "nav_mode": "default",
+            "nav_position": "nav-default",
+            "use_dots": false,
+            "dots_mode": "default",
+            "dots_position": "inside",
+            "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  },\n  \"375\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1500\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  }\n}"
+          }
+        },
+        "07323adc-0533-41eb-ba02-1fc3a74f463c": {
+          "type": "banner",
+          "settings": {
+            "title": "On Sale This Week’s",
+            "margin_btitle": 14,
+            "image": "shopify:\/\/shop_images\/1_8124e9f6-e1e6-444e-b3fc-c0c5977dc1b1.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "Black Friday Sale",
+            "color_desc": "#ffffff",
+            "titlex": "UP TO <span class=\"text-primary\">70% OFF<\/span>",
+            "color_titlex": "#ffffff",
+            "stitle": "EVERYTHING",
+            "color_stitle": "#ffffff",
+            "name_btn": "SHOP NOW",
+            "style_btn": "btn-white btn-outline",
+            "style_btn_rounded": "btn-rounded",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_left": 50,
+            "text_align": "center",
+            "text_align_top_mb": 50,
+            "text_align_left_mb": 50,
+            "text_align_mb": "center",
+            "banner-effect": ""
+          }
+        }
+      },
+      "block_order": [
+        "1640140084816167f4-0",
+        "07323adc-0533-41eb-ba02-1fc3a74f463c"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "use_lazyload": false,
+        "css_section": ""
+      }
+    },
+    "1640163420b4664b83": {
+      "type": "rd_img_text_cta_sc",
+      "blocks": {
+        "16401634205e47e59e-0": {
+          "type": "item",
+          "settings": {
+            "title": "What We Do",
+            "margin_btitle": 14,
+            "image_banner": "shopify:\/\/shop_images\/blog.jpg",
+            "height": "adapt",
+            "layout": "image-first",
+            "image_link": "",
+            "text_align": "text-center",
+            "title_section": "We are a Patient Experienced team with big Ambitions.",
+            "color_title": "#222222",
+            "stitle_section": "",
+            "color_sub_title": "#222222",
+            "content_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmotempor dunt ut labore et doloremagna…",
+            "color_desc": "#666666",
+            "name_btn": "READ MORE<i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn": "btn-dark",
+            "style_btn_rounded": "btn-rounded",
+            "btn_shadow": false
+          }
+        },
+        "da68a7ac-fcda-449e-959c-710c665cbf0e": {
+          "type": "cta",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_0574b609-ebd3-4e58-afbc-b05ea9ed7cec.jpg",
+            "title": "Contact Us",
+            "margin_btitle": 14,
+            "title_cta": "SUBSCRIBE TO OUR <strong>NEWSLETTER<\/strong>",
+            "description_cta": "Start Shopping Right Now",
+            "link_cta": "",
+            "btn_name_cta": "Click Here"
+          }
+        }
+      },
+      "block_order": [
+        "16401634205e47e59e-0",
+        "da68a7ac-fcda-449e-959c-710c665cbf0e"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "use_lazyload": false,
+        "css_section": ""
+      }
+    },
+    "16343724079dd99664": {
+      "type": "rd_brand_1",
+      "blocks": {
+        "1f8f48b4-838e-4e54-a692-5c176ee69b0e": {
+          "type": "title",
+          "settings": {
+            "title_style": "center",
+            "title": "The Best Clients",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30
+          }
+        },
+        "16343724079dd99664-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-5": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "brand_call_to_action": ""
+          }
+        }
+      },
+      "block_order": [
+        "1f8f48b4-838e-4e54-a692-5c176ee69b0e",
+        "16343724079dd99664-0",
+        "16343724079dd99664-1",
+        "16343724079dd99664-2",
+        "16343724079dd99664-3",
+        "16343724079dd99664-4",
+        "16343724079dd99664-5"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "border_top": false,
+        "border_bottom": false,
+        "border_color": "#ebebeb",
+        "autoplay": false,
+        "use_navigation": false,
+        "nav_style": "-default",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "default",
+        "dots_position": "inside",
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1.2,\n    \"spaceBetween\": 20\n  },\n  \"320\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"480\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 5,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 6,\n    \"spaceBetween\": 20\n  }\n}",
+        "css": ".section_id .icon__brand {\n    box-shadow: 0 8px 25px 0 rgb(0 0 0 \/ 6%);\n    border-radius: 3px;\n}\n.section_id .swiper {\n    padding: 1.875rem 10px;\n    margin: -1.875rem -10px;\n    overflow: hidden;\n}\n@media (min-width: 1200px) {\n.section_id .swiper {\n    padding: 1.875rem 12px;\n    margin: -1.875rem -12px;\n}\n}"
+      }
+    },
+    "164007290479e03fe9": {
+      "type": "kt_instagram_1",
+      "blocks": {
+        "4cf6e7f8-4d32-448d-8d35-af846f84adaa": {
+          "type": "title",
+          "settings": {
+            "title_style": "center",
+            "title": "Our Instagram",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30
+          }
+        },
+        "a523b519-6469-4ddd-b008-708adf971236": {
+          "type": "img_i",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_f3ff880e-0a6b-42ec-9e59-d90d09880fce.jpg",
+            "image_link": ""
+          }
+        },
+        "ba0807e8-dc11-44e5-99e4-48f7618bc0e8": {
+          "type": "img_i",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_bd02dbad-a89f-4755-a910-52649afb6f94.jpg",
+            "image_link": ""
+          }
+        },
+        "c54bfd4d-82e1-40ec-8ff0-e6151890434d": {
+          "type": "img_i",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_3c282d3c-8833-4f03-b8df-2debb698bd13.jpg",
+            "image_link": ""
+          }
+        },
+        "698e28ef-6980-4d4e-bef1-4e78773291f9": {
+          "type": "img_i",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_2cde87c5-ffb6-4f87-b1e1-46babe04cd98.jpg",
+            "image_link": ""
+          }
+        },
+        "38ec9eea-77a2-4423-b07d-931cf19b39d4": {
+          "type": "img_i",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_1718d265-d10c-4f70-93b1-773b739c1ab9.jpg",
+            "image_link": ""
+          }
+        },
+        "6aedc3ff-11d7-46bb-98da-1e722376f345": {
+          "type": "img_i",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6_c8d8b1a5-8cde-4506-915a-5a95c47877c3.jpg",
+            "image_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "4cf6e7f8-4d32-448d-8d35-af846f84adaa",
+        "a523b519-6469-4ddd-b008-708adf971236",
+        "ba0807e8-dc11-44e5-99e4-48f7618bc0e8",
+        "c54bfd4d-82e1-40ec-8ff0-e6151890434d",
+        "698e28ef-6980-4d4e-bef1-4e78773291f9",
+        "38ec9eea-77a2-4423-b07d-931cf19b39d4",
+        "6aedc3ff-11d7-46bb-98da-1e722376f345"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "titlex": "Our Instagram",
+        "stitle": "",
+        "reverse": false,
+        "title_align": "text-center",
+        "name_link": "",
+        "margin_btitle": 30,
+        "images_limit": 12,
+        "per_row": 6,
+        "use_nospace": false,
+        "use_slide": false,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 20\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 6,\n    \"spaceBetween\": 20\n  }\n}"
+      }
+    }
+  },
+  "order": [
+    "1636168033f185e383",
+    "16399306998f5bb4b0",
+    "16401407045b2942ae",
+    "1640140084678808bf",
+    "1640163420b4664b83",
+    "16343724079dd99664",
+    "164007290479e03fe9"
+  ]
+}

@@ -1,0 +1,618 @@
+{
+  "sections": {
+    "1636168033f185e383": {
+      "type": "kt_slideshow",
+      "blocks": {
+        "45a11642-e4c0-4193-84fb-fc0c95459329": {
+          "type": "menu",
+          "settings": {
+            "bg_color": "#f8f8f8"
+          }
+        },
+        "12a6d01e-2dc6-47ec-9c70-0557e4179b9b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_bbee3f1f-ee82-4bca-9136-17bd89aad8e8.jpg",
+            "lazypreload": false,
+            "heading": "NEW ARRIVALS",
+            "font_heading": "poppins_n8",
+            "subheading": "Women Life Style",
+            "font_subheading": "poppins_n7",
+            "description": "<b>UP TO 25%<\/b>\n<span>DISCOUNT<\/span>",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 50,
+            "text_alignment_left": 10,
+            "text_alignment": "",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 10,
+            "text_alignment_mb": "",
+            "style_btn_1": "btn-secondary",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": true,
+            "link_1": "",
+            "textBtn_1": "SHOP NOW",
+            "style_btn_2": "btn-primary btn-outline",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__subtitle {\n    font-size: 2.25em;\ncolor:#2c3737;\nmargin-bottom:0px;\n}\n.block_id .slideshow__description b {\ncolor: #519071 !important;\n}\n.block_id .btn-white.btn-outline {\ncolor: black;\n    border-color: black;\n}"
+          }
+        },
+        "db5909b9-9eb1-4809-b29f-c9f97f33968b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_cb860e61-a1d1-4a17-a3b1-7ff520170892.jpg",
+            "lazypreload": false,
+            "heading": "BEST SELLERS",
+            "font_heading": "poppins_n7",
+            "subheading": "Air Powered Outdoor",
+            "font_subheading": "poppins_n7",
+            "description": "<b>UP TO 25%<\/b>\n<span>DISCOUNT<\/span>",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 50,
+            "text_alignment_left": 80,
+            "text_alignment": "",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 50,
+            "text_alignment_mb": "center",
+            "style_btn_1": "btn-secondary btn-outline",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": false,
+            "link_1": "",
+            "textBtn_1": "Explore now",
+            "style_btn_2": "btn-dark",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__subtitle {\n    font-size: 2.25em;\ncolor:#2c3737;\nmargin-bottom:0px;\n}\n.block_id .slideshow__title {\ncolor: #519071 !important;\n}\n.block_id .slideshow__description {\ncolor: #2c3737 !important;\n}\n.block_id .btn-white.btn-outline {\ncolor: black;\n    border-color: black;\n}"
+          }
+        }
+      },
+      "block_order": [
+        "45a11642-e4c0-4193-84fb-fc0c95459329",
+        "12a6d01e-2dc6-47ec-9c70-0557e4179b9b",
+        "db5909b9-9eb1-4809-b29f-c9f97f33968b"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "20px",
+        "section_margin_bottom": "30px",
+        "section_padding": "",
+        "section_bg": "#ffffff",
+        "no_overflow": false,
+        "fullscreen": false,
+        "autoplay": false,
+        "use_navigation": false,
+        "nav_style": "-default",
+        "nav_mode": "white",
+        "nav_position": "nav-default",
+        "use_dots": true,
+        "dots_mode": "white",
+        "use_scrollbar": false,
+        "h_reponsive": "400",
+        "h_reponsive_768": "",
+        "h_reponsive_992": "auto",
+        "h_reponsive_1200": "auto",
+        "h_reponsive_1400": "auto",
+        "autoplay_speed": 14,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"992\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"1200\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  }\n}",
+        "width_lg": 2,
+        "width_xxl": 3,
+        "border_radius": 3,
+        "css_section": ".section_id .slideshow__title {\ncolor: #333;\nfont-size: 1.250em;\nmargin-bottom: 5px;\n}\n.section_id .slideshow__subtitle{\ncolor: #fff;\nfont-size: 1.875em;\nmargin-bottom: 10px;\nline-height: 1.1;\n}\n.section_id .slideshow__description{\ncolor:#b6b6b6;\nfont-size: 1.250em;\nmargin-bottom: 10px;\n}\n.section_id .btn{\npadding: 1em 2.4em;\n}\n.section_id .kt_banner_flexible .p {\nfont-weight: 700;\nopacity: 0.8;\n}\n.section_id .kt_banner_flexible .h3 {\nfont-weight: 700;\nfont-size: 15px;\nline-height: 1;\nletter-spacing: -0.6px;\n}\n.section_id .--button {\n    position: absolute;\n    transform: translateY(-80%);\n    opacity: 0;\n    transition: transform .3s, opacity .3s;\n    line-height: 1;\n}\n.section_id .item-banner:nth-child(2n+1) .banner:hover .--button {\n    opacity: 1;\n    transform: none;\n    transition: transform .3s, opacity .3s;\n    line-height: 1;\n}\n.section_id .item-banner.col {\npadding-bottom: 18px !important;\n}"
+      }
+    },
+    "1661072941aa4d95d3": {
+      "type": "kt_banner_flexible",
+      "blocks": {
+        "49e3757f-6dca-4403-91ea-753b1d40a592": {
+          "type": "it_cat_1",
+          "settings": {
+            "title": "Categories item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 4,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/1_6c4edf93-ffa5-4b40-8421-4b31f416f509.jpg",
+            "image_link": "4-columns-mode",
+            "blank_link": false,
+            "titlex": "SHOP MEN",
+            "color_titlex": "#ffffff",
+            "name_btn": "SHOP NOW",
+            "style_btn": "btn-underline btn-white btn-link",
+            "banner-effect": ""
+          }
+        },
+        "540e88c1-6841-44f6-b728-1142c40d4f3c": {
+          "type": "it_cat_1",
+          "settings": {
+            "title": "Categories item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 4,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/2_d3f1e282-a796-4583-af35-5111c4df1345.jpg",
+            "image_link": "accessories-h11-3",
+            "blank_link": false,
+            "titlex": "SHOP WOMEN",
+            "color_titlex": "#ffffff",
+            "name_btn": "SHOP NOW",
+            "style_btn": "btn-underline btn-white btn-link",
+            "banner-effect": ""
+          }
+        },
+        "030cdf90-afc0-45c1-9330-d82837bcd7f6": {
+          "type": "it_cat_1",
+          "settings": {
+            "title": "Categories item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 4,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/3_e0c54995-7886-48ca-8f08-7c9bc6bee066.jpg",
+            "image_link": "4-columns-sports",
+            "blank_link": false,
+            "titlex": "SHOP ELECTRIC",
+            "color_titlex": "#ffffff",
+            "name_btn": "SHOP NOW",
+            "style_btn": "btn-underline btn-white btn-link",
+            "banner-effect": ""
+          }
+        }
+      },
+      "block_order": [
+        "49e3757f-6dca-4403-91ea-753b1d40a592",
+        "540e88c1-6841-44f6-b728-1142c40d4f3c",
+        "030cdf90-afc0-45c1-9330-d82837bcd7f6"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "30px",
+        "section_padding": "",
+        "section_bg": "",
+        "layout_mode": "normal",
+        "grid_gutter": 10,
+        "border_radius": 4,
+        "css_section": ".section_id .it_cat_1 .text-content {\n    text-align: left !important;\n    --top: 85%;\n    --start: 5%;\n}"
+      }
+    },
+    "166117990612fb91f8": {
+      "type": "rd_prds_sc_tab_load",
+      "blocks": {
+        "166117990615ad1cce-0": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "stitle": "",
+            "title_align": "text-center",
+            "t_tranform": "text-uppercase",
+            "fsize_name_tab": 20,
+            "margin_btitle": 30,
+            "collection_list": [
+              "best-sellers-35",
+              "featured-h91-1",
+              "boxed-banner"
+            ],
+            "limit_per_row": 5,
+            "limit": 10,
+            "range_row": 20,
+            "load_btn": false,
+            "name_btn": "VIEW MORE<i class=\"d-icon-arrow-right\" aria-hidden=\"true\"><\/i>",
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false
+          }
+        }
+      },
+      "block_order": [
+        "166117990615ad1cce-0"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "40px",
+        "section_padding": "",
+        "section_bg": "",
+        "use_lazyload": true,
+        "use_nospace": false
+      }
+    },
+    "16610659297a2e53f8": {
+      "type": "kt_banner_flexible",
+      "blocks": {
+        "07447ba7-53ca-4e01-9d33-5943aac17fbc": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 4,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/4_fc56acab-213c-4564-b47f-8db91e35670a.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "MUST-BY",
+            "color_desc": "#ffffff",
+            "titlex": "ELETRONICS",
+            "color_titlex": "#ffffff",
+            "stitle": "",
+            "color_stitle": "#ffffff",
+            "name_btn": "SHOP NOW",
+            "style_btn": "btn-white btn-outline",
+            "style_btn_rounded": "btn-rounded",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 16,
+            "text_align": "",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 16,
+            "text_align_mb": "",
+            "banner-effect": ""
+          }
+        },
+        "d76fe8e1-a400-4daf-b046-5269a24faeb1": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 4,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/5_0019535e-19a8-4f1f-bb5d-8ee346383a4b.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "BRAND SALE",
+            "color_desc": "#ffffff",
+            "titlex": "FASHION SHOES",
+            "color_titlex": "#ffffff",
+            "stitle": "",
+            "color_stitle": "#ffffff",
+            "name_btn": "SHOP NOW",
+            "style_btn": "btn-white btn-outline",
+            "style_btn_rounded": "btn-rounded",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 16,
+            "text_align": "",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 16,
+            "text_align_mb": "",
+            "banner-effect": ""
+          }
+        },
+        "5bdda839-ab67-483b-86b1-36f6e3aa686c": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 4,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/6_581da7a9-2ac3-4367-bf67-873991e937d9.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "FLASH SALE",
+            "color_desc": "#ffffff",
+            "titlex": "ACCESSORIES",
+            "color_titlex": "#ffffff",
+            "stitle": "",
+            "color_stitle": "#ffffff",
+            "name_btn": "SHOP NOW",
+            "style_btn": "btn-white btn-outline",
+            "style_btn_rounded": "btn-rounded",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 16,
+            "text_align": "",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 16,
+            "text_align_mb": "",
+            "banner-effect": ""
+          }
+        }
+      },
+      "block_order": [
+        "07447ba7-53ca-4e01-9d33-5943aac17fbc",
+        "d76fe8e1-a400-4daf-b046-5269a24faeb1",
+        "5bdda839-ab67-483b-86b1-36f6e3aa686c"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "40px",
+        "section_padding": "0 13.5px",
+        "section_bg": "",
+        "layout_mode": "normal",
+        "grid_gutter": 10,
+        "border_radius": 4,
+        "css_section": ".section_id .--text .desc{\n    font-weight:600;\n    font-size: 1.500em;\n    line-height: 1em;\n    letter-spacing: -0.7px;\n}\n.section_id .--text .titlex {\n    font-size:2.125em;\n    line-height: 1;\n    font-weight:700;\n}"
+      }
+    },
+    "16611800198d67496c": {
+      "type": "rd_prds_sc_grid",
+      "blocks": {
+        "16611800196693e4ca-0": {
+          "type": "item",
+          "settings": {
+            "title_style": "custom-underline",
+            "title": "Best of the Week",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30,
+            "products": "best-sellers-35",
+            "limit_per_row": 4,
+            "limit": 4,
+            "range_row": 20,
+            "load_btn": false,
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false
+          }
+        }
+      },
+      "block_order": [
+        "16611800196693e4ca-0"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "40px",
+        "section_padding": "",
+        "section_bg": "",
+        "use_lazyload": true,
+        "use_nospace": false
+      }
+    },
+    "16611533850fd6e696": {
+      "type": "kt_slideshow",
+      "blocks": {
+        "1661153384bede474e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7_bac9d37d-5600-4f8d-bca0-d894d713da57.jpg",
+            "lazypreload": false,
+            "heading": "FLASH SALE",
+            "font_heading": "poppins_n7",
+            "subheading": "<span>Electric Kettle<\/span>\n\n<small>Safe &amp; Water boiling in 60 seconds<\/small>",
+            "font_subheading": "poppins_n7",
+            "description": "START AT $29.00",
+            "font_description": "poppins_n7",
+            "text_alignment_top": 50,
+            "text_alignment_left": 10,
+            "text_alignment": "",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 10,
+            "text_alignment_mb": "",
+            "style_btn_1": "btn-primary",
+            "style_btn_rounded_1": "",
+            "btn_shadow_1": false,
+            "link_1": "",
+            "textBtn_1": "SHOP NOW",
+            "style_btn_2": "btn-dark",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\ncolor: #519071 !important;\nfont-size:20px;\nmargin: 0 0 15px;\n}\n.block_id .slideshow__subtitle {\n    margin-bottom: 15px !important;\n}\n.block_id .slideshow__subtitle span{\n    color: #2c3737;\n    font-size: 3.125em;\n    line-height: 0.8;\n    letter-spacing: -1.25px;\n}\n.block_id .slideshow__subtitle small {\ncolor: #404B48;\n    font-size: 1.5em;\n    line-height: 1.25;\n    letter-spacing: -0.6px;\n    font-weight: 400;\n}\n.block_id .slideshow__description {\ndisplay: block;\n    color: #2c3737;\n    font-size: 1.875em;\n    line-height: 30px;\n    letter-spacing: -0.75px;\n    margin-bottom: 20px !important;\n}\n.block_id .btn {\n    padding: 13px 27px;\nborder-radius: 3px;\n}\n@media(max-width:575px){\n.block_id .slideshow__title {\ndisplay:none;\n}\n.block_id .btn {\npadding: 5px 7px;\n}\n.block_id .slideshow__description, .block_id .slideshow__subtitle {\nmargin:0 !important;\n}\n}"
+          }
+        }
+      },
+      "block_order": [
+        "1661153384bede474e-0"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding": "",
+        "section_bg": "",
+        "no_overflow": false,
+        "fullscreen": false,
+        "autoplay": false,
+        "use_navigation": false,
+        "nav_style": "-default",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "default",
+        "use_scrollbar": false,
+        "h_reponsive": "",
+        "h_reponsive_768": "",
+        "h_reponsive_992": "",
+        "h_reponsive_1200": "",
+        "h_reponsive_1400": "",
+        "autoplay_speed": 7,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"992\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"1200\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  }\n}",
+        "width_lg": 6,
+        "width_xxl": 6,
+        "border_radius": 10,
+        "css_section": ""
+      }
+    },
+    "1660064496e990a7c1": {
+      "type": "rd_blog",
+      "blocks": {
+        "d2aa6e95-abdf-4f48-b18f-b9c80e65d362": {
+          "type": "3",
+          "settings": {
+            "blog": "blog_home_35",
+            "limit": 3,
+            "short_desc": true,
+            "load_btn": false,
+            "style_btn": "btn-primary btn-underline btn-link",
+            "style_btn_rounded": "",
+            "btn_shadow": false
+          }
+        },
+        "8a7eba7e-dc81-4b77-80f9-2ff40375452a": {
+          "type": "title",
+          "settings": {
+            "title_style": "custom-underline",
+            "title": "Latest News",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30
+          }
+        }
+      },
+      "block_order": [
+        "d2aa6e95-abdf-4f48-b18f-b9c80e65d362",
+        "8a7eba7e-dc81-4b77-80f9-2ff40375452a"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "40px",
+        "section_margin_bottom": "",
+        "section_padding": "",
+        "section_bg": "",
+        "fweight_title": "600",
+        "fsize_stitle": 1.8,
+        "color_title": "#ffffff",
+        "margin_btitle": 0.8,
+        "fweight_description": "300",
+        "fsize_description": 1.4,
+        "color_desc": "#ffffff",
+        "margin_bdescription": 0.8,
+        "use_lazyload": false,
+        "autoplay": false,
+        "use_navigation": false,
+        "nav_style": "-default",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "default",
+        "dots_position": "inside",
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 20\n  },\n  \"480\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  }\n}",
+        "css_section": ""
+      }
+    },
+    "1661093990e02609f8": {
+      "type": "rd_icon_boxes",
+      "blocks": {
+        "99b48016-0d5e-4fc3-93a5-5cee3a5e8d17": {
+          "type": "item_icon_box_card",
+          "settings": {
+            "icon_font": "d-icon-truck",
+            "size": 44,
+            "title": "FREE SHIPPING & RETURN",
+            "content": "Get free delivery of your orders all over the world.",
+            "bg_color": "#ffffff",
+            "url": ""
+          }
+        },
+        "5b16183e-1716-450f-9abd-d3a43126f816": {
+          "type": "item_icon_box_card",
+          "settings": {
+            "icon_font": "d-icon-service",
+            "size": 44,
+            "title": "CUSTOMER SUPPORT",
+            "content": "We provide convenient support of 24\/7 for our customers.",
+            "bg_color": "#ffffff",
+            "url": ""
+          }
+        },
+        "6f2e41f2-a0f0-4dc3-9edf-c897669a9fc2": {
+          "type": "item_icon_box_card",
+          "settings": {
+            "icon_font": "d-icon-money",
+            "size": 44,
+            "title": "SECURED PAYMENT",
+            "content": "We fully guarantee our money back policy with no doubt.",
+            "bg_color": "#ffffff",
+            "url": ""
+          }
+        },
+        "9b6c2287-7b10-4d3c-8364-3e8d9ea98834": {
+          "type": "item_icon_box_card",
+          "settings": {
+            "icon_font": "d-icon-card",
+            "size": 44,
+            "title": "MONEY BACK GUARANTEE",
+            "content": "Get our first gift - 20% off for your first ordered product.",
+            "bg_color": "#ffffff",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "99b48016-0d5e-4fc3-93a5-5cee3a5e8d17",
+        "5b16183e-1716-450f-9abd-d3a43126f816",
+        "6f2e41f2-a0f0-4dc3-9edf-c897669a9fc2",
+        "9b6c2287-7b10-4d3c-8364-3e8d9ea98834"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "40px",
+        "section_margin_bottom": "30px",
+        "section_padding": "0 0 20px 0",
+        "section_bg": "",
+        "border_top": false,
+        "border_bottom": false,
+        "border_color": "#ebebeb",
+        "color_icon": "#519071",
+        "color_title": "#333333",
+        "color_desc": "#cccccc",
+        "title_font_weight": "700",
+        "use_slide": false,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 20\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 20\n  },\n  \"476\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  }\n}",
+        "css_section": ".section_id .icon-boxes-container .col{\nborder-right: 1px solid #ececec;\n    border-left: 1px solid #ececec;\n}\n.section_id .icon-boxes-container .col .icon-box {\nmargin-bottom: 0px;\n}\n.section_id .icon-box-title {\nfont-size: 16px;\n    font-weight: 700;\n    letter-spacing: -0.4px;\n    line-height: 1.6;\n}\n.section_id .icon-box-title p {\n    color: #666;\n    margin: 0;\n    line-height: 1.72;\n    letter-spacing: 0;\n}\n.section_id .icon-box-icon {\n    font-size: 45px;\n    padding: 12px;\nborder-radius: 50%;\n    background-color: #f4f8fb;\n    margin-bottom: 15px;\n}\n.section_id .icon-box-icon .d-icon-truck {\n    font-size: unset;\n}"
+      }
+    }
+  },
+  "order": [
+    "1636168033f185e383",
+    "1661072941aa4d95d3",
+    "166117990612fb91f8",
+    "16610659297a2e53f8",
+    "16611800198d67496c",
+    "16611533850fd6e696",
+    "1660064496e990a7c1",
+    "1661093990e02609f8"
+  ]
+}

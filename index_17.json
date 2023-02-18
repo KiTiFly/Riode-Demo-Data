@@ -1,0 +1,638 @@
+{
+  "sections": {
+    "1636168033f185e383": {
+      "type": "kt_slideshow",
+      "blocks": {
+        "e2cf60d0-333c-4536-a82b-65f357308b45": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_0f1c9120-2fe1-427d-a5a5-8fcadd1214c5.jpg",
+            "lazypreload": false,
+            "heading": "CREATE THE PERFECT WORK SPACE",
+            "font_heading": "poppins_n5",
+            "subheading": "Fashion <span class=\"text-uppercase text-primary\">Dress &amp; Tops<\/span> Collection",
+            "font_subheading": "poppins_n7",
+            "description": "",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 50,
+            "text_alignment_left": 50,
+            "text_alignment": "center",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 50,
+            "text_alignment_mb": "center",
+            "style_btn_1": "btn-white btn-outline",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": false,
+            "link_1": "",
+            "textBtn_1": "SHOP MEN",
+            "style_btn_2": "btn-white btn-outline",
+            "style_btn_rounded_2": "btn-rounded",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "SHOP WOMEN",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\n}\n.block_id .slideshow__subtitle{\n}\n.block_id .slideshow__description{\n}\n.block_id .btn{\n    padding: 1.07em 2.15em;\n    font-size: 13px;\n}"
+          }
+        },
+        "db5909b9-9eb1-4809-b29f-c9f97f33968b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_ff95a391-4a8c-40ad-90a4-60d541edc750.jpg",
+            "lazypreload": false,
+            "heading": "NEW ARRIVALS",
+            "font_heading": "poppins_n5",
+            "subheading": "FOR WOMEN’S FASHION",
+            "font_subheading": "poppins_n7",
+            "description": "Get Free Shipping on all orders over 75$",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 50,
+            "text_alignment_left": 10,
+            "text_alignment": "",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 10,
+            "text_alignment_mb": "",
+            "style_btn_1": "btn-white btn-outline",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": true,
+            "link_1": "",
+            "textBtn_1": "SHOP NOW<i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn_2": "btn-dark",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\nmargin-bottom: 0;\n}\n.block_id .slideshow__subtitle{\nmargin-bottom: 0;\n}\n.block_id .slideshow__description{\nmargin-bottom: 2rem;\n}"
+          }
+        },
+        "12a6d01e-2dc6-47ec-9c70-0557e4179b9b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_d0af7eb5-9849-4689-908b-afe768215200.jpg",
+            "lazypreload": false,
+            "heading": "FOR WOMEN'S",
+            "font_heading": "poppins_n5",
+            "subheading": "ACCESSORIES SALE",
+            "font_subheading": "poppins_n8",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, <br>sed do eiusmod tempt dolore magna aliqua...",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 50,
+            "text_alignment_left": 80,
+            "text_alignment": "center",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 80,
+            "text_alignment_mb": "center",
+            "style_btn_1": "btn-primary",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": false,
+            "link_1": "",
+            "textBtn_1": "SHOP NOW <i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn_2": "btn-white btn-outline",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\n}\n.block_id .slideshow__subtitle{\nmargin-bottom: 1rem\n}\n.block_id .slideshow__description{\nfont-size: 1rem;\ncolor: #999;\n}"
+          }
+        }
+      },
+      "block_order": [
+        "e2cf60d0-333c-4536-a82b-65f357308b45",
+        "db5909b9-9eb1-4809-b29f-c9f97f33968b",
+        "12a6d01e-2dc6-47ec-9c70-0557e4179b9b"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | w-100",
+        "section_margin_top": "0px|0px|0px|20px",
+        "section_margin_bottom": "20px",
+        "section_padding": "",
+        "section_bg": "rgba(0,0,0,0)",
+        "no_overflow": false,
+        "fullscreen": false,
+        "autoplay": false,
+        "use_navigation": false,
+        "nav_style": "-default",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": true,
+        "dots_mode": "white",
+        "use_scrollbar": false,
+        "h_reponsive": "400",
+        "h_reponsive_768": "",
+        "h_reponsive_992": "auto",
+        "h_reponsive_1200": "",
+        "h_reponsive_1400": "",
+        "autoplay_speed": 14,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"992\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"1200\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  }\n}",
+        "width_lg": 4,
+        "width_xxl": 3,
+        "border_radius": 0,
+        "css_section": ".section_id .slideshow__title {\ncolor: #fff;\nfont-size: 1.875em;\nmargin-bottom: 0.7rem;\n}\n.section_id .slideshow__subtitle{\ncolor: #fff;\nfont-size: 3.125em;\nmargin-bottom: 2.5rem;\nline-height: 1.1;\n}\n.section_id .slideshow__description{\ncolor:#fff;\nfont-size: 1.250em;\nmargin-bottom: 1rem;\n}\n.section_id .btn{\n}"
+      }
+    },
+    "164413883682f55309": {
+      "type": "kt_banner_flexible",
+      "blocks": {
+        "69420252-2d67-4897-911b-5cd9f90894c6": {
+          "type": "it_cat_1",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 3,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/1_9592bda9-2231-4da1-90df-dddb0938cb4d.jpg",
+            "image_link": "best-sellers-h11",
+            "blank_link": false,
+            "titlex": "For Men’s",
+            "color_titlex": "#ffffff",
+            "name_btn": "SHOP NOW",
+            "style_btn": "btn-underline btn-white btn-link",
+            "banner-effect": "banner-effect6"
+          }
+        },
+        "3ded7987-678f-4b12-be46-ec7cb701194f": {
+          "type": "it_cat_1",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 3,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/2_f2fea386-f59f-41a9-908c-fd31594d4f11.jpg",
+            "image_link": "best-sellers-h11",
+            "blank_link": false,
+            "titlex": "For Women’s",
+            "color_titlex": "#ffffff",
+            "name_btn": "SHOP NOW",
+            "style_btn": "btn-underline btn-white btn-link",
+            "banner-effect": "banner-effect6"
+          }
+        },
+        "2d113087-413a-44ff-bfa5-24bd6a1845ac": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 6,
+            "width_md": 12,
+            "width_lg": 6,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/3x.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "<strong>FOR KIDS<\/strong>",
+            "color_desc": "#d26e4b",
+            "titlex": "New Arrivals",
+            "color_titlex": "#ffffff",
+            "stitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br> sed do eiusmod tempor incididunt ut labore et.",
+            "color_stitle": "#cccccc",
+            "name_btn": "SHOP NOW",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 95,
+            "text_align": "center",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 95,
+            "text_align_mb": "center",
+            "banner-effect": "banner-effect1"
+          }
+        },
+        "2ad6d170-b794-4825-b62b-41f37d554632": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 6,
+            "width_md": 12,
+            "width_lg": 6,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/4_36969540-bb49-4a53-b853-69963da7ab72.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "FLASH SALE 50% OFF",
+            "color_desc": "#ffffff",
+            "titlex": "<strong>Classic Style <span class=\"text-secondary\">ETT 02<\/span> Gunmetal<\/strong>",
+            "color_titlex": "#ffffff",
+            "stitle": "The Only Watches you’ll need...",
+            "color_stitle": "#cccccc",
+            "name_btn": "SHOP NOW",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 10,
+            "text_align": "",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 10,
+            "text_align_mb": "",
+            "banner-effect": "banner-effect1"
+          }
+        }
+      },
+      "block_order": [
+        "69420252-2d67-4897-911b-5cd9f90894c6",
+        "3ded7987-678f-4b12-be46-ec7cb701194f",
+        "2d113087-413a-44ff-bfa5-24bd6a1845ac",
+        "2ad6d170-b794-4825-b62b-41f37d554632"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container-fluid",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "layout_mode": "masonry",
+        "grid_gutter": 10,
+        "border_radius": 0,
+        "css_section": ".section_id .item_1 .img__banner,\n.section_id .item_2 .img__banner,\n.section_id .item_4 .img__banner {\n    height: 257px;\n    padding-bottom: 0 !important;\n}\n.section_id .item_3 .img__banner{\nheight: 534px;\n    padding-bottom: 0 !important;\n}\n.section_id .btn{\n    padding: 1.07em 2.15em;\n    font-size: 13px;\n}"
+      }
+    },
+    "16444222392f31cfda": {
+      "type": "rd_list_item_cattegories_2",
+      "blocks": {
+        "e1a3aca6-fe5e-486b-b28a-a5f12f4a6c4a": {
+          "type": "item",
+          "settings": {
+            "icon": "d-icon-t-shirt2",
+            "link": "",
+            "title": "Fashion"
+          }
+        },
+        "1644422239f885f7c8-0": {
+          "type": "item",
+          "settings": {
+            "icon": "d-icon-camera2",
+            "link": "",
+            "title": "Electronics"
+          }
+        },
+        "e1bf7a4a-f956-4c5d-808e-e10af09e130a": {
+          "type": "item",
+          "settings": {
+            "icon": "d-icon-desktop",
+            "link": "",
+            "title": "Computer"
+          }
+        },
+        "8fcab6bd-a6fa-43ac-99ea-7da78c3121ae": {
+          "type": "item",
+          "settings": {
+            "icon": "d-icon-backpack",
+            "link": "",
+            "title": "Bag & Backpacks"
+          }
+        },
+        "25cc8b69-a9b2-4e1c-a791-973e6e3324c9": {
+          "type": "item",
+          "settings": {
+            "icon": "d-icon-basketball1",
+            "link": "",
+            "title": "Sports"
+          }
+        },
+        "c9582771-fd93-4cc8-8047-84b2d04ecc70": {
+          "type": "item",
+          "settings": {
+            "icon": "d-icon-babycare",
+            "link": "",
+            "title": "Toys & Babycare"
+          }
+        },
+        "377a4121-c915-45e8-8d46-ffae2e428390": {
+          "type": "title",
+          "settings": {
+            "title_style": "center",
+            "title": "Browse Our Categories",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30
+          }
+        }
+      },
+      "block_order": [
+        "e1a3aca6-fe5e-486b-b28a-a5f12f4a6c4a",
+        "1644422239f885f7c8-0",
+        "e1bf7a4a-f956-4c5d-808e-e10af09e130a",
+        "8fcab6bd-a6fa-43ac-99ea-7da78c3121ae",
+        "25cc8b69-a9b2-4e1c-a791-973e6e3324c9",
+        "c9582771-fd93-4cc8-8047-84b2d04ecc70",
+        "377a4121-c915-45e8-8d46-ffae2e428390"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1.5,\n    \"spaceBetween\": 20\n  },\n  \"375\": {\n    \"slidesPerView\": 2.5,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 5,\n    \"spaceBetween\": 20\n  },\n  \"1500\": {\n    \"slidesPerView\": 6,\n    \"spaceBetween\": 20\n  }\n}"
+      }
+    },
+    "1644593536452de4e1": {
+      "type": "rd_prds_sc_grid",
+      "blocks": {
+        "16445935369f6503bf-0": {
+          "type": "item",
+          "settings": {
+            "title_style": "center",
+            "title": "Best Seller",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30,
+            "products": "best-seller-h16-1",
+            "limit_per_row": 5,
+            "limit": 10,
+            "range_row": 20,
+            "load_btn": false,
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false
+          }
+        }
+      },
+      "block_order": [
+        "16445935369f6503bf-0"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "use_lazyload": true,
+        "use_nospace": false
+      }
+    },
+    "1644421144f30d2406": {
+      "type": "kt_banner_flexible",
+      "blocks": {
+        "61bf5d2a-8cfc-4a59-89b9-e198766bdbbc": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 0,
+            "width_lg": 6,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/5x.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "",
+            "color_desc": "#ffffff",
+            "titlex": "<strong>LOOKBOOK <span class=\"text-primary\">2021<\/span><\/strong>",
+            "color_titlex": "#ffffff",
+            "stitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br>sed do eiusmod tempor incid",
+            "color_stitle": "#cccccc",
+            "name_btn": "SHOP NOW",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 5,
+            "text_align": "center",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 5,
+            "text_align_mb": "center",
+            "banner-effect": ""
+          }
+        },
+        "d3d97954-a157-4e35-a8d6-82ab16404f1c": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 0,
+            "width_lg": 6,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/6_7e909336-67fd-42e4-94e9-c473353f6d61.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "<span class=\"fw-nomarl\">FLASH SALE <span class=\"text-secondary\">50% OFF<\/span><\/span>",
+            "color_desc": "#ffffff",
+            "titlex": "<strong>Lifestyle Collection<\/strong>",
+            "color_titlex": "#ffffff",
+            "stitle": "FROM 16$",
+            "color_stitle": "#ffffff",
+            "name_btn": "SHOP NOW",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 10,
+            "text_align": "",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 10,
+            "text_align_mb": "",
+            "banner-effect": ""
+          }
+        }
+      },
+      "block_order": [
+        "61bf5d2a-8cfc-4a59-89b9-e198766bdbbc",
+        "d3d97954-a157-4e35-a8d6-82ab16404f1c"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container-fluid",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "layout_mode": "normal",
+        "grid_gutter": 10,
+        "border_radius": 0,
+        "css_section": ".section_id .img__banner{\nmin-height: 257px;\n}\n.section_id .btn{\n    padding: 1.07em 2.15em;\n    font-size: 13px;\n}"
+      }
+    },
+    "16403571068445a8d4": {
+      "type": "rd_prds_sc_slide",
+      "blocks": {
+        "1640357106a633754b-0": {
+          "type": "item",
+          "settings": {
+            "title_style": "center",
+            "title": "Latest Products",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30,
+            "products": "featured-products-h17-2",
+            "limit": 8,
+            "load_btn": false,
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "autoplay": false,
+            "use_navigation": false,
+            "nav_style": "-default",
+            "nav_mode": "default",
+            "nav_position": "nav-default",
+            "use_dots": false,
+            "dots_mode": "primary",
+            "dots_position": "outside",
+            "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  },\n  \"375\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1500\": {\n    \"slidesPerView\": 5,\n    \"spaceBetween\": 20\n  }\n}"
+          }
+        }
+      },
+      "block_order": [
+        "1640357106a633754b-0"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "use_lazyload": true
+      }
+    },
+    "16343724079dd99664": {
+      "type": "rd_brand_1",
+      "blocks": {
+        "16343724079dd99664-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-5": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-6": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "brand_call_to_action": ""
+          }
+        },
+        "9bf19d7b-1d3c-4870-8f10-67e85db871fa": {
+          "type": "title",
+          "settings": {
+            "title_style": "center",
+            "title": "Our Clients and Partners",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30
+          }
+        }
+      },
+      "block_order": [
+        "16343724079dd99664-0",
+        "16343724079dd99664-1",
+        "16343724079dd99664-2",
+        "16343724079dd99664-3",
+        "16343724079dd99664-4",
+        "16343724079dd99664-5",
+        "16343724079dd99664-6",
+        "9bf19d7b-1d3c-4870-8f10-67e85db871fa"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "30px",
+        "section_padding": "20px 0",
+        "section_bg": "#ffffff",
+        "border_top": false,
+        "border_bottom": false,
+        "border_color": "#ebebeb",
+        "autoplay": true,
+        "use_navigation": false,
+        "nav_style": "-default",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "default",
+        "dots_position": "inside",
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1.2,\n    \"spaceBetween\": 20\n  },\n  \"320\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"480\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 5,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 6,\n    \"spaceBetween\": 20\n  }\n}",
+        "css": ""
+      }
+    }
+  },
+  "order": [
+    "1636168033f185e383",
+    "164413883682f55309",
+    "16444222392f31cfda",
+    "1644593536452de4e1",
+    "1644421144f30d2406",
+    "16403571068445a8d4",
+    "16343724079dd99664"
+  ]
+}

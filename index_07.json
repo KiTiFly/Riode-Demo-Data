@@ -1,0 +1,705 @@
+{
+  "sections": {
+    "1657032567665a8ddc": {
+      "type": "kt_slideshow_2",
+      "blocks": {
+        "1657032567d7ff9ca5-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_89a9cde9-04af-491e-9f94-0c8da6958c56.jpg",
+            "lazypreload": true,
+            "title": "Item",
+            "css_block": ""
+          }
+        },
+        "2d41e5fc-1634-4bed-989e-d9f69654e92c": {
+          "type": "text",
+          "settings": {
+            "off_mobile": false,
+            "off_desktop": false,
+            "heading": "THE RIODE SHOES STORE",
+            "font_heading": "poppins_n6",
+            "subheading": "SPRING CRICK",
+            "font_subheading": "poppins_n9",
+            "description": "",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 50,
+            "text_alignment_left": 0,
+            "text_alignment": "left",
+            "text_alignment_top_mb": 39,
+            "text_alignment_left_mb": 0,
+            "text_alignment_mb": "left",
+            "textBtn_1": "",
+            "link_1": "",
+            "style_btn_1": "btn-primary",
+            "style_btn_rounded_1": "",
+            "btn_shadow_1": false,
+            "textBtn_2": "",
+            "link_2": "",
+            "style_btn_2": "btn-secondary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "title": "Text (child)",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\ncolor: #222;\nfont-size: 1.625em;\n}\n.block_id .slideshow__subtitle{\n}"
+          }
+        },
+        "6faafb36-a594-4eaa-a114-b615d57261aa": {
+          "type": "text",
+          "settings": {
+            "off_mobile": false,
+            "off_desktop": false,
+            "heading": "BEST SELLER",
+            "font_heading": "poppins_n7",
+            "subheading": "CHOSES TO EXTRA COMFORT ALL AROUND",
+            "font_subheading": "poppins_n7",
+            "description": "",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 50,
+            "text_alignment_left": 100,
+            "text_alignment": "left",
+            "text_alignment_top_mb": 62,
+            "text_alignment_left_mb": 100,
+            "text_alignment_mb": "left",
+            "textBtn_1": "SHOP NOW<i class=\"d-icon-arrow-right\"><\/i>",
+            "link_1": "",
+            "style_btn_1": "btn-dark",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": false,
+            "textBtn_2": "",
+            "link_2": "",
+            "style_btn_2": "btn-secondary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "title": "Text (child)",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\n}\n.block_id .slideshow__subtitle{\ncolor: #fff;\nmax-width: 420px;\n}"
+          }
+        },
+        "8efae8f1-630f-4742-b6e9-1a56c6952f2c": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_55b7e002-8d29-4a82-9e52-ee642aaf57b2.jpg",
+            "lazypreload": false,
+            "title": "Item",
+            "css_block": ""
+          }
+        },
+        "9e8ae1cd-25d5-4e4f-b579-0f61c9fa400a": {
+          "type": "text",
+          "settings": {
+            "off_mobile": false,
+            "off_desktop": false,
+            "heading": "FROM ONLINE STORE",
+            "font_heading": "poppins_n6",
+            "subheading": "Originals Comper Star. Shoes",
+            "font_subheading": "poppins_n8",
+            "description": "F O R - M E N<br>\nPRODUCT IDENTIFIER: DD1160",
+            "font_description": "poppins_n6",
+            "text_alignment_top": 50,
+            "text_alignment_left": 0,
+            "text_alignment": "left",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 0,
+            "text_alignment_mb": "left",
+            "textBtn_1": "SHOP NOW<i class=\"d-icon-arrow-right\"><\/i>",
+            "link_1": "",
+            "style_btn_1": "btn-dark",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": false,
+            "textBtn_2": "",
+            "link_2": "",
+            "style_btn_2": "btn-secondary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "title": "Text (child)",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\nfont-size: 1.875em;\n}\n.block_id .slideshow__subtitle{\nfont-size: 3.750em;\n}"
+          }
+        }
+      },
+      "block_order": [
+        "1657032567d7ff9ca5-0",
+        "2d41e5fc-1634-4bed-989e-d9f69654e92c",
+        "6faafb36-a594-4eaa-a114-b615d57261aa",
+        "8efae8f1-630f-4742-b6e9-1a56c6952f2c",
+        "9e8ae1cd-25d5-4e4f-b579-0f61c9fa400a"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | w-100",
+        "section_margin_top": "",
+        "section_margin_bottom": "10px",
+        "section_padding": "",
+        "section_bg": "",
+        "no_overflow": false,
+        "fullscreen": false,
+        "autoplay": false,
+        "use_navigation": true,
+        "nav_style": "-default",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": true,
+        "dots_mode": "default",
+        "use_scrollbar": false,
+        "h_reponsive": "550",
+        "h_reponsive_768": "",
+        "h_reponsive_992": "912",
+        "h_reponsive_1200": "",
+        "h_reponsive_1400": "",
+        "autoplay_speed": 7,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"992\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"1200\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  }\n}",
+        "css_section": ".section_id .slideshow__title {\ncolor: var(--bs-primary);\nfont-size: 1.250em;\nmargin-bottom: .5rem;\n}\n.section_id .slideshow__subtitle{\ncolor: #333;\nfont-size: 3.125em;\nmargin-bottom: 1.7rem;\nline-height: 1.1;\nletter-spacing: -1.25px;\nmax-width: 550px;\n}\n.section_id .slideshow__description{\ncolor: #333;\nfont-size: 1.125em;\nmargin-bottom: 1.7rem;\nletter-spacing: -0.18px;\n}\n.section_id .btn{\n}\n@media (max-width: 767px){\n.section_id .swiper-buttons{\ndisplay:none;\n}\n}"
+      }
+    },
+    "1636168033f185e383": {
+      "type": "kt_slideshow",
+      "disabled": true,
+      "blocks": {
+        "12a6d01e-2dc6-47ec-9c70-0557e4179b9b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_89a9cde9-04af-491e-9f94-0c8da6958c56.jpg",
+            "lazypreload": false,
+            "heading": "BEST SELLER",
+            "font_heading": "poppins_n8",
+            "subheading": "CHOSES TO EXTRA COMFORT ALL AROUND",
+            "font_subheading": "poppins_n7",
+            "description": "",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 50,
+            "text_alignment_left": 100,
+            "text_alignment": "",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 100,
+            "text_alignment_mb": "",
+            "style_btn_1": "btn-dark",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": true,
+            "link_1": "",
+            "textBtn_1": "SHOP NOW<i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn_2": "btn-dark",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\n}\n.block_id .slideshow__subtitle{\ncolor: #fff;\nmax-width: 420px;\n}"
+          }
+        },
+        "1636168033f185e383-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_63d17814-0911-4730-8eb1-d3966fc380e1.jpg",
+            "lazypreload": false,
+            "heading": "FROM ONLINE STORE",
+            "font_heading": "poppins_n7",
+            "subheading": "Originals Comper\nStar. Shoes",
+            "font_subheading": "poppins_n9",
+            "description": "F O R - M E N<br>\nPRODUCT IDENTIFIER: DD1160",
+            "font_description": "poppins_n6",
+            "text_alignment_top": 50,
+            "text_alignment_left": 2,
+            "text_alignment": "",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 2,
+            "text_alignment_mb": "",
+            "style_btn_1": "btn-dark",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": false,
+            "link_1": "",
+            "textBtn_1": "SHOP NOW<i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn_2": "btn-white",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": true,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\nfont-size: 1.875em;\n}\n.block_id .slideshow__subtitle{\nfont-size: 3.750em;\n}\n.block_id .slideshow__description{\nfont-size: 1.125em;\n}\n.block_id .btn{\n}"
+          }
+        }
+      },
+      "block_order": [
+        "12a6d01e-2dc6-47ec-9c70-0557e4179b9b",
+        "1636168033f185e383-0"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | w-100",
+        "section_margin_top": "",
+        "section_margin_bottom": "10px",
+        "section_padding": "",
+        "section_bg": "#d3986a",
+        "image": "shopify:\/\/shop_images\/1_f3d0da97-e54a-4f6e-b872-140bf6a3ed38.jpg",
+        "no_overflow": false,
+        "fullscreen": true,
+        "autoplay": false,
+        "use_navigation": true,
+        "nav_style": "-default",
+        "nav_mode": "white",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "default",
+        "use_scrollbar": false,
+        "h_reponsive": "400",
+        "h_reponsive_768": "",
+        "h_reponsive_992": "auto",
+        "h_reponsive_1200": "",
+        "h_reponsive_1400": "",
+        "autoplay_speed": 7,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"992\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"1200\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  }\n}",
+        "width_lg": 3,
+        "width_xxl": 3,
+        "border_radius": 3,
+        "css_section": ".section_id .slideshow__title {\ncolor: var(--bs-primary);\nfont-size: 1.250em;\nmargin-bottom: .5rem;\n}\n.section_id .slideshow__subtitle{\ncolor: #333;\nfont-size: 3.125em;\nmargin-bottom: 1.7rem;\nline-height: 1.1;\nletter-spacing: -1.25px;\nmax-width: 550px;\n}\n.section_id .slideshow__description{\ncolor: #333;\nfont-size: 1.125em;\nmargin-bottom: 1.7rem;\nletter-spacing: -0.18px;\n}\n.section_id .btn{\n}"
+      }
+    },
+    "1638927777b360cd63": {
+      "type": "kt_banner_flexible",
+      "blocks": {
+        "54317ef2-c81f-4e85-aae5-b4772084d7a2": {
+          "type": "it_cat_1",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 3,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/1_f237822d-6b62-4658-af8c-d63316b66fcb.jpg",
+            "image_link": "accessories",
+            "blank_link": false,
+            "titlex": "All Star Nike Shoes",
+            "color_titlex": "#222222",
+            "name_btn": "SHOP NOW",
+            "style_btn": "btn-underline btn-link",
+            "banner-effect": ""
+          }
+        },
+        "e074b037-b56d-4f05-a20c-70b299a166f8": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 3,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/2_13362474-501a-42b2-afb8-c7b3ebdffbf4.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "<span style=\"font-weight: 700\">SEASONAL<\/span>",
+            "color_desc": "#d3986a",
+            "titlex": "<span style=\"font-size: 1.905em;font-weight:800;    letter-spacing: -1.25px;\">Clearance<\/span>",
+            "color_titlex": "#ffffff",
+            "stitle": "Top 5 trends From Riode",
+            "color_stitle": "#9e9e9e",
+            "name_btn": "SHOP NOW<i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn": "btn-underline btn-white btn-link",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 50,
+            "text_align": "center",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 50,
+            "text_align_mb": "center",
+            "banner-effect": "banner-effect2"
+          }
+        },
+        "d28f3fb2-d07d-4bcc-be31-a65e5e187d0e": {
+          "type": "it_cat_1",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 3,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/3_25afb7be-d18b-4aeb-b2cf-3dd866e05b1f.jpg",
+            "image_link": "bags-h61-2",
+            "blank_link": false,
+            "titlex": "All star Nike Shoes",
+            "color_titlex": "#222222",
+            "name_btn": "SHOP NOW",
+            "style_btn": "btn-underline btn-link",
+            "banner-effect": ""
+          }
+        },
+        "ecd601eb-aacd-469a-ae05-63e925f694f6": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 3,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/4_61abdee8-f588-4787-b357-7e6a437feb62.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "<span style=\"font-weight: 700\">SEASONAL<\/span>",
+            "color_desc": "#ffffff",
+            "titlex": "<span style=\"font-size: 1.905em;font-weight:800;    letter-spacing: -1.25px;\">The Latest<\/span>",
+            "color_titlex": "#ffffff",
+            "stitle": "Discover the new design",
+            "color_stitle": "#ffffff",
+            "name_btn": "SHOP NOW<i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn": "btn-underline btn-white btn-link",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 50,
+            "text_align": "center",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 50,
+            "text_align_mb": "center",
+            "banner-effect": "banner-effect2"
+          }
+        }
+      },
+      "block_order": [
+        "54317ef2-c81f-4e85-aae5-b4772084d7a2",
+        "e074b037-b56d-4f05-a20c-70b299a166f8",
+        "d28f3fb2-d07d-4bcc-be31-a65e5e187d0e",
+        "ecd601eb-aacd-469a-ae05-63e925f694f6"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container-fluid",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "layout_mode": "normal",
+        "grid_gutter": 5,
+        "border_radius": 0,
+        "css_section": ""
+      }
+    },
+    "163591206067ad1209": {
+      "type": "rd_prds_sc_grid",
+      "blocks": {
+        "163591206067ad1209-0": {
+          "type": "item",
+          "settings": {
+            "title_style": "center",
+            "title": "BEST SELLERS",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30,
+            "products": "best-sellers-h71-1",
+            "limit_per_row": 3,
+            "limit": 6,
+            "range_row": 20,
+            "load_btn": false,
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false
+          }
+        }
+      },
+      "block_order": [
+        "163591206067ad1209-0"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "40px",
+        "section_padding": "",
+        "section_bg": "",
+        "use_lazyload": true,
+        "use_nospace": false
+      }
+    },
+    "1639021631a7ca5c97": {
+      "type": "kt_banner_flexible",
+      "blocks": {
+        "29202720-5b87-431c-ac80-3ba1c2c46908": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 6,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/1_2f31e359-4981-4ebe-b958-c51ef9c4c374.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "<span style=\"font-size: 1.250em;font-weight:800;\">EQUIPMENT<\/span>",
+            "color_desc": "#d3986a",
+            "titlex": "<span style=\"font-size: 1.250em;font-weight:800;\">Highly Recommend<br>\nLifestyle Shoes<\/span>",
+            "color_titlex": "#ffffff",
+            "stitle": "<span style=\"font-size: 1.250em;font-weight:600;\">Start at 29$<\/span>",
+            "color_stitle": "#8f8e8e",
+            "name_btn": "SHOP NOW<i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "btn-rounded",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 16,
+            "text_align": "",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 16,
+            "text_align_mb": "",
+            "banner-effect": ""
+          }
+        },
+        "81e3579d-9d4a-404b-be15-9cd26dd971d9": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 6,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/2_7dede9e4-fa05-4b82-8123-6e94288eb59d.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "<span style=\"font-size: 1.250em;font-weight:800;\">BESTSELLER<\/span>",
+            "color_desc": "#d3986a",
+            "titlex": "<span style=\"font-size: 1.250em;font-weight:800;\">Latest and Greatest<br>\nCollection 2021<\/span>",
+            "color_titlex": "#232323",
+            "stitle": "<span style=\"font-size: 1.250em;font-weight:600;\">Start at 29$<\/span>",
+            "color_stitle": "#666666",
+            "name_btn": "SHOP NOW<i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn": "btn-dark",
+            "style_btn_rounded": "btn-rounded",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 16,
+            "text_align": "",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 16,
+            "text_align_mb": "",
+            "banner-effect": ""
+          }
+        }
+      },
+      "block_order": [
+        "29202720-5b87-431c-ac80-3ba1c2c46908",
+        "81e3579d-9d4a-404b-be15-9cd26dd971d9"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container-fluid",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "layout_mode": "normal",
+        "grid_gutter": 5,
+        "border_radius": 0,
+        "css_section": ".section_id .img__banner {\n    min-height: 300px;\n}"
+      }
+    },
+    "16390955152650b7f7": {
+      "type": "rd_featured_product",
+      "blocks": {
+        "0a73f158-b222-4d1f-a5f6-1c4c024d6de2": {
+          "type": "1",
+          "settings": {
+            "title_style": "center",
+            "title": "FEATURED ITEM",
+            "stitle": "",
+            "margin_btitle": 30,
+            "featured_product": "north-face-training-wear"
+          }
+        }
+      },
+      "block_order": [
+        "0a73f158-b222-4d1f-a5f6-1c4c024d6de2"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "img_type_prd_single": "normal",
+        "show_shortdes": true,
+        "shortdes_type": "short",
+        "gallery": false,
+        "use_zoom": true,
+        "use_ask": false,
+        "use_notify_onavai": true,
+        "use_d_c_b": false,
+        "show_quantity_selector": true,
+        "show_add_to_cart_btn": true,
+        "atc_btn": "btn-primary",
+        "atc_btn_rounded": "btn-rounded",
+        "atc_btn_shadow": false,
+        "atc_btn_big": false,
+        "atc_btn_ani": false
+      }
+    },
+    "1639021637c3e7ca85": {
+      "type": "rd_prds_sc_slide",
+      "blocks": {
+        "163902163635f01f30-0": {
+          "type": "item",
+          "settings": {
+            "title_style": "center",
+            "title": "TRENDING NOW",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30,
+            "products": "trending-now-h72-1",
+            "limit": 8,
+            "load_btn": false,
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "autoplay": false,
+            "use_navigation": false,
+            "nav_style": "-default",
+            "nav_mode": "default",
+            "nav_position": "nav-default",
+            "use_dots": false,
+            "dots_mode": "default",
+            "dots_position": "inside",
+            "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  },\n  \"375\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1500\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  }\n}"
+          }
+        }
+      },
+      "block_order": [
+        "163902163635f01f30-0"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "use_lazyload": true
+      }
+    },
+    "1639037394a99a0ae5": {
+      "type": "rd_blog",
+      "blocks": {
+        "0af3e4ad-82b3-49a0-9827-b046f8a11cba": {
+          "type": "title",
+          "settings": {
+            "title_style": "center",
+            "title": "FROM OUR BLOG",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30
+          }
+        },
+        "045730e1-5df7-414a-9b5d-0d76340ba3ee": {
+          "type": "3",
+          "settings": {
+            "blog": "fashion",
+            "limit": 8,
+            "short_desc": true,
+            "load_btn": false,
+            "style_btn": "btn-underline btn-link",
+            "style_btn_rounded": "",
+            "btn_shadow": false
+          }
+        }
+      },
+      "block_order": [
+        "0af3e4ad-82b3-49a0-9827-b046f8a11cba",
+        "045730e1-5df7-414a-9b5d-0d76340ba3ee"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "fweight_title": "600",
+        "fsize_stitle": 1.8,
+        "color_title": "#333333",
+        "margin_btitle": 0.8,
+        "fweight_description": "300",
+        "fsize_description": 1.4,
+        "color_desc": "#999999",
+        "margin_bdescription": 0.8,
+        "use_lazyload": true,
+        "autoplay": false,
+        "use_navigation": true,
+        "nav_style": "-default",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "default",
+        "dots_position": "inside",
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 20\n  },\n  \"480\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  }\n}",
+        "css_section": ""
+      }
+    },
+    "1639037727cf4da124": {
+      "type": "kt_instagram_1",
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "titlex": "INSTAGRAM",
+        "stitle": "",
+        "reverse": false,
+        "title_align": "text-center",
+        "name_link": "",
+        "margin_btitle": 30,
+        "images_limit": 6,
+        "per_row": 6,
+        "use_nospace": true,
+        "use_slide": false,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 20\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 6,\n    \"spaceBetween\": 20\n  }\n}"
+      }
+    }
+  },
+  "order": [
+    "1657032567665a8ddc",
+    "1636168033f185e383",
+    "1638927777b360cd63",
+    "163591206067ad1209",
+    "1639021631a7ca5c97",
+    "16390955152650b7f7",
+    "1639021637c3e7ca85",
+    "1639037394a99a0ae5",
+    "1639037727cf4da124"
+  ]
+}

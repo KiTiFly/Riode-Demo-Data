@@ -1,0 +1,908 @@
+{
+  "sections": {
+    "1636168033f185e383": {
+      "type": "kt_slideshow",
+      "blocks": {
+        "e2cf60d0-333c-4536-a82b-65f357308b45": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_bb9fa566-b5af-4341-bfd4-b3636854dde7.jpg",
+            "lazypreload": false,
+            "heading": "COMFORTABLE",
+            "font_heading": "poppins_n5",
+            "subheading": "Sportswear",
+            "font_subheading": "poppins_n7",
+            "description": "UP TO\n<br>\n<strong class=\"text-primary\" style=\"font-size: 1.875em\">30% OFF<\/strong>",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 50,
+            "text_alignment_left": 90,
+            "text_alignment": "right",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 90,
+            "text_alignment_mb": "center",
+            "style_btn_1": "btn-dark btn-outline",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": false,
+            "link_1": "",
+            "textBtn_1": "SHOP NOW",
+            "style_btn_2": "btn-dark btn-outline",
+            "style_btn_rounded_2": "btn-rounded",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\ncolor: #222;\n}\n.block_id .slideshow__subtitle{\ncolor: #222;\nfont-size: 2.875em;\n}\n.block_id .slideshow__description{\ncolor: #222;\nline-height: 1.2\n}"
+          }
+        },
+        "db5909b9-9eb1-4809-b29f-c9f97f33968b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_44d40329-179f-4468-b979-f0c7b58d7b56.jpg",
+            "lazypreload": false,
+            "heading": "<span class=\"text-primary\">New Arrivals<\/span>",
+            "font_heading": "poppins_n7",
+            "subheading": "For Women’s",
+            "font_subheading": "poppins_n7",
+            "description": "Start at 12$",
+            "font_description": "poppins_n5",
+            "text_alignment_top": 50,
+            "text_alignment_left": 10,
+            "text_alignment": "",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 10,
+            "text_alignment_mb": "",
+            "style_btn_1": "btn-dark btn-outline",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": true,
+            "link_1": "",
+            "textBtn_1": "SHOP NOW",
+            "style_btn_2": "btn-dark",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\ncolor: #222;\n}\n.block_id .slideshow__subtitle{\ncolor: #222;\nfont-size: 2.875em;\n}\n.block_id .slideshow__description{\ncolor: #222;\n}"
+          }
+        },
+        "12a6d01e-2dc6-47ec-9c70-0557e4179b9b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_f306e530-97b1-488e-a59c-ec1d9f2584fe.jpg",
+            "lazypreload": true,
+            "heading": "Classic Clothes",
+            "font_heading": "poppins_n5",
+            "subheading": "<span class=\"text-primary text-uppercase\">ETT 02<\/span> Gunmetal",
+            "font_subheading": "poppins_n8",
+            "description": "The Only Watches you’ll need...",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 80,
+            "text_alignment_left": 10,
+            "text_alignment": "",
+            "text_alignment_top_mb": 80,
+            "text_alignment_left_mb": 10,
+            "text_alignment_mb": "",
+            "style_btn_1": "btn-underline btn-link",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": false,
+            "link_1": "",
+            "textBtn_1": "SHOP NOW <i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn_2": "btn-white btn-outline",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\n}\n.block_id .slideshow__subtitle{\n}\n}"
+          }
+        },
+        "6b6e1a55-afbe-438e-b6da-133b239f4250": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_082242ee-74c1-4807-8f11-6317c2510e70.jpg",
+            "image_link": "",
+            "desc": "FOR WOMEN",
+            "color_desc": "#cccccc",
+            "titlex": "<strong>New Trending 2021<\/strong>",
+            "color_titlex": "#ffffff",
+            "stitle": "",
+            "color_stitle": "#ffffff",
+            "name_btn": "",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "text_align_top": 75,
+            "text_align_left": 10,
+            "text_align": "",
+            "text_align_top_mb": 75,
+            "text_align_left_mb": 10,
+            "text_align_mb": "",
+            "banner-effect": "banner-effect6"
+          }
+        },
+        "c56e9cd4-9f6c-47af-be09-4987563d05b5": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_7309948a-2419-4362-8d6f-bb62f8df5861.jpg",
+            "image_link": "",
+            "desc": "FOR MEN’S",
+            "color_desc": "#666666",
+            "titlex": "<strong>For Winter<\/strong>",
+            "color_titlex": "#232323",
+            "stitle": "",
+            "color_stitle": "#ffffff",
+            "name_btn": "",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "text_align_top": 75,
+            "text_align_left": 100,
+            "text_align": "right",
+            "text_align_top_mb": 75,
+            "text_align_left_mb": 100,
+            "text_align_mb": "right",
+            "banner-effect": ""
+          }
+        },
+        "e2711322-4f20-4e3a-9162-e86148d65916": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_7eedddd3-2ce3-4022-afbc-4a249a6f3717.jpg",
+            "image_link": "",
+            "desc": "<strong class=\"text-primary\" style=\"font-size: 1.7em\">50% OFF<\/strong>",
+            "color_desc": "#ffffff",
+            "titlex": "ON SALE THIS WEEK’S",
+            "color_titlex": "#ffffff",
+            "stitle": "",
+            "color_stitle": "#ffffff",
+            "name_btn": "SHOP NOW <i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn": "btn-underline btn-white btn-link",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "text_align_top": 50,
+            "text_align_left": 10,
+            "text_align": "",
+            "text_align_top_mb": 50,
+            "text_align_left_mb": 10,
+            "text_align_mb": "",
+            "banner-effect": "banner-effect6"
+          }
+        }
+      },
+      "block_order": [
+        "e2cf60d0-333c-4536-a82b-65f357308b45",
+        "db5909b9-9eb1-4809-b29f-c9f97f33968b",
+        "12a6d01e-2dc6-47ec-9c70-0557e4179b9b",
+        "6b6e1a55-afbe-438e-b6da-133b239f4250",
+        "c56e9cd4-9f6c-47af-be09-4987563d05b5",
+        "e2711322-4f20-4e3a-9162-e86148d65916"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "20px",
+        "section_margin_bottom": "30px",
+        "section_padding": "",
+        "section_bg": "rgba(0,0,0,0)",
+        "no_overflow": false,
+        "fullscreen": false,
+        "autoplay": false,
+        "use_navigation": false,
+        "nav_style": "-default",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": true,
+        "dots_mode": "white",
+        "use_scrollbar": false,
+        "h_reponsive": "400",
+        "h_reponsive_768": "",
+        "h_reponsive_992": "auto",
+        "h_reponsive_1200": "",
+        "h_reponsive_1400": "",
+        "autoplay_speed": 14,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"992\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"1200\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  }\n}",
+        "width_lg": 4,
+        "width_xxl": 3,
+        "border_radius": 0,
+        "css_section": "@media (min-width: 1200px){\n.section_id .--slide {\nwidth: 70%;\n}\n.section_id .kt_banner_slideshow {\nwidth: 30%;\n}\n}\n.section_id .slideshow__title {\ncolor: #fff;\nfont-size: 1.875em;\nmargin-bottom: 0rem;\n}\n.section_id .slideshow__subtitle{\ncolor: #fff;\nfont-size: 3.750em;\nmargin-bottom: 0rem;\nline-height: 1.1;\n}\n.section_id .slideshow__description{\ncolor:#999;\nfont-size: 1.250em;\nmargin-bottom: 1rem;\n}\n.section_id .btn{\n}\n.section_id .kt_banner_flexible .p {\nfont-weight: 700;\nopacity: 0.8;\n}\n.section_id .kt_banner_flexible .h3 {\nfont-weight: 700;\nfont-size: 1.5rem;\nline-height: 1;\nletter-spacing: -0.6px;\n}"
+      }
+    },
+    "16412010474d84c9f2": {
+      "type": "rd_icon_boxes",
+      "blocks": {
+        "5ae0374e-2f7e-4099-a034-fc581cf0a0cb": {
+          "type": "item_icon_side",
+          "settings": {
+            "icon_font": "d-icon-truck",
+            "size": 36,
+            "title": "Free Shipping & Return",
+            "content": "Free shipping on orders over $99",
+            "url": ""
+          }
+        },
+        "be25a17d-e71c-49fe-8878-ad5c16131b33": {
+          "type": "item_icon_side",
+          "settings": {
+            "icon_font": "d-icon-service",
+            "size": 36,
+            "title": "Customer Support",
+            "content": "We provide customer support of 24\/7",
+            "url": ""
+          }
+        },
+        "1ce1a7b8-610f-481f-ae30-0516becf735e": {
+          "type": "item_icon_side",
+          "settings": {
+            "icon_font": "d-icon-money",
+            "size": 36,
+            "title": "Moneyback Guarantee",
+            "content": "Return most items within 30 days",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "5ae0374e-2f7e-4099-a034-fc581cf0a0cb",
+        "be25a17d-e71c-49fe-8878-ad5c16131b33",
+        "1ce1a7b8-610f-481f-ae30-0516becf735e"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "20px",
+        "section_margin_bottom": "40px",
+        "section_padding": "",
+        "section_bg": "",
+        "border_top": false,
+        "border_bottom": false,
+        "border_color": "#ebebeb",
+        "color_icon": "#333333",
+        "color_title": "#333333",
+        "color_desc": "#666666",
+        "title_font_weight": "700",
+        "use_slide": true,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 20\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 20\n  },\n  \"476\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  }\n}",
+        "css_section": ".section_id .icon-boxes-container {\n    border: 1px solid #EEEEEE;\n    padding: 10px;\n}"
+      }
+    },
+    "16403571068445a8d4": {
+      "type": "rd_prds_sc_slide",
+      "blocks": {
+        "1640357106a633754b-0": {
+          "type": "item",
+          "settings": {
+            "title_style": "center",
+            "title": "Latest Products",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30,
+            "products": "latest-products-h16-1",
+            "limit": 8,
+            "load_btn": false,
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "autoplay": false,
+            "use_navigation": false,
+            "nav_style": "-default",
+            "nav_mode": "default",
+            "nav_position": "nav-default",
+            "use_dots": false,
+            "dots_mode": "primary",
+            "dots_position": "outside",
+            "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  },\n  \"375\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1500\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  }\n}"
+          }
+        }
+      },
+      "block_order": [
+        "1640357106a633754b-0"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "use_lazyload": true
+      }
+    },
+    "164413883682f55309": {
+      "type": "kt_banner_flexible",
+      "blocks": {
+        "41fc6d45-8826-4766-8ca7-13e7f4df1651": {
+          "type": "title",
+          "settings": {
+            "title_style": "center",
+            "title": "Browse Products",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30
+          }
+        },
+        "b2c5a721-3341-41f7-ab3e-83e71232c174": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 0,
+            "width_lg": 6,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/4_7ca2c88f-690f-4e92-9544-2968c2638e78.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "<span style=\"font-size: 1.5em;font-weight: 600\">Trending 2021<br>\nCollection<\/span>",
+            "color_desc": "#ffffff",
+            "titlex": "<span style=\"font-size: 0.686em;font-weight: 400\">Take advantage of our latest<\/span>",
+            "color_titlex": "#cccccc",
+            "stitle": "<strong style=\"font-size: 1.714em\"><span class=\"text-primary lh-1\" style=\"font-size: 3.333em\">20%<\/span><br>\nDISCOUNT<\/strong>",
+            "color_stitle": "#ffffff",
+            "name_btn": "",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 90,
+            "text_align_start": 16,
+            "text_align": "",
+            "text_align_top_mb": 90,
+            "text_align_start_mb": 16,
+            "text_align_mb": "",
+            "banner-effect": "banner-effect1"
+          }
+        },
+        "84b575c5-d8d4-40d4-b8dc-7044f3538ab4": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 6,
+            "width_md": 0,
+            "width_lg": 3,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/5_fcf6ac4f-a40e-4433-a87b-c020ac64cdf3.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "<span style=\"font-size:0.625em\">CHECK OUT NOW<\/span>",
+            "color_desc": "#232323",
+            "titlex": "<span style=\"font-size:0.762em\">Accessories &amp; Jewels<\/span>",
+            "color_titlex": "#232323",
+            "stitle": "",
+            "color_stitle": "#ffffff",
+            "name_btn": "",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 10,
+            "text_align_start": 16,
+            "text_align": "center",
+            "text_align_top_mb": 10,
+            "text_align_start_mb": 16,
+            "text_align_mb": "",
+            "banner-effect": "banner-effect1"
+          }
+        },
+        "2d113087-413a-44ff-bfa5-24bd6a1845ac": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 6,
+            "width_md": 0,
+            "width_lg": 3,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/6_96f7bd29-27ce-4ed4-b257-07212e87b336.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "",
+            "color_desc": "#232323",
+            "titlex": "<span style=\"font-size:0.762em\">Fresh Handbags<\/span>",
+            "color_titlex": "#232323",
+            "stitle": "<span style=\"font-size:0.714em\">CHECK OUT NOW<\/span>",
+            "color_stitle": "#232323",
+            "name_btn": "",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 90,
+            "text_align_start": 16,
+            "text_align": "center",
+            "text_align_top_mb": 90,
+            "text_align_start_mb": 16,
+            "text_align_mb": "center",
+            "banner-effect": "banner-effect1"
+          }
+        },
+        "0c69d80e-1183-4808-82bc-a18edd027dc4": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 6,
+            "width_md": 0,
+            "width_lg": 3,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/7_1ff14988-30eb-431b-b8ca-e2f4c325142a.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "<span style=\"font-size:0.625em\">CHECK OUT NOW<\/span>",
+            "color_desc": "#232323",
+            "titlex": "<span style=\"font-size:0.762em\">Classic Watches<\/span>",
+            "color_titlex": "#232323",
+            "stitle": "",
+            "color_stitle": "#232323",
+            "name_btn": "",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 90,
+            "text_align_start": 16,
+            "text_align": "center",
+            "text_align_top_mb": 92,
+            "text_align_start_mb": 16,
+            "text_align_mb": "center",
+            "banner-effect": "banner-effect1"
+          }
+        },
+        "2ad6d170-b794-4825-b62b-41f37d554632": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 6,
+            "width_md": 0,
+            "width_lg": 3,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/8_02e77041-d191-4937-b855-94a8c21513f5.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "<strong class=\"text-primary\" style=\"font-size: 2.143em\">50% Off Sale!<\/strong>",
+            "color_desc": "#519071",
+            "titlex": "FIRST ORDER",
+            "color_titlex": "#ffffff",
+            "stitle": "",
+            "color_stitle": "#ffffff",
+            "name_btn": "",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 90,
+            "text_align_start": 16,
+            "text_align": "center",
+            "text_align_top_mb": 90,
+            "text_align_start_mb": 16,
+            "text_align_mb": "center",
+            "banner-effect": "banner-effect1"
+          }
+        },
+        "387d1e18-b5e1-4575-b330-5514b443611a": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 6,
+            "width_md": 3,
+            "width_lg": 3,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/9_d3f44cab-6afc-4c0e-ae42-745983c9b134.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "",
+            "color_desc": "#ffffff",
+            "titlex": "",
+            "color_titlex": "#ffffff",
+            "stitle": "",
+            "color_stitle": "#ffffff",
+            "name_btn": "",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 16,
+            "text_align": "",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 16,
+            "text_align_mb": "",
+            "banner-effect": ""
+          }
+        },
+        "eb08e8fb-41bd-4b6e-a7c5-6a33610a8f8c": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 6,
+            "width_md": 3,
+            "width_lg": 3,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image_link": "",
+            "blank_link": false,
+            "desc": "SPECIAL OFFER",
+            "color_desc": "#232323",
+            "titlex": "All Watches &amp; Items",
+            "color_titlex": "#232323",
+            "stitle": "<span style=\"font-size: 16px\">UP TO <span class=\"text-primary fw-bold\">75% OFF<\/span> SALE<\/span>",
+            "color_stitle": "#232323",
+            "name_btn": "SHOP NOW",
+            "style_btn": "btn-primary btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 16,
+            "text_align": "center",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 16,
+            "text_align_mb": "center",
+            "banner-effect": ""
+          }
+        },
+        "aeb63caf-d743-4b7a-920d-59fddf0af5c8": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 6,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/10_73f3fe8a-80fc-482d-af0d-3759a8f78167.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "This week we love...",
+            "color_desc": "#ffffff",
+            "titlex": "Shoes Collection",
+            "color_titlex": "#ffffff",
+            "stitle": "From $26.99",
+            "color_stitle": "#ffffff",
+            "name_btn": "SHOP NOW",
+            "style_btn": "btn-primary btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 16,
+            "text_align": "",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 16,
+            "text_align_mb": "",
+            "banner-effect": ""
+          }
+        }
+      },
+      "block_order": [
+        "41fc6d45-8826-4766-8ca7-13e7f4df1651",
+        "b2c5a721-3341-41f7-ab3e-83e71232c174",
+        "84b575c5-d8d4-40d4-b8dc-7044f3538ab4",
+        "2d113087-413a-44ff-bfa5-24bd6a1845ac",
+        "0c69d80e-1183-4808-82bc-a18edd027dc4",
+        "2ad6d170-b794-4825-b62b-41f37d554632",
+        "387d1e18-b5e1-4575-b330-5514b443611a",
+        "eb08e8fb-41bd-4b6e-a7c5-6a33610a8f8c",
+        "aeb63caf-d743-4b7a-920d-59fddf0af5c8"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "layout_mode": "masonry",
+        "grid_gutter": 10,
+        "border_radius": 0,
+        "css_section": ""
+      }
+    },
+    "164040142430470d1a": {
+      "type": "rd_call_to_action",
+      "blocks": {
+        "9eb94d75-db7c-4953-86ae-0128b02f28a8": {
+          "type": "item_title",
+          "settings": {
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 0,
+            "width_lg": 5,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "title": "<span style=\"font-size: 0.833em;letter-spacing: 0.4px;\">SUBSCRIBE TO THE NEWSLETTER<\/span>",
+            "color_title": "#333333",
+            "stitle": "Stay up to date regarding the newest product & offers.",
+            "color_stitle": "#444444",
+            "title_align": "",
+            "margin_btitle": 10
+          }
+        },
+        "3017046d-025d-4aed-902a-1c8a237978dd": {
+          "type": "design_1",
+          "settings": {
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 0,
+            "width_lg": 6,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "title": "",
+            "color_title": "#ffffff",
+            "stitle": "",
+            "color_desc": "#ffffff",
+            "textBtn": "{{'general.newsletter_form.submit_html' | t}}<i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "btn-rounded",
+            "btn_shadow": false,
+            "social_media": false
+          }
+        }
+      },
+      "block_order": [
+        "9eb94d75-db7c-4953-86ae-0128b02f28a8",
+        "3017046d-025d-4aed-902a-1c8a237978dd"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "container | w-100",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "27px 20px",
+        "section_bg": "",
+        "use_round": false,
+        "color_title": "#333333",
+        "color_desc": "#cccccc",
+        "color_text_input": "#999999",
+        "color_border_input": "#f5f5f5",
+        "color_placeholder": "#999999",
+        "color_bg_input": "#f5f5f5",
+        "preview": false,
+        "css_section": ".section_id{\n  border: 2px solid #e1e1e1;\n}\n.section_id .section-title .sub-title {\npadding: 0;\n}"
+      }
+    },
+    "164243137757b52fdd": {
+      "type": "rd_prds_sc_slide",
+      "blocks": {
+        "16424313775cdee434-0": {
+          "type": "item",
+          "settings": {
+            "title_style": "center",
+            "title": "Featured Products",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30,
+            "products": "featured-h16-2",
+            "limit": 8,
+            "load_btn": false,
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "autoplay": false,
+            "use_navigation": false,
+            "nav_style": "-default",
+            "nav_mode": "default",
+            "nav_position": "nav-default",
+            "use_dots": true,
+            "dots_mode": "primary",
+            "dots_position": "outside",
+            "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  },\n  \"375\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1500\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  }\n}"
+          }
+        }
+      },
+      "block_order": [
+        "16424313775cdee434-0"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "use_lazyload": true
+      }
+    },
+    "1641349219c99d9ec5": {
+      "type": "rd_blog",
+      "blocks": {
+        "8a8a7e57-d92b-4db9-9147-3b7212a94383": {
+          "type": "title",
+          "settings": {
+            "title_style": "center",
+            "title": "Latest News",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30
+          }
+        },
+        "659de8c7-f294-4e52-b387-81ae9ede11d6": {
+          "type": "4",
+          "settings": {
+            "blog": "home-16",
+            "limit": 8,
+            "short_desc": true,
+            "load_btn": false,
+            "style_btn": "btn-primary btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false
+          }
+        }
+      },
+      "block_order": [
+        "8a8a7e57-d92b-4db9-9147-3b7212a94383",
+        "659de8c7-f294-4e52-b387-81ae9ede11d6"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "fweight_title": "600",
+        "fsize_stitle": 1.8,
+        "color_title": "#333333",
+        "margin_btitle": 0.8,
+        "fweight_description": "300",
+        "fsize_description": 1.4,
+        "color_desc": "#999999",
+        "margin_bdescription": 0.8,
+        "use_lazyload": true,
+        "autoplay": false,
+        "use_navigation": false,
+        "nav_style": "-default",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "default",
+        "dots_position": "inside",
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 20\n  },\n  \"480\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  }\n}",
+        "css_section": ""
+      }
+    },
+    "16343724079dd99664": {
+      "type": "rd_brand_1",
+      "blocks": {
+        "16343724079dd99664-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-5": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-6": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "brand_call_to_action": ""
+          }
+        }
+      },
+      "block_order": [
+        "16343724079dd99664-0",
+        "16343724079dd99664-1",
+        "16343724079dd99664-2",
+        "16343724079dd99664-3",
+        "16343724079dd99664-4",
+        "16343724079dd99664-5",
+        "16343724079dd99664-6"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding": "20px 0",
+        "section_bg": "#f4f4f4",
+        "border_top": false,
+        "border_bottom": false,
+        "border_color": "#ebebeb",
+        "autoplay": true,
+        "use_navigation": false,
+        "nav_style": "-default",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "default",
+        "dots_position": "inside",
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1.2,\n    \"spaceBetween\": 20\n  },\n  \"320\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"480\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 5,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 6,\n    \"spaceBetween\": 20\n  }\n}",
+        "css": ""
+      }
+    }
+  },
+  "order": [
+    "1636168033f185e383",
+    "16412010474d84c9f2",
+    "16403571068445a8d4",
+    "164413883682f55309",
+    "164040142430470d1a",
+    "164243137757b52fdd",
+    "1641349219c99d9ec5",
+    "16343724079dd99664"
+  ]
+}

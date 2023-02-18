@@ -1,0 +1,500 @@
+{
+  "sections": {
+    "1626252262eb092a50": {
+      "type": "kt_slideshow",
+      "blocks": {
+        "1626252262eb092a50-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_d2d36374-f226-49c6-b518-aebbd638e196.jpg",
+            "lazypreload": true,
+            "heading": "Fashion Trending 2021",
+            "font_heading": "poppins_n4",
+            "subheading": "LOOKBOOK",
+            "font_subheading": "poppins_n8",
+            "description": "MEN’S COLLECTION",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 82,
+            "text_alignment_left": 0,
+            "text_alignment": "center",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 5,
+            "text_alignment_mb": "center",
+            "style_btn_1": "btn-white btn-outline",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": false,
+            "link_1": "#",
+            "textBtn_1": "SHOP NOW <i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\n font-size: 2.25em !important;\n    color: #a6c76c !important;\n    letter-spacing: -.025em;\n    line-height: 1;\n    margin-bottom: 0.5rem !important;\n\n}\n.block_id .slideshow__subtitle {\nfont-size:5em;\n}\n.block_id .slideshow__description {\nfont-size: 1.875em;\n    margin-bottom: 20px !important;\nfont-weight: 700 !important;\nline-height: 1.86;\n}\n@media (min-width: 768px){\n.block_id .page-width {\n    text-align: left !important;\n}\n}"
+          }
+        },
+        "5c0121ac-d5cc-4888-92a7-522ab483cbfc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_9d685c59-aa28-4310-b8b0-8297438b8f40.jpg",
+            "lazypreload": false,
+            "heading": "YOGA CLOTHING",
+            "font_heading": "poppins_n7",
+            "subheading": "convenient wear<br>to be flexible &amp; elastic",
+            "font_subheading": "poppins_n7",
+            "description": "FREE SHIPPING &amp; 60-DAY FREE RETURNS",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 50,
+            "text_alignment_left": 100,
+            "text_alignment": "center",
+            "text_alignment_top_mb": 20,
+            "text_alignment_left_mb": 22,
+            "text_alignment_mb": "center",
+            "style_btn_1": "btn-dark",
+            "style_btn_rounded_1": "",
+            "btn_shadow_1": false,
+            "link_1": "",
+            "textBtn_1": "SHOP NOW <i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn_2": "btn-dark",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\n    font-size: 1.875em;\n    line-height: 48.9px;\n    letter-spacing: -1.5px;\n    color: #222;\n}\n.block_id .slideshow__subtitle {\nfont-size:3.125em;\n    font-weight: 800;\n    letter-spacing: -0.85px;\n}\n.block_id .slideshow__description {\nfont-size:1.25em;\ncolor: #444442;\nline-height: 26.6px;\n    letter-spacing: -0.18px;\n    margin-bottom: 45px;\nfont-weight:600\n}\n.block_id .slide_t-wrap {\noverflow: unset;\n}\n@media (min-width: 768px) {\n.block_id .page-width {\n--x: -92.5%;\n}\n}\n@media(max-width:767px){\n.block_id .slide_t-content {\n--x: 50%;\n--y:50%;\ntransform: translate(-50%, -50%);\n}\n.block_id .slide_t-content .page-width {\n--x: 0%;\n}\n}"
+          }
+        },
+        "b8c71142-a00a-4ea7-a5b7-4ee7c58d4579": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_2b5fe549-7452-4e26-a041-2b23d8d615fd.jpg",
+            "lazypreload": false,
+            "heading": "New Arrivals",
+            "font_heading": "poppins_n7",
+            "subheading": "Essentials for all the<br>ways you move",
+            "font_subheading": "poppins_n7",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 50,
+            "text_alignment_left": 50,
+            "text_alignment": "center",
+            "text_alignment_top_mb": 16,
+            "text_alignment_left_mb": 16,
+            "text_alignment_mb": "center",
+            "style_btn_1": "btn-primary",
+            "style_btn_rounded_1": "",
+            "btn_shadow_1": false,
+            "link_1": "",
+            "textBtn_1": "SHOP NOW",
+            "style_btn_2": "btn-dark",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\n    font-family: \"Segoe Script\",sans-serif !important;\n    color: #a6c76c !important;\nfont-size:1.875em !important;\n    letter-spacing: -.025em;\n    line-height: 1;\n    margin-bottom: 25px;\n}\n.block_id .slideshow__subtitle {\nfont-size:3.125em;\nline-height: 1;\n    margin-bottom: 24px;\nfont-weight: 600;\n}\n.block_id .slideshow__description {\n    max-width: 550px;\nmargin-bottom: 38px;\n    line-height: 1.67;\n    color: #999 !important;\nfont-weight: 400;\n}\n@media(max-width:767px){\n.block_id .slide_t-content {\n--x: 50%;\n--y:50%;\ntransform: translate(-50%, -50%);\n}\n.block_id .slide_t-content .page-width {\n--x: 0%;\n}\n}\n@media(max-width:575px){\n.block_id .slideshow__description {\nfont-size:14px !important;\n}\n}"
+          }
+        }
+      },
+      "block_order": [
+        "1626252262eb092a50-1",
+        "5c0121ac-d5cc-4888-92a7-522ab483cbfc",
+        "b8c71142-a00a-4ea7-a5b7-4ee7c58d4579"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | w-100",
+        "section_margin_top": "",
+        "section_margin_bottom": "40px",
+        "section_padding": "",
+        "section_bg": "rgba(0,0,0,0)",
+        "no_overflow": false,
+        "fullscreen": true,
+        "autoplay": false,
+        "use_navigation": true,
+        "nav_style": "1",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "white",
+        "use_scrollbar": false,
+        "h_reponsive": "450",
+        "h_reponsive_768": "",
+        "h_reponsive_992": "540",
+        "h_reponsive_1200": "auto",
+        "h_reponsive_1400": "",
+        "autoplay_speed": 7,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  },\n  \"768\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  },\n  \"992\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  },\n  \"1200\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  }\n}",
+        "width_lg": 6,
+        "width_xxl": 6,
+        "border_radius": 10,
+        "css_section": ".section_id .slideshow__title {\nfont-size: 36px;\ncolor: #fff;\nmargin-bottom: 2px;\nline-height: 1.2;\nmargin-bottom: 10px;\n}\n.section_id .slideshow__subtitle {\ncolor: #fff;\nfont-size: 3.125em;\nline-height: 1;\nmargin-bottom: 10px;\n}\n.section_id .slideshow__description{\ncolor: #fff;\nfont-size: 1.125em;\nmargin-bottom: 40px;\nline-height: 1.5;\n}\n.section_id .swiper-button-prev:after {\n  content: \"\\e982\" !important;\n}\n.section_id .swiper-button-prev {\nleft: 5%;\n    transform: translateX(70%);\nopacity: 0;\n}\n.kt_home_slide:hover .swiper-button-prev {\n    transform: translateX(0%);\n   color: #A6C76C;\nopacity: 100;\n}\n.section_id \n.swiper-button-next {\nright:5% !important;\n}\n.section_id \n.swiper-button-next:after {\n content: \"\\e983\"; !important;\n}\n.section_id .swiper-button-next {\ntight: 5% !important;\n    transform: translateX(-70%);\nopacity: 0;\n}\n.kt_home_slide:hover .swiper-button-next {\n    transform: translateX(0%);\n   color: #A6C76C;\nopacity: 100;\n}\n.section_id .swiper-button-prev:hover, .section_id \n.swiper-button-next:hover {\ncolor: #A6C76C\n}\n.section_id .nav-style1 .swiper-button-next, .nav-style1 .swiper-button-prev {\nbackground-color: transparent !important;\n    --swiper-navigation-size: 40px;\n}\n@media(max-width:767px){\n.section_id .slide_t-wrap {\ntext-align: center;\n}\n.section_id .sl-anime slideshow__subtitle {\nfont-size:40px !important;\n}\n.section_id .sl-anime slideshow__title {\nfont-size: 18px !important;\n}\n.section_id .sl-anime slideshow__description {\nfont-size: 15px !important;\n}\n.section_id .btn.btn-white.btn-outline.btn-rounded {\npadding: 15px 20px !important;\n}\n}"
+      }
+    },
+    "16563334432372e941": {
+      "type": "rd_prds_sc_tab_slide",
+      "blocks": {
+        "1656333443f64ee5dc-0": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "stitle": "",
+            "title_align": "text-center",
+            "t_tranform": "text-capitalize",
+            "fsize_name_tab": 20,
+            "margin_btitle": 30,
+            "collection_list": [
+              "4-columns-sports",
+              "new-arrivals",
+              "our-featured"
+            ],
+            "limit": 8,
+            "load_btn": false,
+            "name_btn": "VIEW MORE<i class=\"d-icon-arrow-right\" aria-hidden=\"true\"><\/i>",
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "autoplay": false,
+            "use_navigation": true,
+            "nav_style": "3",
+            "nav_mode": "primary",
+            "nav_position": "nav-default",
+            "use_dots": true,
+            "dots_mode": "default",
+            "dots_position": "outside",
+            "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"320\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 5,\n    \"spaceBetween\": 20\n  }\n}"
+          }
+        }
+      },
+      "block_order": [
+        "1656333443f64ee5dc-0"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "27px",
+        "section_margin_bottom": "",
+        "section_padding": "",
+        "section_bg": "",
+        "use_lazyload": false,
+        "use_nospace": false
+      }
+    },
+    "16582467590ffe5968": {
+      "type": "rd_banner_fix01",
+      "blocks": {
+        "7b57ec7c-de5f-45fb-b4dc-01ba05afda57": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "title_1": "SPORTING GOODS",
+            "image": "shopify:\/\/shop_images\/1_8fa12bb2-2eb5-437d-b34a-b0c529638a53.jpg",
+            "image_link": "shopify:\/\/pages\/contact-us",
+            "blank_link": true,
+            "name_btn": "DISCOVER NOW",
+            "name_btn_2": "",
+            "image_link_2": "shopify:\/\/collections\/8-columns-mode",
+            "image_2": "shopify:\/\/shop_images\/2_c9168321-6732-4fb7-9c9d-d419195274c2.jpg",
+            "subtitle_2": "Clearance",
+            "title_2": "For Fitness Classes",
+            "text_white_2": "from $19.99",
+            "btn_banner_2": "SHOP NOW",
+            "link_banner_2": "",
+            "image_3": "shopify:\/\/shop_images\/3_0cd2476d-b8fe-4052-be98-61840e011738.jpg",
+            "subtitle_3": "On Sale",
+            "title_3": "Transform Your Life",
+            "text_white_3": "from $39.00",
+            "btn_banner_3": "Discover now",
+            "link_banner_3": "",
+            "image_4": "shopify:\/\/shop_images\/4_ce50c418-93b9-41eb-a609-934af51432d0.jpg",
+            "subtitle_4": "Clearance",
+            "title_4": "Build Your Body",
+            "text_white_4": "from $19.99",
+            "btn_banner_4": "SHOP NOW",
+            "link_banner_4": "",
+            "subtitle_5": "Flash Sale",
+            "title_5": "30% OFF",
+            "btn_banner_5": "SHOP ALL SALE",
+            "link_banner_5": ""
+          }
+        }
+      },
+      "block_order": [
+        "7b57ec7c-de5f-45fb-b4dc-01ba05afda57"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding": "",
+        "section_bg": "",
+        "border_radius": 0,
+        "css_section": ".section_id .stitle {font-family: 'Segoe Script';}.section_id .item_5 .stitle {font-size: 1.625em;font-weight: 700}"
+      }
+    },
+    "1636275334b9b83ee7": {
+      "type": "rd_prds_sc_slide",
+      "blocks": {
+        "86d2881f-0479-45b4-818c-574f36b999b0": {
+          "type": "item",
+          "settings": {
+            "title_style": "auto",
+            "title": "Our Sale Offer",
+            "stitle": "",
+            "link_to": "shopify:\/\/collections\/our-featured",
+            "name_link": "VIEW ALL <i class=\"d-icon-arrow-right\"><\/i>",
+            "margin_btitle": 14,
+            "products": "our-featured",
+            "limit": 8,
+            "load_btn": true,
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": true,
+            "autoplay": false,
+            "use_navigation": true,
+            "nav_style": "3",
+            "nav_mode": "default",
+            "nav_position": "nav-default",
+            "use_dots": true,
+            "dots_mode": "default",
+            "dots_position": "outside",
+            "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  },\n  \"375\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 5,\n    \"spaceBetween\": 20\n  },\n  \"1500\": {\n    \"slidesPerView\": 5,\n    \"spaceBetween\": 20\n  }\n}"
+          }
+        }
+      },
+      "block_order": [
+        "86d2881f-0479-45b4-818c-574f36b999b0"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "85px",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "use_lazyload": true
+      }
+    },
+    "16344410742f479d45": {
+      "type": "kt_slideshow",
+      "blocks": {
+        "16344410742f479d45-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/parallax_24ed436e-c16d-4f9c-aea2-ca5b09b57880.jpg",
+            "lazypreload": false,
+            "heading": "Flash Sale 50% Off",
+            "font_heading": "poppins_n4",
+            "subheading": "Necessaries For Summer Season",
+            "font_subheading": "poppins_n4",
+            "description": "",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 50,
+            "text_alignment_left": 2,
+            "text_alignment": "",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 50,
+            "text_alignment_mb": "",
+            "style_btn_1": "btn-primary btn-outline",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": false,
+            "link_1": "",
+            "textBtn_1": "SHOP NOW<i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn_2": "btn-dark",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\ncolor: #fff;\nfont-size: 24px;\nfont-weight: 400;\nmargin-bottom: 5px;\n    letter-spacing: -1.2px !important;\n    line-height: 1;\n}\n.block_id .slideshow__subtitle{\ncolor: #fff;\nfont-size: 34px;\nfont-weight: 800 !important;\nline-height: 1;\nmargin-bottom: 25px;\n}\n.block_id .btn-primary {\ncolor: white !important;\n}"
+          }
+        }
+      },
+      "block_order": [
+        "16344410742f479d45-0"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | w-100",
+        "section_margin_top": "",
+        "section_margin_bottom": "30px",
+        "section_padding": "",
+        "section_bg": "",
+        "no_overflow": false,
+        "fullscreen": false,
+        "autoplay": true,
+        "use_navigation": false,
+        "nav_style": "-default",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "default",
+        "use_scrollbar": false,
+        "h_reponsive": "337",
+        "h_reponsive_768": "",
+        "h_reponsive_992": "",
+        "h_reponsive_1200": "",
+        "h_reponsive_1400": "",
+        "autoplay_speed": 7,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"992\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"1200\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  }\n}",
+        "width_lg": 6,
+        "width_xxl": 6,
+        "border_radius": 10,
+        "css_section": ".section_id:hover .imgRatio-img {\ntransform: scale(1.1);\n    transition: 1.5s;\n}\n.section_id .imgRatio-img {\ntransition: 1s;\n}\n@media(max-width:991px){\n.section_id {\nmargin-bottom:30px !important;\n}\n}"
+      }
+    },
+    "1656864130f33fe1d3": {
+      "type": "rd_article_blog",
+      "blocks": {
+        "efc9709d-8b86-4977-8799-d3529bc570ee": {
+          "type": "item",
+          "settings": {
+            "title_left": "Who We Are?",
+            "article": "news\/we-are-a-patient-experienced-team-with-big-ambitions",
+            "title_style": "auto",
+            "title": "Latest Blog",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "VIEW ALL <i class=\"d-icon-arrow-right\"><\/i>",
+            "margin_btitle": 16,
+            "blog": "gym",
+            "limit": 8,
+            "load_btn": false,
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false
+          }
+        }
+      },
+      "block_order": [
+        "efc9709d-8b86-4977-8799-d3529bc570ee"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "35px",
+        "section_margin_bottom": "",
+        "section_padding": "",
+        "section_bg": "",
+        "fweight_title": "600",
+        "fsize_stitle": 1.8,
+        "color_title": "#333333",
+        "margin_btitle": 0.8,
+        "fweight_description": "300",
+        "fsize_description": 1.4,
+        "color_desc": "#999999",
+        "margin_bdescription": 0.8,
+        "use_lazyload": true,
+        "autoplay": false,
+        "use_navigation": true,
+        "nav_style": "-default",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "default",
+        "dots_position": "inside",
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 20\n  },\n  \"480\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  }\n}",
+        "css_section": ".section_id .column-left .post-content{\n    color: #999;\n    line-height: 1.72;\n    letter-spacing: 0;\n}"
+      }
+    },
+    "16343724079dd99664": {
+      "type": "rd_brand_1",
+      "blocks": {
+        "16343724079dd99664-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-5": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "brand_call_to_action": ""
+          }
+        }
+      },
+      "block_order": [
+        "16343724079dd99664-0",
+        "16343724079dd99664-1",
+        "16343724079dd99664-2",
+        "16343724079dd99664-3",
+        "16343724079dd99664-4",
+        "16343724079dd99664-5",
+        "16343724079dd99664-6"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "30px",
+        "section_margin_bottom": "",
+        "section_padding": "",
+        "section_bg": "",
+        "border_top": false,
+        "border_bottom": false,
+        "border_color": "#ebebeb",
+        "autoplay": false,
+        "use_navigation": false,
+        "nav_style": "-default",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "default",
+        "dots_position": "inside",
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1.2,\n    \"spaceBetween\": 20\n  },\n  \"320\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"480\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 5,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 6,\n    \"spaceBetween\": 20\n  }\n}",
+        "css": ".section_id {\n    background-color: #F2F3F5;\n    padding: 20px 0;\n}"
+      }
+    }
+  },
+  "order": [
+    "1626252262eb092a50",
+    "16563334432372e941",
+    "16582467590ffe5968",
+    "1636275334b9b83ee7",
+    "16344410742f479d45",
+    "1656864130f33fe1d3",
+    "16343724079dd99664"
+  ]
+}

@@ -1,0 +1,676 @@
+{
+  "sections": {
+    "1636168033f185e383": {
+      "type": "kt_slideshow",
+      "blocks": {
+        "e2cf60d0-333c-4536-a82b-65f357308b45": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_8a93707e-1231-4953-a4f7-658cef23afed.jpg",
+            "lazypreload": true,
+            "heading": "<span class=\"text-primary\">CHRIRMASTIDE<\/span>",
+            "font_heading": "poppins_n6",
+            "subheading": "Fashion Collection\n<hr size=\"7\" class=\"text-primary\" style=\"width: 70px;opacity: 1;\">",
+            "font_subheading": "poppins_n8",
+            "description": "Get Free Shipping on all orders over $75",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 50,
+            "text_alignment_left": 10,
+            "text_alignment": "",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 10,
+            "text_alignment_mb": "",
+            "style_btn_1": "btn-dark",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": false,
+            "link_1": "",
+            "textBtn_1": "SHOP NOW <i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn_2": "btn-white btn-outline",
+            "style_btn_rounded_2": "btn-rounded",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\n}\n.block_id .slideshow__subtitle{\n}\n.block_id .slideshow__description{\n}\n.block_id .btn{\n}"
+          }
+        },
+        "db5909b9-9eb1-4809-b29f-c9f97f33968b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_966eb9c5-c50c-45fb-9f58-942ddc03dbb3.jpg",
+            "lazypreload": false,
+            "heading": "NEW ARRIVALS",
+            "font_heading": "poppins_n6",
+            "subheading": "Fashion Collection\n<hr size=\"7\" class=\"text-white\" style=\"width: 70px;opacity: 1;\">",
+            "font_subheading": "poppins_n8",
+            "description": "Get Free Shipping on all orders over 75$",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 50,
+            "text_alignment_left": 90,
+            "text_alignment": "",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 90,
+            "text_alignment_mb": "",
+            "style_btn_1": "btn-dark",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": true,
+            "link_1": "",
+            "textBtn_1": "SHOP NOW<i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn_2": "btn-dark",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": false,
+            "css_block": ".block_id .slideshow__title {\nmargin-bottom: 0;\n}\n.block_id .slideshow__subtitle{\nmargin-bottom: 0;\n}\n.block_id .slideshow__description{\nmargin-bottom: 2rem;\n}"
+          }
+        }
+      },
+      "block_order": [
+        "e2cf60d0-333c-4536-a82b-65f357308b45",
+        "db5909b9-9eb1-4809-b29f-c9f97f33968b"
+      ],
+      "settings": {
+        "title": "Slideshow Master",
+        "off_mobile": false,
+        "off_desktop": false,
+        "width_section": "w-100",
+        "width_content": false,
+        "section_margin_top": "",
+        "section_margin_bottom": "20px",
+        "section_padding": "",
+        "section_bg": "rgba(0,0,0,0)",
+        "no_overflow": false,
+        "fullscreen": false,
+        "autoplay": false,
+        "use_navigation": false,
+        "nav_style": "-default",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": true,
+        "dots_mode": "white",
+        "use_scrollbar": false,
+        "h_reponsive": "400",
+        "h_reponsive_768": "",
+        "h_reponsive_992": "auto",
+        "h_reponsive_1200": "",
+        "h_reponsive_1400": "",
+        "autoplay_speed": 14,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"992\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"1200\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  }\n}",
+        "width_lg": 4,
+        "width_xxl": 3,
+        "border_radius": 0,
+        "css_section": ".section_id .slideshow__title {\ncolor: #fff;\nfont-size: 2.500em;\n}\n.section_id .slideshow__subtitle{\ncolor: #222;\nfont-size: 3.750em;\nmargin-bottom: 1.5rem;\nline-height: 1.1;\n}\n.section_id .slideshow__description{\ncolor:#222;\nfont-size: 1.125em;\nmargin-bottom: 1.5rem;\n}\n.section_id .btn{\n}"
+      }
+    },
+    "164413883682f55309": {
+      "type": "kt_banner_flexible",
+      "blocks": {
+        "34048fc2-f5cb-47fa-ae30-4e27550b7496": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 4,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/1_824ecade-aa06-48ba-afbb-16bcd0ff6f69.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "",
+            "color_desc": "#ffffff",
+            "titlex": "<span style=\"font-size:1.371em;font-weight: 700\">For Men’s<\/span>",
+            "color_titlex": "#222222",
+            "stitle": "<strong>STARTING AT 29$<\/strong>\n<hr size=\"5\" class=\"text-grey\" style=\"width: 50px;opacity: 1;margin-bottom:5px\">",
+            "color_stitle": "#666666",
+            "name_btn": "SHOP NOW<i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn": "btn-underline btn-link",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 16,
+            "text_align": "",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 16,
+            "text_align_mb": "",
+            "banner-effect": ""
+          }
+        },
+        "fa3ea5e4-eb41-4d57-9fbd-70b8fc7f55e3": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 4,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/2_11c29725-2076-4208-a0dd-7030a7c9f158.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "GET 40% OFF YOUR ENTIRE ORDER!",
+            "color_desc": "#20c7d9",
+            "titlex": "<span style=\"font-size:1.371em;font-weight: 700\">Black Friday Sale<\/span>",
+            "color_titlex": "#ffffff",
+            "stitle": "Use code <strong class=\"text-white\">BLKFRI40<\/strong> at checkout.",
+            "color_stitle": "#aaaaaa",
+            "name_btn": "SHOP NOW<i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn": "btn-primary btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 16,
+            "text_align": "center",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 16,
+            "text_align_mb": "center",
+            "banner-effect": ""
+          }
+        },
+        "e0ef487b-b6c6-4959-a96d-1e385edb3708": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 4,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/3_fd1b024f-c264-4266-95b9-545bd29e86a0.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "",
+            "color_desc": "#ffffff",
+            "titlex": "<span style=\"font-size:1.371em;font-weight: 700\">For Women’s<\/span>",
+            "color_titlex": "#222222",
+            "stitle": "<strong>STARTING AT 29$<\/strong>\n<hr size=\"5\" class=\"text-grey\" style=\"width: 50px;opacity: 1;margin-bottom:5px\">",
+            "color_stitle": "#666666",
+            "name_btn": "SHOP NOW<i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn": "btn-underline btn-link",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 100,
+            "text_align": "",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 100,
+            "text_align_mb": "",
+            "banner-effect": ""
+          }
+        }
+      },
+      "block_order": [
+        "34048fc2-f5cb-47fa-ae30-4e27550b7496",
+        "fa3ea5e4-eb41-4d57-9fbd-70b8fc7f55e3",
+        "e0ef487b-b6c6-4959-a96d-1e385edb3708"
+      ],
+      "settings": {
+        "title": "Banner Flexible",
+        "off_mobile": false,
+        "off_desktop": false,
+        "width_section": "w-100",
+        "width_content": false,
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "0 20px",
+        "section_bg": "",
+        "layout_mode": "masonry",
+        "grid_gutter": 10,
+        "border_radius": 0,
+        "css_section": ".section_id .item_1 .img__banner,\n.section_id .item_2 .img__banner,\n.section_id .item_4 .img__banner {\n}\n.section_id .item_3 .img__banner{\n}\n.section_id .btn{\n    padding: 1.07em 2.15em;\n    font-size: 13px;\n}"
+      }
+    },
+    "16403571068445a8d4": {
+      "type": "rd_prds_sc_slide",
+      "blocks": {
+        "1640357106a633754b-0": {
+          "type": "item",
+          "settings": {
+            "title_style": "center",
+            "title": "Shop Bags",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30,
+            "products": "shop-bags-h19-1",
+            "limit": 8,
+            "load_btn": false,
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "autoplay": false,
+            "use_navigation": false,
+            "nav_style": "-default",
+            "nav_mode": "default",
+            "nav_position": "nav-default",
+            "use_dots": false,
+            "dots_mode": "primary",
+            "dots_position": "outside",
+            "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  },\n  \"375\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 5,\n    \"spaceBetween\": 20\n  },\n  \"1500\": {\n    \"slidesPerView\": 6,\n    \"spaceBetween\": 20\n  }\n}"
+          }
+        }
+      },
+      "block_order": [
+        "1640357106a633754b-0"
+      ],
+      "settings": {
+        "title": "Products slide(grid)",
+        "off_mobile": false,
+        "off_desktop": false,
+        "width_section": "container-fluid wide",
+        "width_content": true,
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "#f6f7f9",
+        "use_lazyload": true
+      }
+    },
+    "164480329801d557d7": {
+      "type": "rd_list_item_cattegories_1",
+      "blocks": {
+        "164480329892cc6e41-0": {
+          "type": "title",
+          "settings": {
+            "title_style": "auto",
+            "title": "",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30
+          }
+        },
+        "164480329892cc6e41-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_01a9d1f9-234b-4acd-9147-8117bddf7262.jpg",
+            "link": "shopify:\/\/collections\/accessories",
+            "title": "For Women’s"
+          }
+        },
+        "164480329892cc6e41-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_68dee512-d0d5-4583-aefe-b617f3a10e2d.jpg",
+            "link": "shopify:\/\/collections\/bags-h61-2",
+            "title": "Sporting Goods"
+          }
+        },
+        "164480329892cc6e41-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_fa4a608b-4c6f-4060-b55c-4996feaa29c2.jpg",
+            "link": "shopify:\/\/collections\/best-selling-h2-1",
+            "title": "For Men’s"
+          }
+        },
+        "164480329892cc6e41-4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_26357d9d-cd68-4fcd-8643-95b02f970197.jpg",
+            "link": "shopify:\/\/collections\/featured-h91-1",
+            "title": "Accessories & Watches"
+          }
+        },
+        "3152611d-6d41-418d-a0ee-a1d994ed62e5": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_7435f955-88c6-4c88-b7c4-e96904e20cb6.jpg",
+            "link": "shopify:\/\/collections\/off-canvas-filter",
+            "title": "Riode Gift"
+          }
+        }
+      },
+      "block_order": [
+        "164480329892cc6e41-0",
+        "164480329892cc6e41-1",
+        "164480329892cc6e41-2",
+        "164480329892cc6e41-3",
+        "164480329892cc6e41-4",
+        "3152611d-6d41-418d-a0ee-a1d994ed62e5"
+      ],
+      "settings": {
+        "off_mobile": false,
+        "off_desktop": false,
+        "title": "List categories",
+        "width_section": "container-fluid wide",
+        "width_content": false,
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "style": "04",
+        "items": 5
+      }
+    },
+    "1644421144f30d2406": {
+      "type": "kt_banner_flexible",
+      "blocks": {
+        "61bf5d2a-8cfc-4a59-89b9-e198766bdbbc": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 0,
+            "width_lg": 6,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/4_4e6e2b57-a06c-4173-92d6-a6539a0699cf.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "NEW ARRIVALS",
+            "color_desc": "#222222",
+            "titlex": "<strong>Season Training Shoes<\/strong>\n<hr size=\"5\" class=\"text-grey\" style=\"width: 50px;opacity: 1;margin-bottom:15px\">",
+            "color_titlex": "#222222",
+            "stitle": "Only from <strong class=\"text-primary\">78.99$<\/strong>",
+            "color_stitle": "#666666",
+            "name_btn": "",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 100,
+            "text_align": "",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 100,
+            "text_align_mb": "",
+            "banner-effect": ""
+          }
+        },
+        "d3d97954-a157-4e35-a8d6-82ab16404f1c": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 0,
+            "width_lg": 6,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/5_790cd47a-57af-4a76-85b9-1c02c9267fe1.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "TOP PORDUCT",
+            "color_desc": "#ffffff",
+            "titlex": "<strong>Suitable Women Wear<\/strong>\n<hr size=\"5\" class=\"text-grey\" style=\"width: 50px;opacity: 1;margin-bottom:15px\">",
+            "color_titlex": "#ffffff",
+            "stitle": "Only from <strong class=\"text-primary\">78.99$<\/strong>",
+            "color_stitle": "#ffffff",
+            "name_btn": "",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 100,
+            "text_align": "",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 100,
+            "text_align_mb": "",
+            "banner-effect": ""
+          }
+        }
+      },
+      "block_order": [
+        "61bf5d2a-8cfc-4a59-89b9-e198766bdbbc",
+        "d3d97954-a157-4e35-a8d6-82ab16404f1c"
+      ],
+      "settings": {
+        "title": "Banner Flexible",
+        "off_mobile": false,
+        "off_desktop": false,
+        "width_section": "container-fluid wide",
+        "width_content": false,
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "layout_mode": "normal",
+        "grid_gutter": 10,
+        "border_radius": 0,
+        "css_section": ".section_id .img__banner{\nmin-height: 257px;\n}\n.section_id .btn{\n    padding: 1.07em 2.15em;\n    font-size: 13px;\n}"
+      }
+    },
+    "1644815803ea361b93": {
+      "type": "rd_prds_sc_slide",
+      "blocks": {
+        "16448158027e2e21cd-0": {
+          "type": "item",
+          "settings": {
+            "title_style": "center",
+            "title": "Shop Shoes",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30,
+            "products": "3-columns-mode",
+            "limit": 8,
+            "load_btn": false,
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "autoplay": false,
+            "use_navigation": false,
+            "nav_style": "-default",
+            "nav_mode": "default",
+            "nav_position": "nav-default",
+            "use_dots": false,
+            "dots_mode": "default",
+            "dots_position": "inside",
+            "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  },\n  \"375\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 5,\n    \"spaceBetween\": 20\n  },\n  \"1500\": {\n    \"slidesPerView\": 6,\n    \"spaceBetween\": 20\n  }\n}"
+          }
+        }
+      },
+      "block_order": [
+        "16448158027e2e21cd-0"
+      ],
+      "settings": {
+        "title": "Products slide(grid)",
+        "off_mobile": false,
+        "off_desktop": false,
+        "width_section": "container-fluid wide",
+        "width_content": true,
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding": "60px 0",
+        "section_bg": "#f6f7f9",
+        "use_lazyload": true
+      }
+    },
+    "1644831561ad2cd16e": {
+      "type": "rd_video_banner_1",
+      "settings": {
+        "off_mobile": false,
+        "off_desktop": false,
+        "title": "Video banner 1",
+        "width_content": false,
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "100px 0",
+        "section_bg": "",
+        "image": "shopify:\/\/shop_images\/video.jpg",
+        "titlex": "<span class=\"fw-normal\">BRAND EXPERIENCE<\/span>",
+        "stitle": "<strong style=\"font-size: 3em\">PREMIUM FOR THE PROS 2021<\/strong>",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=YbJOTdZBX1g",
+        "btn_style": "thin"
+      }
+    },
+    "16450883706445e01a": {
+      "type": "rd_prds_sc_slide",
+      "blocks": {
+        "1645088369fbd30a66-0": {
+          "type": "item",
+          "settings": {
+            "title_style": "center",
+            "title": "Featured Products",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30,
+            "products": "5-columns-mode",
+            "limit": 8,
+            "load_btn": false,
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "autoplay": false,
+            "use_navigation": false,
+            "nav_style": "-default",
+            "nav_mode": "default",
+            "nav_position": "nav-default",
+            "use_dots": false,
+            "dots_mode": "default",
+            "dots_position": "inside",
+            "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  },\n  \"375\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 5,\n    \"spaceBetween\": 20\n  },\n  \"1500\": {\n    \"slidesPerView\": 6,\n    \"spaceBetween\": 20\n  }\n}"
+          }
+        }
+      },
+      "block_order": [
+        "1645088369fbd30a66-0"
+      ],
+      "settings": {
+        "title": "Products slide(grid)",
+        "off_mobile": false,
+        "off_desktop": false,
+        "width_section": "container-fluid wide",
+        "width_content": true,
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "use_lazyload": false
+      }
+    },
+    "1645088407115074f4": {
+      "type": "kt_instagram_1",
+      "blocks": {
+        "4ddb6cc1-928a-45ee-be4f-bf53c4072e90": {
+          "type": "title",
+          "settings": {
+            "title_style": "center",
+            "title": "Instagram",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30
+          }
+        },
+        "8f022d0d-2840-4011-ad84-fc68d54e5650": {
+          "type": "img_i",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_ea052494-29c4-4ee1-8a10-781ff7ccd7bf.jpg",
+            "image_link": ""
+          }
+        },
+        "5175998e-451c-4a62-8cb6-b769a0ff1065": {
+          "type": "img_i",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_4af38dd3-fa78-442a-a95e-e4b850f527f5.jpg",
+            "image_link": ""
+          }
+        },
+        "f6556ae1-ba71-4ae0-9234-b09171a53121": {
+          "type": "img_i",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_d5288ba7-8742-4935-b0d8-1ad2954ece5d.jpg",
+            "image_link": ""
+          }
+        },
+        "c03bbccf-2ea2-4eea-a021-fe2f36a37ae8": {
+          "type": "img_i",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_1c26cd32-a723-4d09-9385-0d7bcd27d12d.jpg",
+            "image_link": ""
+          }
+        },
+        "4418716c-9954-4f2b-a464-bfd581f5e901": {
+          "type": "img_i",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_9a857ad6-fd52-475e-b123-1a8d2a4ae8ab.jpg",
+            "image_link": ""
+          }
+        },
+        "d42b5584-7c9e-452d-b107-ae6c533f8179": {
+          "type": "img_i",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6_c22fd465-39c9-4353-8987-14ed83042785.jpg",
+            "image_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "4ddb6cc1-928a-45ee-be4f-bf53c4072e90",
+        "8f022d0d-2840-4011-ad84-fc68d54e5650",
+        "5175998e-451c-4a62-8cb6-b769a0ff1065",
+        "f6556ae1-ba71-4ae0-9234-b09171a53121",
+        "c03bbccf-2ea2-4eea-a021-fe2f36a37ae8",
+        "4418716c-9954-4f2b-a464-bfd581f5e901",
+        "d42b5584-7c9e-452d-b107-ae6c533f8179"
+      ],
+      "settings": {
+        "off_mobile": false,
+        "off_desktop": false,
+        "title": "Instagram 1",
+        "width_section": "w-100",
+        "width_content": false,
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding": "",
+        "section_bg": "",
+        "titlex": "Follow Us On Instagram",
+        "stitle": "Wanna share your style with us?",
+        "reverse": false,
+        "title_align": "text-center",
+        "name_link": "",
+        "margin_btitle": 30,
+        "images_limit": 12,
+        "per_row": 6,
+        "use_nospace": false,
+        "use_slide": true,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  },\n  \"768\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 0\n  },\n  \"992\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 0\n  },\n  \"1200\": {\n    \"slidesPerView\": 6,\n    \"spaceBetween\": 0\n  }\n}"
+      }
+    }
+  },
+  "order": [
+    "1636168033f185e383",
+    "164413883682f55309",
+    "16403571068445a8d4",
+    "164480329801d557d7",
+    "1644421144f30d2406",
+    "1644815803ea361b93",
+    "1644831561ad2cd16e",
+    "16450883706445e01a",
+    "1645088407115074f4"
+  ]
+}

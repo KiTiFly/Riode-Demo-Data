@@ -1,0 +1,574 @@
+{
+  "sections": {
+    "1636168033f185e383": {
+      "type": "kt_slideshow",
+      "blocks": {
+        "db5909b9-9eb1-4809-b29f-c9f97f33968b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_361d62e5-1af3-4d87-8a3a-0f8245c39278.jpg",
+            "lazypreload": false,
+            "heading": "FROM ONLINE STORE",
+            "font_heading": "poppins_n6",
+            "subheading": "Highly recommend \nMid season's",
+            "font_subheading": "poppins_n7",
+            "description": "UP TO 10% OFF \n<span>For Men's Collection<\/span>",
+            "font_description": "poppins_n7",
+            "text_alignment_top": 50,
+            "text_alignment_left": 10,
+            "text_alignment": "",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 50,
+            "text_alignment_mb": "center",
+            "style_btn_1": "btn-secondary",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": false,
+            "link_1": "",
+            "textBtn_1": "SHOP NOW<i class=\" d-icon-arrow-right\"><\/i>",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\n    font-size: 1.25rem;\n    color: black !important;\n    letter-spacing: -0.75px;\n    line-height: 1;\n    margin: 5px 0 20px;\n}\n.block_id .slideshow__subtitle {\nfont-size: 2.5rem;\n    color: black;\n    line-height: 1;\n    margin-bottom: 20px;\n    letter-spacing: -1.35px;\n}\n.block_id .slideshow__description {\nfont-size:20px;\ncolor: #2f7fd0 !important;\nmargin-bottom:40px;\n}\n.block_id .slideshow__description span {\nfont-size:16px;\ncolor: black!important;\nfont-weight: 300;\n}"
+          }
+        },
+        "12a6d01e-2dc6-47ec-9c70-0557e4179b9b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_6ee6f3cd-c791-429d-a0f4-77bd18569c57.jpg",
+            "lazypreload": false,
+            "heading": "FROM ONLINE STORE",
+            "font_heading": "poppins_n6",
+            "subheading": "Mead season Sale \nFor Women's",
+            "font_subheading": "poppins_n7",
+            "description": "UP TO 10% OFF",
+            "font_description": "poppins_n6",
+            "text_alignment_top": 50,
+            "text_alignment_left": 90,
+            "text_alignment": "",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 50,
+            "text_alignment_mb": "",
+            "style_btn_1": "btn-secondary",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": true,
+            "link_1": "",
+            "textBtn_1": "SHOW NOW<i class=\" d-icon-arrow-right\"><\/i>",
+            "style_btn_2": "btn-secondary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\n    font-size: 1.25rem;\n    color: black !important;\n    letter-spacing: -0.75px;\n    line-height: 1;\n    margin: 5px 0 20px;\n}\n.block_id .slideshow__subtitle {\nfont-size: 2.5rem;\n    color: black;\n    line-height: 1;\n    margin-bottom: 20px;\n    letter-spacing: -1.35px;\n}\n.block_id .slideshow__description {\nfont-size:20px;\ncolor: #2f7fd0 !important;\nmargin-bottom:40px;\n}"
+          }
+        }
+      },
+      "block_order": [
+        "db5909b9-9eb1-4809-b29f-c9f97f33968b",
+        "12a6d01e-2dc6-47ec-9c70-0557e4179b9b"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "container | w-100",
+        "section_margin_top": "20px",
+        "section_margin_bottom": "",
+        "section_padding": "",
+        "section_bg": "#ffffff",
+        "no_overflow": false,
+        "fullscreen": false,
+        "autoplay": true,
+        "use_navigation": false,
+        "nav_style": "-default",
+        "nav_mode": "white",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "white",
+        "use_scrollbar": false,
+        "h_reponsive": "400",
+        "h_reponsive_768": "",
+        "h_reponsive_992": "auto",
+        "h_reponsive_1200": "auto",
+        "h_reponsive_1400": "auto",
+        "autoplay_speed": 14,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"992\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"1200\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  }\n}",
+        "width_lg": 2,
+        "width_xxl": 3,
+        "border_radius": 3,
+        "css_section": ".section_id .btn {\n    padding: 1rem 2.3rem;\n}\n.section_id .swiper-button-next:after {\ncontent: '\\e983';\n}\n.section_id .swiper-button-next {\nmargin-right:3.125rem;\n}\n.section_id .swiper-button-prev:after {\n    content: '\\e982';\n}\n.section_id .swiper-button-prev {\nmargin-left:3.125rem;\n}"
+      }
+    },
+    "1662009848428e53ff": {
+      "type": "kt_banner_flexible",
+      "blocks": {
+        "7f5bbe94-8b29-4733-8818-3e34282c42a5": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 6,
+            "width_md": 6,
+            "width_lg": 6,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/1_fe37e011-6650-4a15-9e89-df0b310aa7d6.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "NEW COLLECTION",
+            "color_desc": "#fcfcfc",
+            "titlex": "MID SEASON'S",
+            "color_titlex": "#ffffff",
+            "stitle": "",
+            "color_stitle": "#cccccc",
+            "name_btn": "SHOP NOW<i class=\" d-icon-arrow-right\"><\/i>",
+            "style_btn": "btn-underline btn-white btn-link",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 10,
+            "text_align": "",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 10,
+            "text_align_mb": "",
+            "banner-effect": "banner-effect6"
+          }
+        },
+        "cea9b64f-d268-4975-8ff6-9be484ae91e5": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 6,
+            "width_md": 6,
+            "width_lg": 6,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/2_285585e4-7f9f-4968-a0fe-783037e90d64.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "TRENDDING",
+            "color_desc": "#222222",
+            "titlex": "Fashion Bags",
+            "color_titlex": "#222222",
+            "stitle": "",
+            "color_stitle": "#222222",
+            "name_btn": "SHOP NOW<i class=\" d-icon-arrow-right\"><\/i>",
+            "style_btn": "btn-underline btn-link",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 10,
+            "text_align": "",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 10,
+            "text_align_mb": "",
+            "banner-effect": "banner-effect6"
+          }
+        }
+      },
+      "block_order": [
+        "7f5bbe94-8b29-4733-8818-3e34282c42a5",
+        "cea9b64f-d268-4975-8ff6-9be484ae91e5"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "15px",
+        "section_margin_bottom": "70px",
+        "section_padding": "",
+        "section_bg": "",
+        "layout_mode": "normal",
+        "grid_gutter": 10,
+        "border_radius": 10,
+        "css_section": ".section_id .banner-wrap {\n    border-radius: 0;\n}\n.section_id .desc {\nfont-size:1.125rem;\nfont-weight:600;\n}\n.section_id .titlex {\nfont-weight:700;\n}\n.section_id .btn {\nmargin-top:25px;\nborder-radius:3px;\n}\n.section_id .stitle {\nmargin-bottom:0px !important;\n}"
+      }
+    },
+    "16633455058378445c": {
+      "type": "rd_prds_sc_grid",
+      "blocks": {
+        "1663345505aa06e868-0": {
+          "type": "item",
+          "settings": {
+            "title_style": "center",
+            "title": "Best Sealler",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 40,
+            "products": "best-sealler-34",
+            "limit_per_row": 4,
+            "limit": 8,
+            "range_row": 20,
+            "load_btn": false,
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false
+          }
+        }
+      },
+      "block_order": [
+        "1663345505aa06e868-0"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "85px 0",
+        "section_bg": "#F7FBFE",
+        "use_lazyload": true,
+        "use_nospace": false
+      }
+    },
+    "1663404398acc0f961": {
+      "type": "rd_img_text_cta_sc_02",
+      "blocks": {
+        "f52fc2f3-716a-463f-b802-75e16c50fd14": {
+          "type": "cta",
+          "settings": {
+            "image_email": "shopify:\/\/shop_images\/3_bf12a1b5-94a8-4a0f-9f2a-24af030adc17.jpg",
+            "text_align_top": 50,
+            "text_align_start": 10,
+            "text_align": "",
+            "titlex": "Flash Sale",
+            "color_title": "#222222",
+            "stitle": "UP TO 50% OFF",
+            "color_sub_title": "#2f7fd0",
+            "desc": "From Riode store",
+            "color_desc": "#666666",
+            "color_background_email": "#ffffff",
+            "title": "",
+            "margin_btitle": 30,
+            "title_cta": "SUBSCRIBE TO OUR NEWSLETTER",
+            "description_cta": "",
+            "link_cta": "",
+            "btn_name_cta": "SUBSCRIBE",
+            "style_btn": "btn-primary"
+          }
+        },
+        "6e9537d3-785e-425b-8097-4f7c8f6a28ef": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "margin_btitle": 30,
+            "image_banner": "shopify:\/\/shop_images\/4_94a2f70e-adaf-4c8b-8f3b-1c938e94bc0e.jpg",
+            "text_align_top": 50,
+            "text_align_start": 7,
+            "text_align": "",
+            "titlex": "THROUGH BLACK FRIDAY",
+            "color_title": "#ffffff",
+            "stitle": "Mid Season's Sale <br>\nUp to 30% Off",
+            "color_sub_title": "#ffffff",
+            "desc": "Free shipping on all aoders over $99.0",
+            "color_desc": "#ffffff",
+            "name_btn": "SHOP NOW<i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn": "btn-white",
+            "style_btn_rounded": "btn-rounded",
+            "btn_shadow": false
+          }
+        }
+      },
+      "block_order": [
+        "f52fc2f3-716a-463f-b802-75e16c50fd14",
+        "6e9537d3-785e-425b-8097-4f7c8f6a28ef"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "50px",
+        "section_padding": "",
+        "section_bg": "",
+        "use_lazyload": false,
+        "css_section": ""
+      }
+    },
+    "16632585721932e0b8": {
+      "type": "rd_icon_boxes",
+      "blocks": {
+        "ba32d807-ab2f-4c19-bf60-2cf130a565e0": {
+          "type": "item_icon_box_card",
+          "settings": {
+            "icon_font": "d-icon-truck",
+            "size": 46,
+            "title": "Free Shipping & Return",
+            "content": "Get free delivery of your orders all over the world",
+            "bg_color": "#ffffff",
+            "url": ""
+          }
+        },
+        "48f22dd7-14af-4074-9b28-930eaf302771": {
+          "type": "item_icon_box_card",
+          "settings": {
+            "icon_font": "d-icon-service",
+            "size": 48,
+            "title": "Customer Support",
+            "content": "We provide convenient support of 24\/7 for our customers",
+            "bg_color": "#ffffff",
+            "url": ""
+          }
+        },
+        "36c68140-4050-4d9b-b5af-8c8cc11d24f5": {
+          "type": "item_icon_box_card",
+          "settings": {
+            "icon_font": "d-icon-database",
+            "size": 48,
+            "title": "Secure Payment",
+            "content": "We fully guarantee our money back policy width no doubt",
+            "bg_color": "#ffffff",
+            "url": ""
+          }
+        },
+        "7d8eec09-8eb6-496a-992d-74f3e68fed3b": {
+          "type": "item_icon_box_card",
+          "settings": {
+            "icon_font": "d-icon-card",
+            "size": 48,
+            "title": "Money Back Guarantee",
+            "content": "Get our gift - 20% off far your first ardered product",
+            "bg_color": "#ffffff",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "ba32d807-ab2f-4c19-bf60-2cf130a565e0",
+        "48f22dd7-14af-4074-9b28-930eaf302771",
+        "36c68140-4050-4d9b-b5af-8c8cc11d24f5",
+        "7d8eec09-8eb6-496a-992d-74f3e68fed3b"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "68px",
+        "section_margin_bottom": "",
+        "section_padding": "0 0 70px",
+        "section_bg": "",
+        "border_top": false,
+        "border_bottom": false,
+        "border_color": "#ebebeb",
+        "color_icon": "#333333",
+        "color_title": "#333333",
+        "color_desc": "#cccccc",
+        "title_font_weight": "400",
+        "use_slide": true,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 20\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 20\n  },\n  \"476\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  }\n}",
+        "css_section": ".section_id .icon-boxes-container .swiper-slide:nth-child(2n+1) {\nborder-right: 1px solid #ececec;\n    border-left: 1px solid #ececec;\n}\n.section_id .icon-boxes-container .swiper-slide:nth-child(1){\n    border-left: none;\n}\n.section_id .icon-box-icon i {\nfont-size:46px;\n    color: #2f7fd0 !important;\n}\n.section_id .icon-box-title {\n    font-size: 16px;\n    font-weight: 700;\n}\n.section_id .icon-box-card {\npadding: 0 20px;\n}\n.section_id .icon-box-content p {\nmax-width:270px;\n}"
+      }
+    },
+    "16633463659ed4015a": {
+      "type": "rd_prds_sc_grid",
+      "blocks": {
+        "1663346364e2fe7703-0": {
+          "type": "item",
+          "settings": {
+            "title_style": "center",
+            "title": "Our Featured",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 40,
+            "products": "our-featured-1",
+            "limit_per_row": 4,
+            "limit": 4,
+            "range_row": 20,
+            "load_btn": false,
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false
+          }
+        }
+      },
+      "block_order": [
+        "1663346364e2fe7703-0"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding": "60px 0 20px 0",
+        "section_bg": "#F7FBFE",
+        "use_lazyload": true,
+        "use_nospace": false
+      }
+    },
+    "1663259902ae908623": {
+      "type": "kt_banner_flexible",
+      "blocks": {
+        "1735c155-2b10-482e-a6b6-723e8702dcb3": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 6,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/5_88ad7c7a-4a2d-4e42-9578-88e234767ec0.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "New Accessories",
+            "color_desc": "#222222",
+            "titlex": "",
+            "color_titlex": "#ffffff",
+            "stitle": "",
+            "color_stitle": "#ffffff",
+            "name_btn": "SHOW NOW<i class=\" d-icon-arrow-right\"><\/i>",
+            "style_btn": "btn-underline btn-link",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 10,
+            "text_align": "",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 10,
+            "text_align_mb": "",
+            "banner-effect": ""
+          }
+        },
+        "094e23b6-0b00-4515-91cb-ca852b41cece": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 6,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/6_2ae17cf7-7945-472f-a005-ec25965bd519.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "Comfort Shoes",
+            "color_desc": "#ffffff",
+            "titlex": "",
+            "color_titlex": "#ffffff",
+            "stitle": "",
+            "color_stitle": "#ffffff",
+            "name_btn": "SHOW NOW<i class=\" d-icon-arrow-right\"><\/i>",
+            "style_btn": "btn-underline btn-white btn-link",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 10,
+            "text_align": "",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 10,
+            "text_align_mb": "",
+            "banner-effect": ""
+          }
+        }
+      },
+      "block_order": [
+        "1735c155-2b10-482e-a6b6-723e8702dcb3",
+        "094e23b6-0b00-4515-91cb-ca852b41cece"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "10px 0 40px",
+        "section_bg": "#F7FBFE",
+        "layout_mode": "normal",
+        "grid_gutter": 10,
+        "border_radius": 0,
+        "css_section": ".section_id .desc {\nfont-size: 1.9rem;\nfont-weight:700;\n}"
+      }
+    },
+    "16633472045a6321bd": {
+      "type": "rd_blog",
+      "blocks": {
+        "05d5eb34-e54c-423a-b42a-9c74f04094ac": {
+          "type": "1",
+          "settings": {
+            "blog": "news",
+            "limit": 3,
+            "load_btn": false,
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false
+          }
+        },
+        "10e214ac-cab2-4703-89b1-8a1c3dab6ed4": {
+          "type": "title",
+          "settings": {
+            "title_style": "center",
+            "title": "Lastest News",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30
+          }
+        }
+      },
+      "block_order": [
+        "05d5eb34-e54c-423a-b42a-9c74f04094ac",
+        "10e214ac-cab2-4703-89b1-8a1c3dab6ed4"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "fweight_title": "600",
+        "fsize_stitle": 1.8,
+        "color_title": "#333333",
+        "margin_btitle": 0.8,
+        "fweight_description": "300",
+        "fsize_description": 1.4,
+        "color_desc": "#999999",
+        "margin_bdescription": 0.8,
+        "use_lazyload": false,
+        "autoplay": false,
+        "use_navigation": true,
+        "nav_style": "-default",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "default",
+        "dots_position": "inside",
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 20\n  },\n  \"480\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  }\n}",
+        "css_section": ""
+      }
+    }
+  },
+  "order": [
+    "1636168033f185e383",
+    "1662009848428e53ff",
+    "16633455058378445c",
+    "1663404398acc0f961",
+    "16632585721932e0b8",
+    "16633463659ed4015a",
+    "1663259902ae908623",
+    "16633472045a6321bd"
+  ]
+}

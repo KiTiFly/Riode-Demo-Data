@@ -1,0 +1,183 @@
+{
+  "sections": {
+    "1636168033f185e383": {
+      "type": "kt_slideshow",
+      "blocks": {
+        "1636168033f185e383-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_583981cb-9cb5-4f1e-ae91-8d3aa2aad24f.jpg",
+            "heading": "BEST SELLER",
+            "font_heading": "poppins_n8",
+            "subheading": "Power bank with built in wireless charge",
+            "font_subheading": "poppins_n7",
+            "description": "",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 50,
+            "text_alignment_left": 2,
+            "text_alignment": "",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 2,
+            "text_alignment_mb": "",
+            "style_btn_1": "btn-underline btn-link",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": false,
+            "link_1": "",
+            "textBtn_1": "SHOP ELECTRONIC<i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn_2": "btn-white",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": true,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ""
+          }
+        },
+        "12a6d01e-2dc6-47ec-9c70-0557e4179b9b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Slider02.jpg",
+            "heading": "NEW DESIGN",
+            "font_heading": "poppins_n8",
+            "subheading": "Stunning original design wooden clock",
+            "font_subheading": "poppins_n7",
+            "description": "",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 50,
+            "text_alignment_left": 90,
+            "text_alignment": "",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 90,
+            "text_alignment_mb": "",
+            "style_btn_1": "btn-underline btn-white btn-link",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": true,
+            "link_1": "",
+            "textBtn_1": "SHOP ESSENTIALS<i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn_2": "btn-dark",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\ncolor: var(--bs-primary);\n}\n.block_id .slideshow__subtitle{\ncolor: #fff;\n}"
+          }
+        }
+      },
+      "block_order": [
+        "1636168033f185e383-0",
+        "12a6d01e-2dc6-47ec-9c70-0557e4179b9b"
+      ],
+      "settings": {
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "no_overflow": false,
+        "fullscreen": false,
+        "autoplay": false,
+        "use_navigation": true,
+        "nav_style": "-default",
+        "nav_mode": "white",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "default",
+        "use_scrollbar": false,
+        "h_reponsive": "400",
+        "h_reponsive_768": "",
+        "h_reponsive_992": "auto",
+        "h_reponsive_1200": "",
+        "h_reponsive_1400": "",
+        "autoplay_speed": 7,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"992\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"1200\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  }\n}",
+        "width_lg": 3,
+        "width_xxl": 3,
+        "border_radius": 3,
+        "css_section": ".section_id .slideshow__title {\ncolor: #999;\nfont-size: 1.250em;\nfont-family: 'Jost', sans-serif !important;\nmargin-bottom: .5rem;\n}\n.section_id .slideshow__subtitle{\ncolor: #333;\nfont-size: 2.500em;\nfont-family: 'Jost', sans-serif !important;\nmargin-bottom: 1.7rem;\nline-height: 1.2;\nmax-width: 490px;\n}\n.section_id .slideshow__description{\ncolor: #333;\nfont-size: 1em;\nfont-family: 'Jost', sans-serif !important;\nmargin-bottom: 1.2rem;\n}\n.section_id .btn{\n}"
+      }
+    },
+    "163591206067ad1209": {
+      "type": "rd_prds_sc_grid",
+      "disabled": true,
+      "blocks": {
+        "163591206067ad1209-0": {
+          "type": "item",
+          "settings": {
+            "title_style": "auto",
+            "title": "Best Selling",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 10,
+            "products": "best-selling-h2-1",
+            "limit_per_row": 4,
+            "limit": 12,
+            "range_row": 20,
+            "load_btn": false,
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false
+          }
+        }
+      },
+      "block_order": [
+        "163591206067ad1209-0"
+      ],
+      "settings": {
+        "section_margin_top": "",
+        "section_margin_bottom": "40px",
+        "section_padding": "",
+        "section_bg": "",
+        "use_lazyload": true,
+        "use_nospace": false
+      }
+    },
+    "16376345873cde3ab6": {
+      "type": "rd_prds_sc_tab_load",
+      "blocks": {
+        "1637634587b3c8b719-0": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "stitle": "",
+            "title_align": "text-center",
+            "t_tranform": "",
+            "fsize_name_tab": 18,
+            "margin_btitle": 30,
+            "collection_list": [
+              "electronics-h61",
+              "bags-h61-2",
+              "accessories"
+            ],
+            "limit_per_row": 4,
+            "limit": 12,
+            "range_row": 0,
+            "load_btn": true,
+            "name_btn": "VIEW MORE",
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "btn-rounded",
+            "btn_shadow": false
+          }
+        }
+      },
+      "block_order": [
+        "1637634587b3c8b719-0"
+      ],
+      "settings": {
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "use_lazyload": true,
+        "use_nospace": false
+      }
+    }
+  },
+  "order": [
+    "1636168033f185e383",
+    "163591206067ad1209",
+    "16376345873cde3ab6"
+  ]
+}

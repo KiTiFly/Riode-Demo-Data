@@ -1,0 +1,550 @@
+{
+  "sections": {
+    "1636168033f185e383": {
+      "type": "kt_slideshow",
+      "blocks": {
+        "12a6d01e-2dc6-47ec-9c70-0557e4179b9b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/intro-banner.jpg",
+            "lazypreload": false,
+            "heading": "",
+            "font_heading": "poppins_n8",
+            "subheading": "Make Yourself at Home",
+            "font_subheading": "poppins_n7",
+            "description": "We create <strong>HIGH QUAILTY PRODUCTS<\/strong><br>\nthat are used &amp; loved by thousands of customers",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 50,
+            "text_alignment_left": 50,
+            "text_alignment": "center",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 50,
+            "text_alignment_mb": "center",
+            "style_btn_1": "btn-white btn-outline",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": true,
+            "link_1": "",
+            "textBtn_1": "DISCOVER NOW",
+            "style_btn_2": "btn-dark",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\n}\n.block_id .slideshow__subtitle{\ncolor: #fff;\n}"
+          }
+        }
+      },
+      "block_order": [
+        "12a6d01e-2dc6-47ec-9c70-0557e4179b9b"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | w-100",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "no_overflow": false,
+        "fullscreen": true,
+        "autoplay": false,
+        "use_navigation": true,
+        "nav_style": "-default",
+        "nav_mode": "white",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "default",
+        "use_scrollbar": false,
+        "h_reponsive": "400",
+        "h_reponsive_768": "",
+        "h_reponsive_992": "auto",
+        "h_reponsive_1200": "",
+        "h_reponsive_1400": "",
+        "autoplay_speed": 7,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"992\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"1200\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  }\n}",
+        "width_lg": 3,
+        "width_xxl": 3,
+        "border_radius": 3,
+        "css_section": ".section_id .slideshow__title {\ncolor: var(--bs-primary);\nfont-size: 1.250em;\nfont-family: \"Oswald\", Sans-serif !important;\nmargin-bottom: .5rem;\n}\n.section_id .slideshow__subtitle{\ncolor: #fff;\nfont-size: 3.750em;\nfont-family: \"Oswald\", Sans-serif !important;\nmargin-bottom: 1.7rem;\nline-height: 1.1;\nletter-spacing: 0.6px;\n}\n.section_id .slideshow__description{\ncolor: #fff;\nfont-size: 1.125em;\nfont-family: \"Oswald\", Sans-serif !important;\nmargin-bottom: 1.7rem;\nletter-spacing: -0.18px;\n}\n.section_id .btn{\n}"
+      }
+    },
+    "1638927777b360cd63": {
+      "type": "kt_banner_flexible",
+      "blocks": {
+        "39753dec-20ca-42ad-9034-6cb03b691004": {
+          "type": "title",
+          "settings": {
+            "title_style": "center",
+            "title": "POPULAR CATEGORIES",
+            "stitle": "Lorem quis bibendum auctor, nisi elit consequat ipsum",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30
+          }
+        },
+        "e074b037-b56d-4f05-a20c-70b299a166f8": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 3,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/1_031e3c0b-0ecc-4c34-9858-d5ad428d766c.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "",
+            "color_desc": "#d3986a",
+            "titlex": "<span style=\"font-size: 1.625em;font-weight:800;    letter-spacing: -1.25px;\">BEDSPREADS<\/span>",
+            "color_titlex": "#ffffff",
+            "stitle": "",
+            "color_stitle": "#9e9e9e",
+            "name_btn": "",
+            "style_btn": "btn-underline btn-white btn-link",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 50,
+            "text_align": "center",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 50,
+            "text_align_mb": "center",
+            "banner-effect": "banner-effect6"
+          }
+        },
+        "ecd601eb-aacd-469a-ae05-63e925f694f6": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 3,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/2_dc7cafc8-0c7b-4b40-b1b2-618f0a17e33b.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "",
+            "color_desc": "#ffffff",
+            "titlex": "<span style=\"font-size: 1.625em;font-weight:800;    letter-spacing: -1.25px;\">GALLERY<\/span>",
+            "color_titlex": "#ffffff",
+            "stitle": "",
+            "color_stitle": "#ffffff",
+            "name_btn": "",
+            "style_btn": "btn-underline btn-white btn-link",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 50,
+            "text_align": "center",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 50,
+            "text_align_mb": "center",
+            "banner-effect": "banner-effect6"
+          }
+        },
+        "87c3808c-031f-440f-bc90-93f1a2772c14": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 3,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/3_317b14f3-65fb-4664-b4b8-b5c107dcf290.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "",
+            "color_desc": "#ffffff",
+            "titlex": "<span style=\"font-size: 1.625em;font-weight:800;    letter-spacing: -1.25px;\">CHAIR<\/span>",
+            "color_titlex": "#ffffff",
+            "stitle": "",
+            "color_stitle": "#ffffff",
+            "name_btn": "",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 50,
+            "text_align": "center",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 50,
+            "text_align_mb": "center",
+            "banner-effect": "banner-effect6"
+          }
+        },
+        "f8953fdc-d4ed-430c-85aa-cf6ce9af3bc1": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 3,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/4_5337a5a7-7ff8-4c39-b3b9-06fab6813fed.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "",
+            "color_desc": "#ffffff",
+            "titlex": "<span style=\"font-size: 1.625em;font-weight:800;    letter-spacing: -1.25px;\">LAMP<\/span>",
+            "color_titlex": "#ffffff",
+            "stitle": "",
+            "color_stitle": "#ffffff",
+            "name_btn": "",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 50,
+            "text_align": "center",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 50,
+            "text_align_mb": "center",
+            "banner-effect": "banner-effect6"
+          }
+        }
+      },
+      "block_order": [
+        "39753dec-20ca-42ad-9034-6cb03b691004",
+        "e074b037-b56d-4f05-a20c-70b299a166f8",
+        "ecd601eb-aacd-469a-ae05-63e925f694f6",
+        "87c3808c-031f-440f-bc90-93f1a2772c14",
+        "f8953fdc-d4ed-430c-85aa-cf6ce9af3bc1"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | w-100",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "layout_mode": "normal",
+        "grid_gutter": 0,
+        "border_radius": 0,
+        "css_section": ""
+      }
+    },
+    "163928218369424ad4": {
+      "type": "rd_image_w_text_1",
+      "blocks": {
+        "4b9e5a35-ca5d-41c0-b0e6-9aa7f9bc2cfb": {
+          "type": "1",
+          "settings": {
+            "image_banner": "shopify:\/\/shop_images\/1_bf70f471-e4bf-4073-8575-518d18a00a37.jpg",
+            "height": "adapt",
+            "layout": "text-first",
+            "image_link": "",
+            "text_align": "",
+            "title_section": "COMPLETE YOUR PERFECT SET.",
+            "stitle_section": "<span style=\"font-size: 14px; font-weight: 700; color: var(--bs-primary)\">NEW COLLECTION<\/span>",
+            "content_text": "Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh.",
+            "color_title": "#222222",
+            "color_sub_title": "#222222",
+            "color_desc": "#666666",
+            "name_btn": "SHOP NOW",
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "btn-rounded",
+            "btn_shadow": false
+          }
+        }
+      },
+      "block_order": [
+        "4b9e5a35-ca5d-41c0-b0e6-9aa7f9bc2cfb"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "100px",
+        "section_padding": "",
+        "section_bg": "",
+        "css": ".section_id .section-title .sub-title {\n    line-height: 1;\n}\n.section_id .content-text {\n    margin-bottom: 1.2rem;\n}\n.section_id .text-first&gt;div:first-child {\n    padding-left: 1.5rem;\n}"
+      }
+    },
+    "163938048326e00c20": {
+      "type": "kt_banner_flexible",
+      "blocks": {
+        "c903de03-c75a-4180-943e-b887380d7a10": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 0,
+            "width_lg": 0,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/2_8a3d50d5-4b43-4092-9a28-cc13b4d3ac9b.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "<span style=\"font-size:1.875em;font-weight: 700;line-height: 1.5;letter-spacing: .7px;\">\nBEST FOR LESS\n<\/span>",
+            "color_desc": "#ffffff",
+            "titlex": "<span style=\"font-size:1.875em;font-weight: 700;line-height: 1.2;letter-spacing: .7px;margin-bottom: 30px;display: block;\">\nMODERN FURNITURE &amp; DESIGN\n<\/span>",
+            "color_titlex": "#ffffff",
+            "stitle": "",
+            "color_stitle": "#ffffff",
+            "name_btn": "DISCOVER NOW",
+            "style_btn": "btn-white btn-outline",
+            "style_btn_rounded": "btn-rounded",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 50,
+            "text_align": "center",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 50,
+            "text_align_mb": "center",
+            "banner-effect": ""
+          }
+        }
+      },
+      "block_order": [
+        "c903de03-c75a-4180-943e-b887380d7a10"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | w-100",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding": "",
+        "section_bg": "",
+        "layout_mode": "normal",
+        "grid_gutter": 0,
+        "border_radius": 0,
+        "css_section": ".section_id{ font-family: var(--f_family_2),var(--f_fallback_2);\n}\n.section_id .img__banner{\nmin-height: 400px\n}"
+      }
+    },
+    "1639468349e5df6804": {
+      "type": "rd_banner_products_set_1",
+      "blocks": {
+        "fc64d3b8-efe9-4e3d-8fe9-11f495961512": {
+          "type": "1",
+          "settings": {
+            "dark_mode": false,
+            "title": "DECORATION",
+            "desc": "",
+            "products": "decoration-h81",
+            "limit": 8,
+            "banner_left": false,
+            "image_banner": "shopify:\/\/shop_images\/3_26201907-9d71-4545-8abf-02fd949d0a23.jpg",
+            "image_link": "",
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "title_banner": "01. Get your <br>inspiration <br>in the street.",
+            "stitle_banner": "IN THIS LOOK",
+            "name_btn": "BUY ALL"
+          }
+        }
+      },
+      "block_order": [
+        "fc64d3b8-efe9-4e3d-8fe9-11f495961512"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | w-100",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding": "",
+        "section_bg": ""
+      }
+    },
+    "163962406770414743": {
+      "type": "rd_banner_products_set_1",
+      "blocks": {
+        "e9d24400-333a-406a-89fe-c7af821111c6": {
+          "type": "1",
+          "settings": {
+            "dark_mode": false,
+            "title": "SMALL FURNITURE",
+            "desc": "",
+            "products": "small-furniture-h83",
+            "limit": 8,
+            "banner_left": true,
+            "image_banner": "shopify:\/\/shop_images\/4_ee52a059-d027-410d-8f69-8212db94b773.jpg",
+            "image_link": "",
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "title_banner": "01. Get your <br>inspiration <br>in the street.",
+            "stitle_banner": "IN THIS LOOK",
+            "name_btn": "BUY ALL"
+          }
+        }
+      },
+      "block_order": [
+        "e9d24400-333a-406a-89fe-c7af821111c6"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | w-100",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding": "",
+        "section_bg": ""
+      }
+    },
+    "1639627993b2a6800b": {
+      "type": "rd_video_banner_1",
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | w-100",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "120px 0",
+        "section_bg": "",
+        "image": "shopify:\/\/shop_images\/5_3ae9171f-9b12-4d6c-8888-51a8b25903cc.jpg",
+        "titlex": "MODERN FURNITURE & DESIGN",
+        "stitle": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=YbJOTdZBX1g",
+        "btn_style": "bold",
+        "css": ""
+      }
+    },
+    "16605522578395a4e9": {
+      "type": "rd_prds_sc_slide",
+      "blocks": {
+        "1660552257b9f318d1-0": {
+          "type": "item",
+          "settings": {
+            "title_style": "center",
+            "title": "POPULAR ITEMS",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30,
+            "products": "popular-items",
+            "limit": 8,
+            "load_btn": false,
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "autoplay": false,
+            "use_navigation": false,
+            "nav_style": "-default",
+            "nav_mode": "default",
+            "nav_position": "nav-default",
+            "use_dots": false,
+            "dots_mode": "default",
+            "dots_position": "outside",
+            "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  },\n  \"375\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 5,\n    \"spaceBetween\": 20\n  },\n  \"1500\": {\n    \"slidesPerView\": 5,\n    \"spaceBetween\": 20\n  }\n}"
+          }
+        }
+      },
+      "block_order": [
+        "1660552257b9f318d1-0"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "use_lazyload": false
+      }
+    },
+    "1639037394a99a0ae5": {
+      "type": "rd_blog",
+      "blocks": {
+        "0af3e4ad-82b3-49a0-9827-b046f8a11cba": {
+          "type": "title",
+          "settings": {
+            "title_style": "center",
+            "title": "LATEST BLOG",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30
+          }
+        },
+        "045730e1-5df7-414a-9b5d-0d76340ba3ee": {
+          "type": "3",
+          "settings": {
+            "blog": "home-8",
+            "limit": 8,
+            "short_desc": false,
+            "load_btn": false,
+            "style_btn": "btn-underline btn-link",
+            "style_btn_rounded": "",
+            "btn_shadow": false
+          }
+        }
+      },
+      "block_order": [
+        "0af3e4ad-82b3-49a0-9827-b046f8a11cba",
+        "045730e1-5df7-414a-9b5d-0d76340ba3ee"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "fweight_title": "600",
+        "fsize_stitle": 1.8,
+        "color_title": "#333333",
+        "margin_btitle": 0.8,
+        "fweight_description": "300",
+        "fsize_description": 1.4,
+        "color_desc": "#999999",
+        "margin_bdescription": 0.8,
+        "use_lazyload": false,
+        "autoplay": false,
+        "use_navigation": true,
+        "nav_style": "-default",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "default",
+        "dots_position": "inside",
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 20\n  },\n  \"480\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  }\n}",
+        "css_section": ""
+      }
+    }
+  },
+  "order": [
+    "1636168033f185e383",
+    "1638927777b360cd63",
+    "163928218369424ad4",
+    "163938048326e00c20",
+    "1639468349e5df6804",
+    "163962406770414743",
+    "1639627993b2a6800b",
+    "16605522578395a4e9",
+    "1639037394a99a0ae5"
+  ]
+}

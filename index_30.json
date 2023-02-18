@@ -1,0 +1,851 @@
+{
+  "sections": {
+    "1636168033f185e383": {
+      "type": "kt_slideshow",
+      "blocks": {
+        "12a6d01e-2dc6-47ec-9c70-0557e4179b9b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_a5ce4e47-4143-4dbd-bf6f-e5e05170dc87.jpg",
+            "lazypreload": true,
+            "heading": "ACCESSORIES",
+            "font_heading": "poppins_n4",
+            "subheading": "Shop Personalize <br>\nyour Galaxy Watches",
+            "font_subheading": "poppins_n7",
+            "description": "Free returns extended to 30 days after delivery",
+            "font_description": "poppins_n5",
+            "text_alignment_top": 50,
+            "text_alignment_left": 80,
+            "text_alignment": "",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 80,
+            "text_alignment_mb": "",
+            "style_btn_1": "btn-dark",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": true,
+            "link_1": "",
+            "textBtn_1": "SHOP NOW<i class=\" d-icon-arrow-right\"><\/i>",
+            "style_btn_2": "btn-primary btn-outline",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": false,
+            "css_block": ".block_id .slideshow__title {\n    font-size: 1.5em;\n    line-height: 1;\n    letter-spacing: -.6px;\n\tcolor:#222;\n}\n.block_id .slideshow__subtitle {\n    position: relative;\n    margin: 0px 0px 16px 0px;\n    font-size: 3.125em;\n    line-height: 1.2;\n    letter-spacing: -0.4px;\n\tcolor: #222;\n}\n.block_id .slideshow__description {\nfont-size: 1em;\n    line-height: 1;\n    letter-spacing: -0.4px;\n    color: #222 !important;\nmargin-bottom:36px;\n}"
+          }
+        },
+        "db5909b9-9eb1-4809-b29f-c9f97f33968b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_bb4b385a-1227-466f-9fc5-f7e6e634d162.jpg",
+            "lazypreload": false,
+            "heading": "",
+            "font_heading": "poppins_n7",
+            "subheading": "Experience jaw-<br>dropping detail<br>and resolution",
+            "font_subheading": "poppins_n6",
+            "description": "Real 8K resolution width Quantum <br>Processor 8K",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 30,
+            "text_alignment_left": 0,
+            "text_alignment": "",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 50,
+            "text_alignment_mb": "center",
+            "style_btn_1": "btn-dark",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": false,
+            "link_1": "",
+            "textBtn_1": "SHOP NOW<i class=\" d-icon-arrow-right\"><\/i>",
+            "style_btn_2": "btn-secondary btn-outline",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__title {\n    font-size: 1.5em;\n    line-height: 1;\n    letter-spacing: -.6px;\n\tcolor:#fff;\n}\n.block_id .slideshow__subtitle {\n    position: relative;\n    margin: 0px 0px 16px 0px;\n    font-size: 3.125em;\n    line-height: 1;\n    letter-spacing: -0.4px;\n\tcolor: #222;\n}\n.block_id .slideshow__description {\nfont-size: 20px;\n    line-height: 1;\n    letter-spacing: -0.4px;\n    color: #222 !important;\nmargin-bottom:33px;\n}"
+          }
+        }
+      },
+      "block_order": [
+        "12a6d01e-2dc6-47ec-9c70-0557e4179b9b",
+        "db5909b9-9eb1-4809-b29f-c9f97f33968b"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | w-100",
+        "section_margin_top": "",
+        "section_margin_bottom": "80px",
+        "section_padding": "",
+        "section_bg": "#ffffff",
+        "no_overflow": false,
+        "fullscreen": false,
+        "autoplay": true,
+        "use_navigation": true,
+        "nav_style": "-default",
+        "nav_mode": "primary",
+        "nav_position": "nav-default",
+        "use_dots": true,
+        "dots_mode": "primary",
+        "use_scrollbar": false,
+        "h_reponsive": "400",
+        "h_reponsive_768": "600",
+        "h_reponsive_992": "798",
+        "h_reponsive_1200": "798",
+        "h_reponsive_1400": "798",
+        "autoplay_speed": 14,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  },\n  \"768\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  },\n  \"992\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  },\n  \"1200\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  }\n}",
+        "width_lg": 2,
+        "width_xxl": 3,
+        "border_radius": 3,
+        "css_section": ".section_id .btn {\npadding: 17px 39px;\n}\n.section_id .swiper-button-next:after {\ncontent: '\\e983';\n}\n.section_id .swiper-button-next {\nmargin-right:3.125em;\n}\n.section_id .swiper-button-prev:after {\n    content: '\\e982';\n}\n.section_id .swiper-button-prev {\nmargin-left:3.125em;\n}\n.section_id .swiper-pagination {\ndisplay: none !important;\n}\n@media(max-width:767px){\n.section_id .swiper-buttons {\ndisplay: none !important;\n}\n.section_id .swiper-pagination {\ndisplay: block !important;\n}\n}"
+      }
+    },
+    "1662009848428e53ff": {
+      "type": "kt_banner_flexible",
+      "blocks": {
+        "a66232b2-080d-4ed6-901f-607ed0ca950f": {
+          "type": "it_cat_1",
+          "settings": {
+            "title": "Categories item",
+            "width": 12,
+            "width_sm": 12,
+            "width_md": 4,
+            "width_lg": 4,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/2_15971f8b-407c-455d-923d-5eb9c159833c.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "titlex": "<span>HOME APPLIANCES<\/span><br>FTPS Coffee Maker",
+            "color_titlex": "#fcfcfc",
+            "name_btn": "",
+            "style_btn": "btn-underline btn-link",
+            "banner-effect": ""
+          }
+        },
+        "f2be66c5-eca8-4db9-a847-75b9e07305fa": {
+          "type": "it_cat_1",
+          "settings": {
+            "title": "Categories item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 4,
+            "width_lg": 4,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/3_6963dafa-e3d7-4178-b23c-1ff53903a40b.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "titlex": "<span>FORM SAMSUNG<\/span><br>\nIntroducing Riode Camera 10",
+            "color_titlex": "#222222",
+            "name_btn": "",
+            "style_btn": "btn-underline btn-link",
+            "banner-effect": ""
+          }
+        },
+        "97000650-4b82-47b7-af33-5d38afa84dfa": {
+          "type": "it_cat_1",
+          "settings": {
+            "title": "Categories item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 4,
+            "width_lg": 4,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/4_ebceafef-5430-4bd9-a7ef-04664f6e777a.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "titlex": "<span>LATEST MODEL<\/span><br>\nApple Headphone",
+            "color_titlex": "#fcfcfc",
+            "name_btn": "",
+            "style_btn": "btn-underline btn-link",
+            "banner-effect": ""
+          }
+        },
+        "966a0e3a-c36b-4a21-9b57-0fe171cf3fc3": {
+          "type": "title",
+          "disabled": true,
+          "settings": {
+            "title_style": "center",
+            "title": "Featured",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 20
+          }
+        }
+      },
+      "block_order": [
+        "a66232b2-080d-4ed6-901f-607ed0ca950f",
+        "f2be66c5-eca8-4db9-a847-75b9e07305fa",
+        "97000650-4b82-47b7-af33-5d38afa84dfa",
+        "966a0e3a-c36b-4a21-9b57-0fe171cf3fc3"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "container-fluid wide | w-100",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding": "",
+        "section_bg": "",
+        "layout_mode": "normal",
+        "grid_gutter": 5,
+        "border_radius": 0,
+        "css_section": ".section_id .titlex span {\n    font-size: 18px !important;\n    letter-spacing: -0.405px !important;\n    line-height: 2 !important;\n    font-weight: 400 !important;\n}\n.section_id .it_cat_1:not(:hover) .--text {\n    transform: translateY(0) !important;\n}\n.section_id .it_cat_1 .titlex {\nfont-size: 1.688em !important;\n}"
+      }
+    },
+    "3e779122-121d-40d3-b3ef-965014a99928": {
+      "type": "kt_banner_flexible",
+      "blocks": {
+        "0d3a7bd2-4be5-4a33-87fb-7ae162c1a984": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 6,
+            "width_md": 6,
+            "width_lg": 6,
+            "width_xl": 6,
+            "width_xxl": 7,
+            "image": "shopify:\/\/shop_images\/5_bfb91e94-6140-4f19-a92d-f5598c40676c.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "FROM SONY",
+            "color_desc": "#fcd208",
+            "titlex": "2020 TVs &amp; SOUND BARS",
+            "color_titlex": "#ffffff",
+            "stitle": "",
+            "color_stitle": "#ffffff",
+            "name_btn": "",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 90,
+            "text_align_start": 50,
+            "text_align": "center",
+            "text_align_top_mb": 90,
+            "text_align_start_mb": 50,
+            "text_align_mb": "center",
+            "banner-effect": ""
+          }
+        },
+        "24f0f2a8-c16a-40c1-8cd8-a7a21b04e720": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 6,
+            "width_md": 6,
+            "width_lg": 3,
+            "width_xl": 3,
+            "width_xxl": 3,
+            "image": "shopify:\/\/shop_images\/6_65e6ecdb-9999-438f-9837-aede401557c6.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "8K",
+            "color_desc": "#fcd208",
+            "titlex": "Trade in Your Curent",
+            "color_titlex": "#ffffff",
+            "stitle": "Camera",
+            "color_stitle": "#ffffff",
+            "name_btn": "",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 35,
+            "text_align_start": 50,
+            "text_align": "center",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 51,
+            "text_align_mb": "center",
+            "banner-effect": ""
+          }
+        },
+        "73782e04-e208-4a3b-ab19-4bf5f3a15f12": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 6,
+            "width_md": 6,
+            "width_lg": 3,
+            "width_xl": 3,
+            "width_xxl": 3,
+            "image": "shopify:\/\/shop_images\/7_6f49c07f-26b2-475c-a629-0a3d6863ad04.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "ACCESSORIES",
+            "color_desc": "#222222",
+            "titlex": "Electric Watches",
+            "color_titlex": "#222222",
+            "stitle": "",
+            "color_stitle": "#ffffff",
+            "name_btn": "",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 90,
+            "text_align_start": 50,
+            "text_align": "center",
+            "text_align_top_mb": 90,
+            "text_align_start_mb": 50,
+            "text_align_mb": "center",
+            "banner-effect": ""
+          }
+        },
+        "6fa82b96-aa62-494b-84e5-c6656af90a71": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 6,
+            "width_md": 6,
+            "width_lg": 6,
+            "width_xl": 6,
+            "width_xxl": 5,
+            "image": "shopify:\/\/shop_images\/8_094b6f2f-6dde-4172-9a72-97d6ad0cf8d6.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "Quality portable sound",
+            "color_desc": "#222222",
+            "titlex": "LAPTOP NOTEBOOK",
+            "color_titlex": "#222222",
+            "stitle": "Introducing Xiaomi Pro enhanced",
+            "color_stitle": "#222222",
+            "name_btn": "",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 11,
+            "text_align_start": 50,
+            "text_align": "center",
+            "text_align_top_mb": 10,
+            "text_align_start_mb": 50,
+            "text_align_mb": "center",
+            "banner-effect": ""
+          }
+        },
+        "ee9b505e-681b-4537-87f5-d59c50b5c798": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 6,
+            "width_md": 6,
+            "width_lg": 3,
+            "width_xl": 3,
+            "width_xxl": 4,
+            "image": "shopify:\/\/shop_images\/9.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "Quality portable sound",
+            "color_desc": "#222222",
+            "titlex": "SPEAKERS",
+            "color_titlex": "#222222",
+            "stitle": "",
+            "color_stitle": "#ffffff",
+            "name_btn": "READ MORE<i class=\" d-icon-arrow-right\"><\/i>",
+            "style_btn": "btn-underline btn-link",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 60,
+            "text_align_start": 90,
+            "text_align": "right",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 90,
+            "text_align_mb": "center",
+            "banner-effect": ""
+          }
+        },
+        "72a89de2-d5ec-4d77-ad7e-51c93d678d9e": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 6,
+            "width_md": 6,
+            "width_lg": 3,
+            "width_xl": 3,
+            "width_xxl": 3,
+            "image_link": "",
+            "blank_link": false,
+            "desc": "SAVE UP TO $100",
+            "color_desc": "#ffffff",
+            "titlex": "Exclusive Brands Sale",
+            "color_titlex": "#ffffff",
+            "stitle": "Free Shipping on all orders $399.99",
+            "color_stitle": "#ffffff",
+            "name_btn": "VIEW ALL SALE",
+            "style_btn": "btn-white btn-outline",
+            "style_btn_rounded": "btn-rounded",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 50,
+            "text_align": "center",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 50,
+            "text_align_mb": "center",
+            "banner-effect": ""
+          }
+        }
+      },
+      "block_order": [
+        "0d3a7bd2-4be5-4a33-87fb-7ae162c1a984",
+        "24f0f2a8-c16a-40c1-8cd8-a7a21b04e720",
+        "73782e04-e208-4a3b-ab19-4bf5f3a15f12",
+        "6fa82b96-aa62-494b-84e5-c6656af90a71",
+        "ee9b505e-681b-4537-87f5-d59c50b5c798",
+        "72a89de2-d5ec-4d77-ad7e-51c93d678d9e"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "container-fluid wide | w-100",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding": "",
+        "section_bg": "",
+        "layout_mode": "masonry",
+        "grid_gutter": 5,
+        "border_radius": 0,
+        "css_section": ".section_id .item_2 .img__banner, .section_id .item_3 .img__banner {\n    height: 345px;\npadding-bottom: 0% !important;\n}\n@media(min-width:1400px){\n.section_id .item_2 , .section_id .item_3 {\n    width: 373px;\n}\n}\n.section_id .item_6 .img__banner {\nbackground-color: #0063d1 !important;\nheight:345px;\npadding-bottom:0% !important;\n}\n .section_id .item_5 .img__banner {\nheight:345px;\npadding-bottom:0% !important;\n}\n .section_id .item_1 .img__banner,  .section_id .item_4 .img__banner {\nheight:700px;\npadding-bottom: 0% !important;\n}\n@media(max-width:575px){\n.section_id .item_4 .img__banner {\nheight: 550px !important;\n}\n.section_id .item_2 .img__banner, .section_id .item_3 .img__banner, .section_id .item_5 .img__banner, .section_id .item_6 .img__banner {\nheight: 270px !important;\n}\n.section_id .item_2 .desc {\nfont-size:60px;\n}\n.section_id .item_1 .img__banner {\nheight:280px !important;\n}\n.section_id .item_1 .img-fit-cover {\n    object-fit: none !important;\n}\n}"
+      }
+    },
+    "26255d8e-2d80-4545-93fc-ed6a7577a51b": {
+      "type": "kt_slideshow",
+      "blocks": {
+        "template--15501420101732__26255d8e-2d80-4545-93fc-ed6a7577a51b-1667150022a14db647-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/11.jpg",
+            "lazypreload": false,
+            "heading": "",
+            "font_heading": "poppins_n7",
+            "subheading": "Big Speaker",
+            "font_subheading": "poppins_n6",
+            "description": "4K HIGH QUALITY SPEAKER SET",
+            "font_description": "poppins_n5",
+            "text_alignment_top": 15,
+            "text_alignment_left": 50,
+            "text_alignment": "center",
+            "text_alignment_top_mb": 16,
+            "text_alignment_left_mb": 16,
+            "text_alignment_mb": "center",
+            "style_btn_1": "btn-primary",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": false,
+            "link_1": "",
+            "textBtn_1": "SHOP NOW<i class=\" d-icon-arrow-right\"><\/i>",
+            "style_btn_2": "btn-dark",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__subtitle {\nfont-size: 30px;\n    color: #fff;\n}\n.block_id .slideshow__description {\nfont-size: 30px;\n    color: #fff;\nfont-weight:400 !important;\nmargin-bottom:30px;\n}\n.block_id .btn {\npadding:17px 39px;\n    border-color: #0063d1;\n    background-color: #0063d1;\n}"
+          }
+        }
+      },
+      "block_order": [
+        "template--15501420101732__26255d8e-2d80-4545-93fc-ed6a7577a51b-1667150022a14db647-0"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "container-fluid wide | w-100",
+        "section_margin_top": "",
+        "section_margin_bottom": "70px",
+        "section_padding": "",
+        "section_bg": "",
+        "no_overflow": false,
+        "fullscreen": false,
+        "autoplay": false,
+        "use_navigation": false,
+        "nav_style": "-default",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "default",
+        "use_scrollbar": false,
+        "h_reponsive": "",
+        "h_reponsive_768": "",
+        "h_reponsive_992": "",
+        "h_reponsive_1200": "",
+        "h_reponsive_1400": "",
+        "autoplay_speed": 7,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"992\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"1200\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  }\n}",
+        "width_lg": 6,
+        "width_xxl": 6,
+        "border_radius": 10,
+        "css_section": "@media(max-width:767px){\n.section_id .imgRatio:before {\npadding-bottom: 0% !important;\nheight: 250px !important;\n}\n}"
+      }
+    },
+    "dd6ffc3d-a4db-47cb-b7f8-77e421deebea": {
+      "type": "rd_prds_sc_tab_load_2",
+      "blocks": {
+        "ff970fbe-1edc-40e4-97c0-626f3f451b58": {
+          "type": "item",
+          "settings": {
+            "title": "Featured",
+            "stitle": "",
+            "product_list": [
+              "kinova-smart-phone-7-inchi",
+              "xbox-gaming-pad",
+              "ip-camera",
+              "ip-camera-16x",
+              "bluetooth-headphone"
+            ]
+          }
+        },
+        "template--15501420101732__dd6ffc3d-a4db-47cb-b7f8-77e421deebea-166741252642378b38-0": {
+          "type": "item",
+          "settings": {
+            "title": "On Sale",
+            "stitle": "",
+            "product_list": [
+              "2-seater",
+              "aliquam-tincidunt-mauris",
+              "alpus-snow-boarding-gloves",
+              "apple-mens-e-watch",
+              "apple-mini-sounds-maker"
+            ]
+          }
+        },
+        "e0e67d46-ffe0-4696-8afe-61c3ab6a6414": {
+          "type": "item",
+          "settings": {
+            "title": "Best Sellers",
+            "stitle": "",
+            "product_list": [
+              "basketball-sport-shoes",
+              "best-dark-blue-pedestrian-bag",
+              "best-white-pedestrian-bag",
+              "beyond-light-shoes",
+              "beyond-riode-original-t-shirt"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "ff970fbe-1edc-40e4-97c0-626f3f451b58",
+        "template--15501420101732__dd6ffc3d-a4db-47cb-b7f8-77e421deebea-166741252642378b38-0",
+        "e0e67d46-ffe0-4696-8afe-61c3ab6a6414"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "70px",
+        "section_padding": "",
+        "section_bg": "",
+        "fsize_name_tab": 20,
+        "title_align": "text-center",
+        "margin_btitle": 24,
+        "use_lazyload": false,
+        "use_nospace": false
+      }
+    },
+    "176d3a88-28e1-499d-b90a-e9702f15a469": {
+      "type": "rd_brand_1",
+      "blocks": {
+        "template--15501420101732__176d3a88-28e1-499d-b90a-e9702f15a469-16672277676f99f8cf-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_1.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "template--15501420101732__176d3a88-28e1-499d-b90a-e9702f15a469-16672277676f99f8cf-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "template--15501420101732__176d3a88-28e1-499d-b90a-e9702f15a469-16672277676f99f8cf-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_1.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "template--15501420101732__176d3a88-28e1-499d-b90a-e9702f15a469-16672277676f99f8cf-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6_1.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "template--15501420101732__176d3a88-28e1-499d-b90a-e9702f15a469-16672277676f99f8cf-4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_1.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "template--15501420101732__176d3a88-28e1-499d-b90a-e9702f15a469-16672277676f99f8cf-5": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_1.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "template--15501420101732__176d3a88-28e1-499d-b90a-e9702f15a469-16672277676f99f8cf-6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "87a8e3f5-9be4-437f-bcee-86d020830a51": {
+          "type": "title",
+          "settings": {
+            "title_style": "custom-underline",
+            "title": "",
+            "stitle": "Our Brands",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--15501420101732__176d3a88-28e1-499d-b90a-e9702f15a469-16672277676f99f8cf-0",
+        "template--15501420101732__176d3a88-28e1-499d-b90a-e9702f15a469-16672277676f99f8cf-1",
+        "template--15501420101732__176d3a88-28e1-499d-b90a-e9702f15a469-16672277676f99f8cf-2",
+        "template--15501420101732__176d3a88-28e1-499d-b90a-e9702f15a469-16672277676f99f8cf-3",
+        "template--15501420101732__176d3a88-28e1-499d-b90a-e9702f15a469-16672277676f99f8cf-4",
+        "template--15501420101732__176d3a88-28e1-499d-b90a-e9702f15a469-16672277676f99f8cf-5",
+        "template--15501420101732__176d3a88-28e1-499d-b90a-e9702f15a469-16672277676f99f8cf-6",
+        "87a8e3f5-9be4-437f-bcee-86d020830a51"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "20px",
+        "section_padding": "",
+        "section_bg": "",
+        "border_top": false,
+        "border_bottom": false,
+        "border_color": "#ebebeb",
+        "autoplay": true,
+        "use_navigation": false,
+        "nav_style": "-default",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "default",
+        "dots_position": "inside",
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 0\n  },\n  \"480\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 0\n  },\n  \"768\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 0\n  },\n  \"992\": {\n    \"slidesPerView\": 5,\n    \"spaceBetween\": 0\n  },\n  \"1200\": {\n    \"slidesPerView\": 6,\n    \"spaceBetween\": 0\n  }\n}",
+        "css": ".section_id .section-title {\n    margin-bottom: 25px !important;\n}"
+      }
+    },
+    "77222be2-99ae-4baa-a452-6d930aab3c66": {
+      "type": "rd_call_to_action",
+      "blocks": {
+        "a4cfddad-d121-4e03-9f6e-70f4b3f21495": {
+          "type": "design_2",
+          "settings": {
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 0,
+            "width_lg": 0,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "title": "SUBSCRIBE TO THE NEWSLETTER",
+            "color_title": "#ffffff",
+            "stitle": "Stay up to date regarding the newest product & offers.",
+            "color_desc": "#ffffff",
+            "textBtn": "{{'general.newsletter_form.submit_html' | t}}<i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn": "btn-dark",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "border_radius": false,
+            "social_media": false
+          }
+        }
+      },
+      "block_order": [
+        "a4cfddad-d121-4e03-9f6e-70f4b3f21495"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "70px",
+        "section_padding": "",
+        "section_bg": "#0063d1",
+        "use_round": false,
+        "color_title": "#ffffff",
+        "color_desc": "#ffffff",
+        "color_text_input": "#999999",
+        "color_border_input": "#dadada",
+        "color_placeholder": "#999999",
+        "color_bg_input": "#ffffff",
+        "preview": false,
+        "css_section": ".section_id {\nbackground-color: #0063d1;\npadding: 20px 0 20px;\n}\n.section_id .newsletter-info-head {\n    display: grid !important;\n}\n.section_id .newsletter-info-head .cta-title {\nfont-size: 20px;\n    line-height: 10px;\n    letter-spacing: 0.3px;\nmargin:0 !important;\n}\n.section_id .newsletter-info-head .cta-desc {\n    letter-spacing: -0.2px;\n    line-height: 1.86;\n}\n@media(min-width:575px){\n.section_id .cta {\n    padding: 0 60px;\n}\n}"
+      }
+    },
+    "11b1be58-c572-4b40-ba6d-07690b238532": {
+      "type": "rd_blog",
+      "blocks": {
+        "f236f47c-910d-4189-94bd-e08845594262": {
+          "type": "3",
+          "settings": {
+            "blog": "blog-home30",
+            "limit": 8,
+            "short_desc": true,
+            "load_btn": false,
+            "style_btn": "btn-underline btn-link",
+            "style_btn_rounded": "",
+            "btn_shadow": false
+          }
+        },
+        "ef7fa3fb-c82a-4815-a9bb-deebb527ebd3": {
+          "type": "title",
+          "settings": {
+            "title_style": "custom-underline",
+            "title": "From Our News",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30
+          }
+        }
+      },
+      "block_order": [
+        "f236f47c-910d-4189-94bd-e08845594262",
+        "ef7fa3fb-c82a-4815-a9bb-deebb527ebd3"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "70px",
+        "section_padding": "",
+        "section_bg": "",
+        "fweight_title": "600",
+        "fsize_stitle": 1.8,
+        "color_title": "#333333",
+        "margin_btitle": 0.8,
+        "fweight_description": "300",
+        "fsize_description": 1.4,
+        "color_desc": "#999999",
+        "margin_bdescription": 0.8,
+        "use_lazyload": false,
+        "autoplay": false,
+        "use_navigation": false,
+        "nav_style": "-default",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "default",
+        "dots_position": "inside",
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 20\n  },\n  \"480\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  }\n}",
+        "css_section": ""
+      }
+    },
+    "b5d511a7-0b27-4174-b269-2d5c8e882fd8": {
+      "type": "rd_icon_boxes",
+      "blocks": {
+        "e3af16c5-221a-44af-abed-767b8637c015": {
+          "type": "item_icon_side",
+          "settings": {
+            "icon_font": "d-icon-truck",
+            "size": 46,
+            "title": "Free Shipping & Return",
+            "content": "Free shipping on orders over $99",
+            "url": ""
+          }
+        },
+        "a2f3d597-8201-4e03-a54f-9ada6024fc4c": {
+          "type": "item_icon_side",
+          "settings": {
+            "icon_font": "d-icon-service",
+            "size": 44,
+            "title": "Customer Support 24\/7",
+            "content": "Instant access to perfect support",
+            "url": ""
+          }
+        },
+        "654d2deb-7d02-4670-bba2-cfc28cc0250f": {
+          "type": "item_icon_side",
+          "settings": {
+            "icon_font": "d-icon-secure",
+            "size": 44,
+            "title": "100% Secure Payment",
+            "content": "We ensure secure payment!",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "e3af16c5-221a-44af-abed-767b8637c015",
+        "a2f3d597-8201-4e03-a54f-9ada6024fc4c",
+        "654d2deb-7d02-4670-bba2-cfc28cc0250f"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding": "",
+        "section_bg": "",
+        "border_top": false,
+        "border_bottom": false,
+        "border_color": "#ebebeb",
+        "color_icon": "#333333",
+        "color_title": "#333333",
+        "color_desc": "#cccccc",
+        "title_font_weight": "400",
+        "use_slide": true,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 20\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 20\n  },\n  \"476\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  }\n}",
+        "css_section": ".section_id .icon-box-icon i, .section_id .d-icon-truck {\n    margin-right: 15px;\n    color: #0063d1;\nfont-size:44px !important;\n}\n.section_id .icon-box-title {\n    font-size: 15px;\n    line-height: 1.3;\n    letter-spacing: normal;\n    font-weight: 600;\n}\n.section_id .icon-box-content p {\n    color: #999;\nfont-size: 14px;\n    line-height: 1.25;\n    letter-spacing: -0.1px;\n}\n.section_id {\n    background: #f7f8fc;\n}\n.section_id .icon-box-side {\nposition: relative;\n    justify-content: center;\n}\n.section_id .icon-box-side:after {\n    content: '';\n    position: absolute;\n    right: 0;\n    top: 50%;\n    transform: translateY(-50%);\n    width: 1px;\n    height: 37px;\n    background: rgba(189,189,189,0.2);\n}\n.section_id .col:last-child .icon-box-side:after {\n    display:none;\n}\n.section_id .swiper-slide:last-child .icon-box-side:after {\n    display:none;\n}"
+      }
+    }
+  },
+  "order": [
+    "1636168033f185e383",
+    "1662009848428e53ff",
+    "3e779122-121d-40d3-b3ef-965014a99928",
+    "26255d8e-2d80-4545-93fc-ed6a7577a51b",
+    "dd6ffc3d-a4db-47cb-b7f8-77e421deebea",
+    "176d3a88-28e1-499d-b90a-e9702f15a469",
+    "77222be2-99ae-4baa-a452-6d930aab3c66",
+    "11b1be58-c572-4b40-ba6d-07690b238532",
+    "b5d511a7-0b27-4174-b269-2d5c8e882fd8"
+  ]
+}

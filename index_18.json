@@ -1,0 +1,410 @@
+{
+  "sections": {
+    "1636168033f185e383": {
+      "type": "kt_slideshow",
+      "blocks": {
+        "45a11642-e4c0-4193-84fb-fc0c95459329": {
+          "type": "menu",
+          "settings": {
+            "bg_color": "#ffffff"
+          }
+        },
+        "12a6d01e-2dc6-47ec-9c70-0557e4179b9b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_8eb43330-4720-4b5f-a214-46de375d1fc8.jpg",
+            "lazypreload": false,
+            "heading": "",
+            "font_heading": "poppins_n8",
+            "subheading": "Trends 2021",
+            "font_subheading": "poppins_n4",
+            "description": "",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 85,
+            "text_alignment_left": 10,
+            "text_alignment": "",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 10,
+            "text_alignment_mb": "",
+            "style_btn_1": "btn-underline btn-white btn-link",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": true,
+            "link_1": "",
+            "textBtn_1": "Explore now",
+            "style_btn_2": "btn-white btn-outline",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__subtitle {\nfont-family: 'Jost';\n    font-size: 1.875em;\n    margin-bottom: 16px;\n    font-weight: 600;\n}\n.block_id .btn {\npadding: 0;\n}\n.block_id .btn:after {\n    margin-top: 4px;\n    background-color: rgba(255,255,255,0.5);\n    border: 0;\n    height: 3px;\n    transition: .3s;\n    transform: scaleX(1);\ncontent: '';\n    margin-left: auto;\n    margin-right: auto;\n    width: 100%;\n    display: block;\n}\n.block_id .btn:hover:after {\nbackground-color:white;\n}"
+          }
+        },
+        "db5909b9-9eb1-4809-b29f-c9f97f33968b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_187b585c-662e-4ca8-8779-8e2cb0e89642.jpg",
+            "lazypreload": false,
+            "heading": "",
+            "font_heading": "poppins_n4",
+            "subheading": "Shop Watches",
+            "font_subheading": "poppins_n7",
+            "description": "",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 50,
+            "text_alignment_left": 10,
+            "text_alignment": "",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 50,
+            "text_alignment_mb": "center",
+            "style_btn_1": "btn-underline btn-white btn-link",
+            "style_btn_rounded_1": "btn-rounded",
+            "btn_shadow_1": false,
+            "link_1": "",
+            "textBtn_1": "Explore now",
+            "style_btn_2": "btn-dark",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__subtitle {\nfont-family: 'Jost';\n    font-size: 1.875em;\n    margin-bottom: 16px;\n    font-weight: 600;\n}\n.block_id .btn {\npadding: 0;\n}\n.block_id .btn:after {\n    margin-top: 4px;\n    background-color: rgba(255,255,255,0.5);\n    border: 0;\n    height: 3px;\n    transition: .3s;\n    transform: scaleX(1);\ncontent: '';\n    margin-left: auto;\n    margin-right: auto;\n    width: 100%;\n    display: block;\n}\n.block_id .btn:hover:after {\nbackground-color:white;\n}"
+          }
+        }
+      },
+      "block_order": [
+        "45a11642-e4c0-4193-84fb-fc0c95459329",
+        "12a6d01e-2dc6-47ec-9c70-0557e4179b9b",
+        "db5909b9-9eb1-4809-b29f-c9f97f33968b"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "20px",
+        "section_margin_bottom": "30px",
+        "section_padding": "",
+        "section_bg": "#ffffff",
+        "no_overflow": false,
+        "fullscreen": false,
+        "autoplay": false,
+        "use_navigation": false,
+        "nav_style": "-default",
+        "nav_mode": "white",
+        "nav_position": "nav-default",
+        "use_dots": true,
+        "dots_mode": "white",
+        "use_scrollbar": false,
+        "h_reponsive": "400",
+        "h_reponsive_768": "",
+        "h_reponsive_992": "auto",
+        "h_reponsive_1200": "auto",
+        "h_reponsive_1400": "auto",
+        "autoplay_speed": 14,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"992\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"1200\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  }\n}",
+        "width_lg": 2,
+        "width_xxl": 3,
+        "border_radius": 3,
+        "css_section": ".section_id .slideshow__title {\ncolor: #333;\nfont-size: 1.250em;\nmargin-bottom: 5px;\n}\n.section_id .slideshow__subtitle{\ncolor: #fff;\nfont-size: 1.875em;\nmargin-bottom: 10px;\nline-height: 1.1;\n}\n.section_id .slideshow__description{\ncolor:#b6b6b6;\nfont-size: 1.250em;\nmargin-bottom: 10px;\n}\n.section_id .btn{\npadding: 1em 2.4em;\n}\n.section_id .kt_banner_flexible .p {\nfont-weight: 700;\nopacity: 0.8;\n}\n.section_id .kt_banner_flexible .h3 {\nfont-weight: 700;\nfont-size: 15px;\nline-height: 1;\nletter-spacing: -0.6px;\n}\n.section_id .--button {\n    position: absolute;\n    transform: translateY(-80%);\n    opacity: 0;\n    transition: transform .3s, opacity .3s;\n    line-height: 1;\n}\n.section_id .item-banner:nth-child(2n+1) .banner:hover .--button {\n    opacity: 1;\n    transform: none;\n    transition: transform .3s, opacity .3s;\n    line-height: 1;\n}\n.section_id .item-banner.col {\npadding-bottom: 18px !important;\n}"
+      }
+    },
+    "1659278011409fd132": {
+      "type": "rd_prds_sc_grid",
+      "blocks": {
+        "0b13c3c1-5030-4163-a5af-83c2d92a2bd5": {
+          "type": "item",
+          "settings": {
+            "title_style": "cross",
+            "title": "Riode Shop",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "VIEW MORE<i class=\"d-icon-arrow-right\"><\/i>",
+            "margin_btitle": 20,
+            "products": "sport-home18",
+            "limit_per_row": 4,
+            "limit": 14,
+            "range_row": 20,
+            "load_btn": false,
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false
+          }
+        }
+      },
+      "block_order": [
+        "0b13c3c1-5030-4163-a5af-83c2d92a2bd5"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "use_lazyload": false,
+        "use_nospace": false
+      }
+    },
+    "1659971397a9701cdf": {
+      "type": "rd_banner_cta_01",
+      "blocks": {
+        "1318e099-5c3c-4353-be08-fc451e239a15": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "image": "shopify:\/\/shop_images\/3_0cd2476d-b8fe-4052-be98-61840e011738.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "Sale Off",
+            "color_desc": "#ffffff",
+            "titlex": "SPECIAL OFFER",
+            "color_titlex": "#ffffff",
+            "stitle": "Black Friday Sale",
+            "color_stitle": "#ffffff",
+            "name_btn": "SHOP NOW",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "text_align_top": 75,
+            "text_align_start": 10,
+            "text_align": "",
+            "text_align_top_mb": 75,
+            "text_align_start_mb": 10,
+            "text_align_mb": "",
+            "title_right": "PREMIUM BRAND",
+            "color_title_right": "#232323",
+            "stitle_right": "Sale",
+            "color_stitle_right": "#232323",
+            "name_btn_2": "Subscribe",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "banner-effect": ""
+          }
+        }
+      },
+      "block_order": [
+        "1318e099-5c3c-4353-be08-fc451e239a15"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "section_bg_op": 1,
+        "css_section": ".section_id a.img__banner {\n      padding-bottom: 66.579% !important;\n      background-position-y: bottom;\n    }"
+      }
+    },
+    "1659288980246d5ac8": {
+      "type": "rd_prds_sc_list",
+      "blocks": {
+        "1659288980b5abfa68-0": {
+          "type": "item",
+          "settings": {
+            "title": "Sale Products",
+            "product_list": [
+              "converse-training-shoes",
+              "product-video",
+              "best-dark-blue-pedestrian-bag"
+            ]
+          }
+        },
+        "1659288980b5abfa68-1": {
+          "type": "item",
+          "settings": {
+            "title": "Latest Products",
+            "product_list": [
+              "fashion-women-s-hood",
+              "awesome-computer-bag",
+              "beyond-light-shoes"
+            ]
+          }
+        },
+        "1659288980b5abfa68-2": {
+          "type": "item",
+          "settings": {
+            "title": "Best of the Week",
+            "product_list": [
+              "black-fashion-watch",
+              "cavin-fashion-suede-handbag",
+              "converse-training-tery"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "1659288980b5abfa68-0",
+        "1659288980b5abfa68-1",
+        "1659288980b5abfa68-2"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "use_lazyload": false,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  },\n  \"375\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"1500\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  }\n}"
+      }
+    },
+    "1660064496e990a7c1": {
+      "type": "rd_blog",
+      "blocks": {
+        "c887646b-c78a-414e-8a77-bb8db12ccc4e": {
+          "type": "title",
+          "settings": {
+            "title_style": "center-cross",
+            "title": "Latest News",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30
+          }
+        },
+        "d2aa6e95-abdf-4f48-b18f-b9c80e65d362": {
+          "type": "3",
+          "settings": {
+            "blog": "listing",
+            "limit": 8,
+            "short_desc": true,
+            "load_btn": false,
+            "style_btn": "btn-underline btn-link",
+            "style_btn_rounded": "",
+            "btn_shadow": false
+          }
+        }
+      },
+      "block_order": [
+        "c887646b-c78a-414e-8a77-bb8db12ccc4e",
+        "d2aa6e95-abdf-4f48-b18f-b9c80e65d362"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "fweight_title": "600",
+        "fsize_stitle": 1.8,
+        "color_title": "#333333",
+        "margin_btitle": 0.8,
+        "fweight_description": "300",
+        "fsize_description": 1.4,
+        "color_desc": "#999999",
+        "margin_bdescription": 0.8,
+        "use_lazyload": false,
+        "autoplay": false,
+        "use_navigation": false,
+        "nav_style": "-default",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "default",
+        "dots_position": "inside",
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 20\n  },\n  \"480\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  }\n}",
+        "css_section": ""
+      }
+    },
+    "16343724079dd99664": {
+      "type": "rd_brand_1",
+      "blocks": {
+        "d05f2cb8-bc9b-446c-8cc9-4c3672846602": {
+          "type": "title",
+          "settings": {
+            "title_style": "center-cross",
+            "title": "Featured Brands",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "",
+            "margin_btitle": 30
+          }
+        },
+        "16343724079dd99664-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4.png",
+            "brand_call_to_action": ""
+          }
+        },
+        "16343724079dd99664-5": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "brand_call_to_action": ""
+          }
+        }
+      },
+      "block_order": [
+        "d05f2cb8-bc9b-446c-8cc9-4c3672846602",
+        "16343724079dd99664-0",
+        "16343724079dd99664-1",
+        "16343724079dd99664-2",
+        "16343724079dd99664-3",
+        "16343724079dd99664-4",
+        "16343724079dd99664-5"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "#ffffff",
+        "border_top": false,
+        "border_bottom": false,
+        "border_color": "#ebebeb",
+        "autoplay": false,
+        "use_navigation": false,
+        "nav_style": "-default",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "default",
+        "dots_position": "inside",
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1.2,\n    \"spaceBetween\": 20\n  },\n  \"320\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"480\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 5,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 6,\n    \"spaceBetween\": 20\n  }\n}",
+        "css": ""
+      }
+    }
+  },
+  "order": [
+    "1636168033f185e383",
+    "1659278011409fd132",
+    "1659971397a9701cdf",
+    "1659288980246d5ac8",
+    "1660064496e990a7c1",
+    "16343724079dd99664"
+  ]
+}

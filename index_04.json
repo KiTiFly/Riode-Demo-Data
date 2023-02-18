@@ -1,0 +1,767 @@
+{
+  "sections": {
+    "1636168033f185e383": {
+      "type": "kt_slideshow",
+      "blocks": {
+        "1636168033f185e383-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_f583ec5a-5c3b-4d2a-9748-ca4864cceb85.jpg",
+            "lazypreload": false,
+            "heading": "New Arrivals",
+            "font_heading": "poppins_n7",
+            "subheading": "Biometric<br>Fingerprints<br>Padlock",
+            "font_subheading": "poppins_n7",
+            "description": "",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 50,
+            "text_alignment_left": 10,
+            "text_alignment": "",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 10,
+            "text_alignment_mb": "",
+            "style_btn_1": "btn-underline btn-white btn-link",
+            "style_btn_rounded_1": "",
+            "btn_shadow_1": false,
+            "link_1": "",
+            "textBtn_1": "SHOP NOW<i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn_2": "btn-dark",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ""
+          }
+        },
+        "12a6d01e-2dc6-47ec-9c70-0557e4179b9b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_5557c6e3-17ad-45e6-a8dd-4bb306899516.jpg",
+            "lazypreload": false,
+            "heading": "NEW COLLECTION",
+            "font_heading": "poppins_n7",
+            "subheading": "Fashionable\n<br>\npartner",
+            "font_subheading": "poppins_n7",
+            "description": "",
+            "font_description": "poppins_n4",
+            "text_alignment_top": 50,
+            "text_alignment_left": 10,
+            "text_alignment": "",
+            "text_alignment_top_mb": 50,
+            "text_alignment_left_mb": 10,
+            "text_alignment_mb": "",
+            "style_btn_1": "btn-underline btn-link",
+            "style_btn_rounded_1": "",
+            "btn_shadow_1": false,
+            "link_1": "",
+            "textBtn_1": "SHOP NOW<i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn_2": "btn-dark",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "link_2": "",
+            "textBtn_2": "",
+            "title": "Item image",
+            "width_section": true,
+            "css_block": ".block_id .slideshow__subtitle{\ncolor: #333;\n}"
+          }
+        },
+        "0d353d79-5149-4677-a94f-b46629548d44": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_3f264119-a751-447d-8746-ad7b2b3d9fca.jpg",
+            "image_link": "",
+            "desc": "",
+            "color_desc": "#333333",
+            "titlex": "For Fitness",
+            "color_titlex": "#333333",
+            "stitle": "",
+            "color_stitle": "#333333",
+            "name_btn": "",
+            "style_btn": "btn-link",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "text_align_top": 87,
+            "text_align_left": 50,
+            "text_align": "center",
+            "text_align_top_mb": 87,
+            "text_align_left_mb": 50,
+            "text_align_mb": "center",
+            "banner-effect": "banner-effect6"
+          }
+        },
+        "dad60e3c-eec4-4707-8791-133f4f5632bc": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_f69b8cc5-d09d-436a-b156-59ccd270b295.jpg",
+            "image_link": "",
+            "desc": "",
+            "color_desc": "#333333",
+            "titlex": "Brand Sale",
+            "color_titlex": "#333333",
+            "stitle": "",
+            "color_stitle": "#333333",
+            "name_btn": "",
+            "style_btn": "btn-link",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "text_align_top": 87,
+            "text_align_left": 50,
+            "text_align": "center",
+            "text_align_top_mb": 87,
+            "text_align_left_mb": 50,
+            "text_align_mb": "center",
+            "banner-effect": "banner-effect6"
+          }
+        },
+        "13ed7a3f-df49-42d4-8831-ab9b6ba0649b": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_bc210a27-c418-4794-88cb-45b0065b6fff.jpg",
+            "image_link": "",
+            "desc": "",
+            "color_desc": "#000000",
+            "titlex": "Top Watches",
+            "color_titlex": "#ffffff",
+            "stitle": "",
+            "color_stitle": "#333333",
+            "name_btn": "",
+            "style_btn": "btn-link",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "text_align_top": 87,
+            "text_align_left": 50,
+            "text_align": "center",
+            "text_align_top_mb": 87,
+            "text_align_left_mb": 50,
+            "text_align_mb": "center",
+            "banner-effect": "banner-effect6"
+          }
+        },
+        "d099a318-92fe-41aa-bd5f-fc85fe0c50c6": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_e4ea9d66-3937-46e5-a0ee-30701d435079.jpg",
+            "image_link": "",
+            "desc": "",
+            "color_desc": "#ffffff",
+            "titlex": "Sneakers",
+            "color_titlex": "#ffffff",
+            "stitle": "",
+            "color_stitle": "#333333",
+            "name_btn": "",
+            "style_btn": "btn-link",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "text_align_top": 87,
+            "text_align_left": 50,
+            "text_align": "center",
+            "text_align_top_mb": 87,
+            "text_align_left_mb": 50,
+            "text_align_mb": "center",
+            "banner-effect": "banner-effect6"
+          }
+        }
+      },
+      "block_order": [
+        "1636168033f185e383-0",
+        "12a6d01e-2dc6-47ec-9c70-0557e4179b9b",
+        "0d353d79-5149-4677-a94f-b46629548d44",
+        "dad60e3c-eec4-4707-8791-133f4f5632bc",
+        "13ed7a3f-df49-42d4-8831-ab9b6ba0649b",
+        "d099a318-92fe-41aa-bd5f-fc85fe0c50c6"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "",
+        "section_padding": "",
+        "section_bg": "",
+        "no_overflow": false,
+        "fullscreen": false,
+        "autoplay": false,
+        "use_navigation": false,
+        "nav_style": "-default",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": true,
+        "dots_mode": "white",
+        "use_scrollbar": false,
+        "h_reponsive": "",
+        "h_reponsive_768": "",
+        "h_reponsive_992": "",
+        "h_reponsive_1200": "",
+        "h_reponsive_1400": "",
+        "autoplay_speed": 7,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"320\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"992\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  },\n  \"1200\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 10\n  }\n}",
+        "width_lg": 6,
+        "width_xxl": 6,
+        "border_radius": 3,
+        "css_section": ".section_id .slideshow__title {\ncolor: var(--bs-primary);\nfont-size: 1.25em;\nmargin-bottom: 1rem;\n}\n.section_id .slideshow__subtitle{\ncolor: #fff;\nfont-size: 2.125em;\nmargin-bottom: 1.625rem;\nline-height: 1.2;\n}\n.section_id .slideshow__description{\ncolor: #fff;\nfont-size: 1.143em;\nmargin-bottom: 2.5rem;\n}\n.section_id .swiper-horizontal>.swiper-pagination-bullets, .section_id .swiper-pagination-bullets.swiper-pagination-horizontal {\n    bottom: 25px;\n}"
+      }
+    },
+    "16361859527a526cba": {
+      "type": "kt_banner_flexible",
+      "blocks": {
+        "e6c5e486-0d99-4b44-9c55-deec96e6b232": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 12,
+            "width_lg": 6,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/5_58cf1c45-cc83-4dc6-916c-f0b39b6b40b8.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "",
+            "color_desc": "#ffffff",
+            "titlex": "Springwear Sale",
+            "color_titlex": "#232323",
+            "stitle": "Our vision is to supply the best\nequipment &amp; expertise within the arb most importantly, to keep our\ncustomers at the heart of all we do.",
+            "color_stitle": "#777777",
+            "name_btn": "",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 100,
+            "text_align": "right",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 100,
+            "text_align_mb": "right",
+            "banner-effect": "banner-effect6"
+          }
+        },
+        "9785be95-8106-4e8c-ac1b-b5721733fbdc": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 6,
+            "width_md": 6,
+            "width_lg": 3,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/6.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "",
+            "color_desc": "#ffffff",
+            "titlex": "For Kids",
+            "color_titlex": "#333333",
+            "stitle": "",
+            "color_stitle": "#ffffff",
+            "name_btn": "",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 90,
+            "text_align_start": 50,
+            "text_align": "center",
+            "text_align_top_mb": 90,
+            "text_align_start_mb": 50,
+            "text_align_mb": "center",
+            "banner-effect": "banner-effect6"
+          }
+        },
+        "77e7c83a-3a8a-4219-9aa5-2c03a02d62c0": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 12,
+            "width_md": 6,
+            "width_lg": 3,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/7.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "",
+            "color_desc": "#ffffff",
+            "titlex": "<span style=\"font-size: 30px\">HEY!<\/span>",
+            "color_titlex": "#ffffff",
+            "stitle": "Spend 60$ and get FREE US<br>\nmainland delivery*<br>\n(Order under 60$ only \/47.5$)",
+            "color_stitle": "#ffffff",
+            "name_btn": "",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 50,
+            "text_align": "center",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 50,
+            "text_align_mb": "center",
+            "banner-effect": ""
+          }
+        }
+      },
+      "block_order": [
+        "e6c5e486-0d99-4b44-9c55-deec96e6b232",
+        "9785be95-8106-4e8c-ac1b-b5721733fbdc",
+        "77e7c83a-3a8a-4219-9aa5-2c03a02d62c0"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "40px",
+        "section_padding": "",
+        "section_bg": "",
+        "layout_mode": "normal",
+        "grid_gutter": 12,
+        "border_radius": 3,
+        "css_section": ".section_id .item_1 .text-content {\n    max-width: 50%;\n}\n.section_id .item_1 .titlex ,\n.section_id .item_2 .titlex {\n    font-size: 1.250em;\n    font-weight: 700;\n}\n.section_id .item_2 .titlex {\n    font-weight: 600;\n}\n\n.section_id .item_1 .stitle {\n    line-height: 1.86em;\n}\n@media(max-width: 576px){\n.section_id .img__banner {\n    min-height: 300px;\n}\n}"
+      }
+    },
+    "1635951743130493b4": {
+      "type": "rd_prds_sc_slide",
+      "blocks": {
+        "1635951743130493b4-0": {
+          "type": "item",
+          "settings": {
+            "title_style": "underline",
+            "title": "New Arrivals",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "VIEW MORE<i class=\"d-icon-arrow-right\"><\/i>",
+            "margin_btitle": 20,
+            "products": "best-selling-h2-1",
+            "limit": 8,
+            "load_btn": false,
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "autoplay": false,
+            "use_navigation": false,
+            "nav_style": "-default",
+            "nav_mode": "default",
+            "nav_position": "nav-default",
+            "use_dots": true,
+            "dots_mode": "primary",
+            "dots_position": "outside",
+            "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1.3,\n    \"spaceBetween\": 20\n  },\n  \"375\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1500\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  }\n}"
+          }
+        }
+      },
+      "block_order": [
+        "1635951743130493b4-0"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "use_lazyload": false
+      }
+    },
+    "16363310631899739a": {
+      "type": "kt_banner_flexible",
+      "blocks": {
+        "57a8bc99-d5a5-45a0-9689-e1ecbc8be8aa": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 4,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/8.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "",
+            "color_desc": "#ffffff",
+            "titlex": "",
+            "color_titlex": "#ffffff",
+            "stitle": "",
+            "color_stitle": "#ffffff",
+            "name_btn": "Shop Men",
+            "style_btn": "btn-white",
+            "style_btn_rounded": "btn-rounded",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "btn-rounded",
+            "btn_shadow_2": false,
+            "text_align_top": 90,
+            "text_align_start": 50,
+            "text_align": "center",
+            "text_align_top_mb": 90,
+            "text_align_start_mb": 50,
+            "text_align_mb": "",
+            "banner-effect": "banner-effect1"
+          }
+        },
+        "552c8604-1cdc-4199-9dbc-5360251fdbb7": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 4,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/9.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "<span style=\"font-size: 1.250em;letter-spacing: 0.5px;font-weight: 700\">Black Friday Sale<\/span>",
+            "color_desc": "#ffffff",
+            "titlex": "<span style=\"font-size: 36px; font-weight: 700\">UP TO 70% OFF<\/span>",
+            "color_titlex": "#1e90ff",
+            "stitle": "<span style=\"font-size: 20px\">EVERYTHING<\/span>",
+            "color_stitle": "#ffffff",
+            "name_btn": "SHOP NOW",
+            "style_btn": "btn-underline btn-white btn-link",
+            "style_btn_rounded": "btn-rounded",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 50,
+            "text_align": "center",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 50,
+            "text_align_mb": "center",
+            "banner-effect": ""
+          }
+        },
+        "2430f9ec-6b52-4fcf-9b1e-8dce04b9dec5": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 6,
+            "width_lg": 4,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/10.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "",
+            "color_desc": "#ffffff",
+            "titlex": "",
+            "color_titlex": "#ffffff",
+            "stitle": "",
+            "color_stitle": "#ffffff",
+            "name_btn": "Shop Women",
+            "style_btn": "btn-white",
+            "style_btn_rounded": "btn-rounded",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 90,
+            "text_align_start": 50,
+            "text_align": "center",
+            "text_align_top_mb": 90,
+            "text_align_start_mb": 50,
+            "text_align_mb": "center",
+            "banner-effect": "banner-effect1"
+          }
+        }
+      },
+      "block_order": [
+        "57a8bc99-d5a5-45a0-9689-e1ecbc8be8aa",
+        "552c8604-1cdc-4199-9dbc-5360251fdbb7",
+        "2430f9ec-6b52-4fcf-9b1e-8dce04b9dec5"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "layout_mode": "normal",
+        "grid_gutter": 10,
+        "border_radius": 3,
+        "css_section": ""
+      }
+    },
+    "1636333926b834d787": {
+      "type": "rd_prds_sc_slide",
+      "blocks": {
+        "1636333926b834d787-0": {
+          "type": "item",
+          "settings": {
+            "title_style": "underline",
+            "title": "Our Featured",
+            "stitle": "",
+            "link_to": "",
+            "name_link": "VIEW MORE<i class=\"d-icon-arrow-right\"><\/i>",
+            "margin_btitle": 20,
+            "products": "best-sellers-h11",
+            "limit": 8,
+            "load_btn": false,
+            "style_btn": "btn-dark btn-outline",
+            "style_btn_rounded": "",
+            "btn_shadow": false,
+            "autoplay": false,
+            "use_navigation": false,
+            "nav_style": "-default",
+            "nav_mode": "default",
+            "nav_position": "nav-default",
+            "use_dots": true,
+            "dots_mode": "primary",
+            "dots_position": "outside",
+            "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1.3,\n    \"spaceBetween\": 20\n  },\n  \"375\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1500\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  }\n}"
+          }
+        }
+      },
+      "block_order": [
+        "1636333926b834d787-0"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "use_lazyload": false
+      }
+    },
+    "16466467361b437834": {
+      "type": "rd_video_banner_1",
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "80px 0|80px 0|80px 0|80px 0|125px 0",
+        "section_bg": "",
+        "image": "shopify:\/\/shop_images\/banner_41fe7cec-7864-4e3a-8a02-82078c7b344e.jpg",
+        "titlex": "BRAND EXPERIENCE",
+        "stitle": "PREMIUM FOR THE PROS 2022",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=YbJOTdZBX1g",
+        "btn_style": "thin",
+        "css": ""
+      }
+    },
+    "1634694028f2fa928a": {
+      "type": "rd_blog",
+      "blocks": {
+        "7ad7449c-9a9e-4f08-bf7d-64251e5ab8c9": {
+          "type": "title",
+          "settings": {
+            "title_style": "underline",
+            "title": "Latest News",
+            "stitle": "",
+            "link_to": "shopify:\/\/blogs\/grid-3-columns",
+            "name_link": "VIEW MORE<i class=\"d-icon-arrow-right\"><\/i>",
+            "margin_btitle": 20
+          }
+        },
+        "f63250ff-0391-4b93-9341-b5f0724316cd": {
+          "type": "2",
+          "settings": {
+            "blog": "grid-3-columns",
+            "limit": 8,
+            "load_btn": false,
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "",
+            "btn_shadow": false
+          }
+        }
+      },
+      "block_order": [
+        "7ad7449c-9a9e-4f08-bf7d-64251e5ab8c9",
+        "f63250ff-0391-4b93-9341-b5f0724316cd"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "fweight_title": "600",
+        "fsize_stitle": 1.8,
+        "color_title": "#333333",
+        "margin_btitle": 0.8,
+        "fweight_description": "300",
+        "fsize_description": 1.4,
+        "color_desc": "#999999",
+        "margin_bdescription": 0.8,
+        "use_lazyload": false,
+        "autoplay": false,
+        "use_navigation": false,
+        "nav_style": "-default",
+        "nav_mode": "default",
+        "nav_position": "nav-default",
+        "use_dots": false,
+        "dots_mode": "default",
+        "dots_position": "outside",
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 20\n  },\n  \"480\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  }\n}",
+        "css_section": ""
+      }
+    },
+    "1636334307aa1c0b6d": {
+      "type": "kt_banner_flexible",
+      "blocks": {
+        "fbcce78f-dd23-4718-b928-b8f9f977389a": {
+          "type": "it_banner",
+          "settings": {
+            "title": "Banner item",
+            "width": 12,
+            "width_sm": 0,
+            "width_md": 0,
+            "width_lg": 0,
+            "width_xl": 0,
+            "width_xxl": 0,
+            "image": "shopify:\/\/shop_images\/cta.jpg",
+            "image_mb": "shopify:\/\/shop_images\/ctamb.jpg",
+            "image_link": "",
+            "blank_link": false,
+            "desc": "UP TO 15% DISCOUNT",
+            "color_desc": "#ffffff",
+            "titlex": "FOR FITNESS COLLECTION",
+            "color_titlex": "#ffffff",
+            "stitle": "",
+            "color_stitle": "#ffffff",
+            "name_btn": "SHOP NOW<i class=\"d-icon-arrow-right\"><\/i>",
+            "style_btn": "btn-primary",
+            "style_btn_rounded": "btn-rounded",
+            "btn_shadow": false,
+            "name_btn_2": "",
+            "image_link_2": "",
+            "style_btn_2": "btn-primary",
+            "style_btn_rounded_2": "",
+            "btn_shadow_2": false,
+            "text_align_top": 50,
+            "text_align_start": 50,
+            "text_align": "center",
+            "text_align_top_mb": 50,
+            "text_align_start_mb": 50,
+            "text_align_mb": "center",
+            "banner-effect": "banner-effect1"
+          }
+        }
+      },
+      "block_order": [
+        "fbcce78f-dd23-4718-b928-b8f9f977389a"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "30px",
+        "section_padding": "",
+        "section_bg": "",
+        "layout_mode": "normal",
+        "grid_gutter": 10,
+        "border_radius": 3,
+        "css_section": ".section_id .item_1 .desc{\n    font-size: 1.500em;\n}\n.section_id .item_1 .titlex {\n    margin-top: 5px;\n    font-size: 2.500em;\n    font-weight: 700;\n    letter-spacing: -2px;\n}\n\n@media(max-width: 576px){\n.section_id .item_1 .titlex {\n    font-size: 28px;\n}\n}"
+      }
+    },
+    "1636275698eeed2908": {
+      "type": "rd_prds_sc_list",
+      "blocks": {
+        "1636275698eeed2908-0": {
+          "type": "item",
+          "settings": {
+            "title": "Sale Products",
+            "product_list": [
+              "comfortable-brown-scarf",
+              "chuck-taylor-all-star",
+              "beyond-riode-original-t-shirt"
+            ]
+          }
+        },
+        "1636275698eeed2908-1": {
+          "type": "item",
+          "settings": {
+            "title": "Latest Products",
+            "product_list": [
+              "hand-electric-cell",
+              "converse-season-shoes",
+              "fashion-women-handbag"
+            ]
+          }
+        },
+        "1636275698eeed2908-2": {
+          "type": "item",
+          "settings": {
+            "title": "Best of the Week",
+            "product_list": [
+              "season-sports-blue-sneaker",
+              "solid-pattern-in-fashion-summer-dress",
+              "mountain-climbing-bags"
+            ]
+          }
+        },
+        "1636275698eeed2908-3": {
+          "type": "item",
+          "settings": {
+            "title": "Popular",
+            "product_list": [
+              "fashion-electric-wrist-watch",
+              "women-beautiful-clothing",
+              "women-s-fashional-handbag"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "1636275698eeed2908-0",
+        "1636275698eeed2908-1",
+        "1636275698eeed2908-2",
+        "1636275698eeed2908-3"
+      ],
+      "settings": {
+        "sc_display": "",
+        "sc_width": "w-100 | container",
+        "section_margin_top": "",
+        "section_margin_bottom": "60px",
+        "section_padding": "",
+        "section_bg": "",
+        "use_lazyload": false,
+        "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1.3,\n    \"spaceBetween\": 20\n  },\n  \"375\": {\n    \"slidesPerView\": 1.3,\n    \"spaceBetween\": 20\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1500\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  }\n}"
+      }
+    }
+  },
+  "order": [
+    "1636168033f185e383",
+    "16361859527a526cba",
+    "1635951743130493b4",
+    "16363310631899739a",
+    "1636333926b834d787",
+    "16466467361b437834",
+    "1634694028f2fa928a",
+    "1636334307aa1c0b6d",
+    "1636275698eeed2908"
+  ]
+}
